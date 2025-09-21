@@ -1,2788 +1,2787 @@
 [
-    {
-    "name": "حساء القرع الأصفر",
-    "category": "soup",
-    "ingredients": [
-      { "name": "قرع", "amountKg": 0.5 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "زنجبيل", "amountKg": 0.01 },
-      { "name": "الزبده", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي القرع مع البصل والزنجبيل، اهرسيه وأضيفي الزبدة."
-  },
   {
-    "name": "خضار مقطعة للسلطة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "خس", "amountKg": 0.15 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "البصل_ابيض", "amountKg": 0.05 }
-    ],
-    "instructions": "قطعي جميع الخضار قطع صغيرة واخلطيها معاً للحصول على سلطة منعشة."
-  },
-  {
-    "name": "لحم غنم بالبرقوق المجفف",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.6 },
-      { "name": "برقوق_احمر", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "قرنفل", "amountKg": 0.003 }
-    ],
-    "instructions": "اطبخي اللحم مع البصل، أضيفي البرقوق والقرنفل واتركي ينضج."
-  },
-  {
-    "name": "عصير الفواكه المختلطة",
-    "category": "drink",
-    "ingredients": [
-      { "name": "برتقال", "amountKg": 0.3 },
-      { "name": "تفاح", "amountKg": 0.2 },
-      { "name": "موز", "amountKg": 0.15 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "اخلطي جميع الفواكه مع العسل في الخلاط للحصول على عصير غني."
-  },
-  {
-    "name": "حلوى اللوز والتمر",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "تمر", "amountKg": 0.3 },
-      { "name": "دقيق_جوز_الهند", "amountKg": 0.15 },
-      { "name": "عسل", "amountKg": 0.08 },
-      { "name": "سكر_بودرة", "amountKg": 0.05 }
-    ],
-    "instructions": "اهرسي التمر، اخلطيه مع دقيق جوز الهند والعسل، شكلي كرات ولفيها بالسكر."
-  },
-  {
-    "name": "خلطة الفلافل المغربية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "قزبر", "amountKg": 0.03 },
-      { "name": "فلفلحار", "amountKg": 0.01 },
-      { "name": "الثوم", "amountKg": 0.05 }
-    ],
-    "instructions": "اطحني التوابل مع الثوم للحصول على خلطة الفلافل المغربي."
-  },
-  {
-    "name": "سلطة الكرنب الأبيض",
-    "category": "health",
-    "ingredients": [
-      { "name": "ملفوف", "amountKg": 0.4 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اقطعي الملفوف والجزر رفيعاً، تبلي بعصير الليمون والمعدنوس."
-  },
-  {
-    "name": "شوربة الحمص بالخضار",
-    "category": "soup",
-    "ingredients": [
-      { "name": "حمص", "amountKg": 0.25 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "اسلقي الحمص مع الخضار والكمون حتى تنضج جميع المكونات."
-  },
-  {
-    "name": "وجبة خفيفة صحية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "بروكلي", "amountKg": 0.2 },
-      { "name": "قرنبيط", "amountKg": 0.2 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 },
-      { "name": "الملح", "amountKg": 0.002 }
-    ],
-    "instructions": "اسلقي الخضار على البخار، قدميها مع عصير الليمون ورشة ملح."
-  },
-  {
-    "name": "سمك مشوي بالليمون",
-    "category": "normal",
-    "ingredients": [
-      { "name": "سردين", "amountKg": 0.6 },
-      { "name": "ليمون_اسفر", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "الثوم", "amountKg": 0.02 }
-    ],
-    "instructions": "نظفي السردين، تبليه بعصير الليمون والثوم والمعدنوس، اشويه."
-  },
-  {
-    "name": "مشروب الرمان الطبيعي",
-    "category": "drink",
-    "ingredients": [
-      { "name": "رمان", "amountKg": 0.5 },
-      { "name": "نعناع", "amountKg": 0.01 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "استخرجي عصير الرمان، أضيفي النعناع المدقوق والعسل."
-  },
-  {
-    "name": "كنافة بالقشطة والعسل",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
-      { "name": "الحليب", "amountKg": 0.4 },
-      { "name": "عسل", "amountKg": 0.12 },
-      { "name": "الزبده", "amountKg": 0.08 }
-    ],
-    "instructions": "حضري عجينة الكنافة، احشيها بالقشطة المحضرة من الحليب، اسقيها بالعسل."
-  },
-  {
-    "name": "توابل الأسماك المتوسطية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "قزبر", "amountKg": 0.03 },
-      { "name": "كمون", "amountKg": 0.025 },
-      { "name": "فلفلاسود", "amountKg": 0.015 },
-      { "name": "زعفران", "amountKg": 0.002 }
-    ],
-    "instructions": "اخلطي التوابل معاً لتتبيل الأسماك على الطريقة المتوسطية."
-  },
-  {
-    "name": "سلطة الجزر بالزبيب",
-    "category": "health",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.35 },
-      { "name": "زبيب", "amountKg": 0.06 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "ابشري الجزر، أضيفي الزبيب وعصير الليمون والنعناع المفروم."
-  },
-  {
-    "name": "حساء الشعير بالدجاج",
-    "category": "soup",
-    "ingredients": [
-      { "name": "دقيق_شعير", "amountKg": 0.2 },
-      { "name": "دجاج", "amountKg": 0.3 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الدجاج، أضيفي الشعير والجزر، زيني بالمعدنوس."
-  },
-  {
-    "name": "طبق الخضار المسلوقة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "فلفل_احمر", "amountKg": 0.15 },
-      { "name": "فلفل_اصفر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "اسلقي الخضار حتى تنضج، قدميها مع النعناع الطازج."
-  },
-  {
-    "name": "طاجين الكفتة بالطماطم",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_البقر", "amountKg": 0.5 },
-      { "name": "طماطم", "amountKg": 0.3 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "فلفلاسود", "amountKg": 0.005 }
-    ],
-    "instructions": "شكلي الكفتة كرات، ضعيها في طاجين مع الطماطم والبصل والفلفل."
-  },
-  {
-    "name": "عصير الخضار الطازج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 }
-    ],
-    "instructions": "اعصري الجزر والطماطم، أضيفي المعدنوس وعصير الليمون."
-  },
-  {
-    "name": "حلوى الشوفان بالعسل",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_شوفان", "amountKg": 0.25 },
-      { "name": "عسل", "amountKg": 0.1 },
-      { "name": "الحليب", "amountKg": 0.2 },
-      { "name": "الزبده", "amountKg": 0.05 }
-    ],
-    "instructions": "اطبخي الشوفان مع الحليب، أضيفي العسل والزبدة، شكلي كرات."
-  },
-  {
-    "name": "خليط البهار المغربي الكامل",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زعفران", "amountKg": 0.003 },
-      { "name": "زنجبيل", "amountKg": 0.025 },
-      { "name": "قرنفل", "amountKg": 0.02 },
-      { "name": "هيل", "amountKg": 0.02 },
-      { "name": "جوزطيب", "amountKg": 0.015 },
-      { "name": "حلبة", "amountKg": 0.02 },
-      { "name": "يانسون", "amountKg": 0.015 }
-    ],
-    "instructions": "اطحني جميع التوابل معاً للحصول على خليط البهار المغربي الكامل."
-  },
-  {
-    "name": "سلطة الطحالب البحرية",
-    "category": "health",
-    "ingredients": [
-      { "name": "السبانخ", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "زنجبيل", "amountKg": 0.005 }
-    ],
-    "instructions": "اقطفي أوراق السبانخ الصغيرة، أضيفي الطماطم وعصير الليمون والزنجبيل."
-  },
-  {
-    "name": "شوربة العدس بالكمون",
-    "category": "soup",
-    "ingredients": [
-      { "name": "عدس", "amountKg": 0.3 },
-      { "name": "كمون", "amountKg": 0.008 },
-      { "name": "الثوم", "amountKg": 0.025 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 }
-    ],
-    "instructions": "اسلقي العدس مع الكمون والثوم والبصل حتى ينضج جيداً."
-  },
-  {
-    "name": "خضار نيئة للوجبات الخفيفة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "خيار", "amountKg": 0.15 },
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار أعواد صغيرة، قدميها مع المعدنوس للتزيين."
-  },
-  {
-    "name": "سمك مقلي بالدقيق",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الصومو", "amountKg": 0.6 },
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.1 },
-      { "name": "كمون", "amountKg": 0.005 },
-      { "name": "الملح", "amountKg": 0.008 }
-    ],
-    "instructions": "نظفي السمك، اخلطي الدقيق مع الكمون والملح، غلفي السمك واقليه."
-  },
-  {
-    "name": "مشروب اليانسون الدافئ",
-    "category": "drink",
-    "ingredients": [
-      { "name": "يانسون", "amountKg": 0.02 },
-      { "name": "عسل", "amountKg": 0.04 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "اغلي اليانسون، أضيفي العسل وعصير الليمون، قدميه ساخناً."
-  },
-  {
-    "name": "بسكويت الشوفان المنزلي",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_شوفان", "amountKg": 0.2 },
-      { "name": "سكر_بني", "amountKg": 0.1 },
-      { "name": "الزبده", "amountKg": 0.08 },
-      { "name": "عسل", "amountKg": 0.05 }
-    ],
-    "instructions": "اخلطي الشوفان مع السكر والزبدة والعسل، شكلي بسكويت واخبزيه."
-  },
-  {
-    "name": "توابل الخضار المشوية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلاسود", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.025 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "الثوم", "amountKg": 0.04 }
-    ],
-    "instructions": "اخلطي التوابل مع المعدنوس المجفف والثوم لتتبيل الخضار."
-  },
-  {
-    "name": "سلطة البنجر الأحمر",
-    "category": "health",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.4 },
-      { "name": "معدنوس", "amountKg": 0.025 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي البنجر وقشريه وقطعيه، أضيفي المعدنوس وعصير الليمون والملح."
-  },
-  {
-    "name": "حساء الكسكس التقليدي",
-    "category": "soup",
-    "ingredients": [
-      { "name": "كسكس", "amountKg": 0.25 },
-      { "name": "دجاج", "amountKg": 0.3 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 }
-    ],
-    "instructions": "حضري مرقة الدجاج، أضيفي الخضار، قدمي الكسكس المطبوخ مع المرقة."
-  },
-  {
-    "name": "طبق البقوليات المسلوقة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "حمص", "amountKg": 0.15 },
-      { "name": "عدس", "amountKg": 0.15 },
-      { "name": "لوبيا", "amountKg": 0.15 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "انقعي البقوليات واسلقيها مع الكمون حتى تنضج."
-  },
-  {
-    "name": "كروفيت مسلوق بالتوابل",
-    "category": "normal",
-    "ingredients": [
-      { "name": "كروفيت", "amountKg": 0.5 },
-      { "name": "غار", "amountKg": 0.005 },
-      { "name": "فلفلاسود", "amountKg": 0.003 },
-      { "name": "الملح", "amountKg": 0.008 }
-    ],
-    "instructions": "اسلقي الكروفيت مع ورق الغار والفلفل والملح حتى ينضج."
-  },
-  {
-    "name": "عصير الليمون الطازج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "ليمون_اخضر", "amountKg": 0.2 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "سكر_أبيض", "amountKg": 0.05 }
-    ],
-    "instructions": "اعصري الليمون، أضيفي النعناع المدقوق والسكر، اخلطي بالماء البارد."
-  },
-  {
-    "name": "تارت التفاح المغربية",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.5 },
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.25 },
-      { "name": "سكر_أبيض", "amountKg": 0.12 },
-      { "name": "الزبده", "amountKg": 0.1 }
-    ],
-    "instructions": "حضري عجينة التارت، قطعي التفاح واخبزي مع السكر والزبدة."
-  },
-  {
-    "name": "بهار الملوخية الخاص",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "قزبر", "amountKg": 0.03 },
-      { "name": "الثوم", "amountKg": 0.06 },
-      { "name": "فلفلاسود", "amountKg": 0.015 }
-    ],
-    "instructions": "اطحني التوابل مع الثوم للحصول على خلطة خاصة بالملوخية."
-  },
-  {
-    "name": "سلطة الأعشاب البرية",
-    "category": "health",
-    "ingredients": [
-      { "name": "قصبر_معدنوس", "amountKg": 0.2 },
-      { "name": "نعناع", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.04 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "افرمي الأعشاب ناعماً، تبلي بعصير الليمون والملح."
-  },
-  {
-    "name": "شوربة الفول المدشوش",
-    "category": "soup",
-    "ingredients": [
-      { "name": "فول", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "الثوم", "amountKg": 0.03 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "انقعي الفول واسلقيه، أضيفي الطماطم والثوم والكمون."
-  },
-  {
-    "name": "وجبة الإفطار الصحية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "دقيق_شوفان", "amountKg": 0.1 },
-      { "name": "موز", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.03 },
-      { "name": "الحليب", "amountKg": 0.2 }
-    ],
-    "instructions": "اطبخي الشوفان مع الحليب، أضيفي الموز المهروس والعسل."
-  },
-  {
-    "name": "طاجين السمك بالزيتون",
-    "category": "normal",
-    "ingredients": [
-      { "name": "القرش", "amountKg": 0.6 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "قزبر", "amountKg": 0.01 }
-    ],
-    "instructions": "ضعي السمك في طاجين مع الطماطم والبصل والكزبرة."
-  },
-  {
-    "name": "مشروب الحلبة الدافئ",
-    "category": "drink",
-    "ingredients": [
-      { "name": "حلبة", "amountKg": 0.02 },
-      { "name": "عسل", "amountKg": 0.04 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "انقعي الحلبة، اغليها وأضيفي العسل وعصير الليمون."
-  },
-  {
-    "name": "حلوى الجزر بالحليب",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.4 },
-      { "name": "الحليب", "amountKg": 0.5 },
-      { "name": "سكر_أبيض", "amountKg": 0.15 },
-      { "name": "هيل", "amountKg": 0.003 }
-    ],
-    "instructions": "ابشري الجزر، اطبخيه مع الحليب والسكر والهيل حتى يثخن."
-  },
-  {
-    "name": "مزيج التوابل العربية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "هيل", "amountKg": 0.025 },
-      { "name": "قرنفل", "amountKg": 0.02 },
-      { "name": "جوزطيب", "amountKg": 0.015 },
-      { "name": "فلفلابيض", "amountKg": 0.02 }
-    ],
-    "instructions": "اطحني التوابل معاً للحصول على مزيج البهارات العربي."
-  },
-  {
-    "name": "سلطة الفاصوليا الحمراء",
-    "category": "health",
-    "ingredients": [
-      { "name": "لوبيا", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الفاصوليا، أضيفي الطماطم والبصل والمعدنوس المفروم."
-  },
-  {
-    "name": "شوربة القمح بالحليب",
-    "category": "soup",
-    "ingredients": [
-      { "name": "قمح", "amountKg": 0.25 },
-      { "name": "الحليب", "amountKg": 0.4 },
-      { "name": "سكر_أبيض", "amountKg": 0.08 },
-      { "name": "الزبده", "amountKg": 0.03 }
-    ],
-    "instructions": "اسلقي القمح حتى ينضج، أضيفي الحليب والسكر والزبدة."
-  },
-  {
-    "name": "خضار مشكلة للرجيم",
-    "category": "diet",
-    "ingredients": [
-      { "name": "السبانخ", "amountKg": 0.15 },
-      { "name": "ملوخية", "amountKg": 0.15 },
-      { "name": "الكرافس", "amountKg": 0.1 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "اسلقي الخضار الورقية على البخار، قدميها مع النعناع الطازج."
-  },
-  {
-    "name": "لحم مشوي بالفرن",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.8 },
-      { "name": "الثوم", "amountKg": 0.04 },
-      { "name": "قزبر", "amountKg": 0.015 },
-      { "name": "فلفلاسود", "amountKg": 0.008 }
-    ],
-    "instructions": "تبلي اللحم بالثوم والكزبرة والفلفل، اشويه في الفرن حتى ينضج."
-  },
-  {
-    "name": "عصير الجزر والبرتقال",
-    "category": "drink",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.3 },
-      { "name": "برتقال", "amountKg": 0.4 },
-      { "name": "زنجبيل", "amountKg": 0.005 }
-    ],
-    "instructions": "اعصري الجزر والبرتقال، أضيفي الزنجبيل المبشور."
-  },
-  {
-    "name": "حلوى السميد بالزبيب",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_سميد", "amountKg": 0.3 },
-      { "name": "زبيب", "amountKg": 0.1 },
-      { "name": "عسل", "amountKg": 0.12 },
-      { "name": "الحليب", "amountKg": 0.25 }
-    ],
-    "instructions": "حمصي السميد، أضيفي الحليب والعسل والزبيب، اطبخي حتى يثخن."
-  },
-  {
-    "name": "خليط بهار الشوي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلحار", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.035 },
-      { "name": "قزبر", "amountKg": 0.035 },
-      { "name": "الثوم", "amountKg": 0.06 }
-    ],
-    "instructions": "اخلطي التوابل مع الثوم المهروس لتتبيل اللحوم المشوية."
-  },
-  {
-    "name": "سلطة الخيار بالطماطم",
-    "category": "health",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.25 },
-      { "name": "طماطم", "amountKg": 0.25 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الخيار والطماطم، أضيفي النعناع وعصير الليمون."
-  },
-  {
-    "name": "حساء الكوسة بالأرز",
-    "category": "soup",
-    "ingredients": [
-      { "name": "كوسة", "amountKg": 0.4 },
-      { "name": "ارز", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الكوسة مع الأرز والبصل، زيني بالمعدنوس."
-  },
-  {
-    "name": "سناك الجزر المسلوق",
-    "category": "diet",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.3 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 },
-      { "name": "الملح", "amountKg": 0.002 }
-    ],
-    "instructions": "اسلقي الجزر حتى ينضج، قدميه مع عصير الليمون ورشة ملح."
-  },
-  {
-    "name": "سردين مقلي بالكزبرة",
-    "category": "normal",
-    "ingredients": [
-      { "name": "سردين", "amountKg": 0.6 },
-      { "name": "قزبر", "amountKg": 0.015 },
-      { "name": "الثوم", "amountKg": 0.025 },
-      { "name": "ليمون_اسفر", "amountKg": 0.04 }
-    ],
-    "instructions": "نظفي السردين، تبليه بالكزبرة والثوم وعصير الليمون، اقليه."
-  },
-  {
-    "name": "مشروب التفاح الساخن",
-    "category": "drink",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.5 },
-      { "name": "قرنفل", "amountKg": 0.003 },
-      { "name": "عسل", "amountKg": 0.05 }
-    ],
-    "instructions": "اسلقي التفاح المقطع مع القرنفل، أضيفي العسل للتحلية."
-  },
-  {
-    "name": "مربى العنب الأحمر",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "عنب", "amountKg": 0.8 },
-      { "name": "سكر_أبيض", "amountKg": 0.5 },
-      { "name": "ليمون_اسفر", "amountKg": 0.06 }
-    ],
-    "instructions": "اطبخي العنب مع السكر وعصير الليمون حتى يثخن ويصبح مربى."
-  },
-  {
-    "name": "توابل الكباب الشامي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلاسود", "amountKg": 0.025 },
-      { "name": "هيل", "amountKg": 0.02 },
-      { "name": "قرنفل", "amountKg": 0.015 },
-      { "name": "جوزطيب", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني التوابل معاً للحصول على خليط بهار الكباب الشامي."
-  },
-  {
-    "name": "سلطة الرقة والجرجير",
-    "category": "health",
-    "ingredients": [
-      { "name": "قصبر_معدنوس", "amountKg": 0.15 },
-      { "name": "خس", "amountKg": 0.1 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "اخلطي الأوراق الخضراء مع الطماطم وعصير الليمون."
-  },
-  {
-    "name": "شوربة الطماطم الكريمية",
-    "category": "soup",
-    "ingredients": [
-      { "name": "طماطم", "amountKg": 0.6 },
-      { "name": "الحليب", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "فلفلابيض", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي الطماطم والبصل، اهرسيها وأضيفي الحليب والفلفل الأبيض."
-  },
-  {
-    "name": "طبق خضار مطهوة بالقليل من الماء",
-    "category": "diet",
-    "ingredients": [
-      { "name": "باذنجان", "amountKg": 0.2 },
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "فلفل_احمر", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.015 }
-    ],
-    "instructions": "قطعي الخضار واطبخيها بقليل من الماء مع الثوم."
-  },
-  {
-    "name": "طاجين الدجاج بالخضار",
-    "category": "normal",
-    "ingredients": [
-      { "name": "دجاج", "amountKg": 0.7 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "بطاطس_بيضاء", "amountKg": 0.2 },
-      { "name": "زعفران", "amountKg": 0.003 }
-    ],
-    "instructions": "ضعي الدجاج والخضار في طاجين مع الزعفران، اطبخي على نار هادئة."
-  },
-  {
-    "name": "عصير الشاي الأخضر المثلج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "شاي_أخضر", "amountKg": 0.02 },
-      { "name": "نعناع", "amountKg": 0.03 },
-      { "name": "ليمون_اسفر", "amountKg": 0.05 },
-      { "name": "عسل", "amountKg": 0.04 }
-    ],
-    "instructions": "حضري الشاي الأخضر بالنعناع، أضيفي الليمون والعسل، قدميه بارداً."
-  },
-  {
-    "name": "حلاوة اللوز بالعسل",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_جوز_الهند", "amountKg": 0.25 },
-      { "name": "عسل", "amountKg": 0.15 },
-      { "name": "الحليب", "amountKg": 0.1 },
-      { "name": "هيل", "amountKg": 0.003 }
-    ],
-    "instructions": "اخلطي دقيق جوز الهند مع العسل والحليب والهيل، شكلي حلويات."
-  },
-  {
-    "name": "خليط الدقة المغربية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "الملح", "amountKg": 0.1 },
-      { "name": "كمون", "amountKg": 0.06 },
-      { "name": "قزبر", "amountKg": 0.05 },
-      { "name": "فلفلحار", "amountKg": 0.02 }
-    ],
-    "instructions": "اطحني جميع المكونات معاً للحصول على الدقة المغربية الأصيلة."
-  },
-  {
-    "name": "سلطة الفلفل الحلو",
-    "category": "health",
-    "ingredients": [
-      { "name": "فلفل_اصفر", "amountKg": 0.2 },
-      { "name": "فلفل_احمر", "amountKg": 0.2 },
-      { "name": "معدنوس", "amountKg": 0.025 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الفلفل شرائح، أضيفي المعدنوس وعصير الليمون."
-  },
-  {
-    "name": "حساء الخضار الجذرية",
-    "category": "soup",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "اللفت_دائري", "amountKg": 0.15 },
-      { "name": "بطاطس_حمراء", "amountKg": 0.2 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار الجذرية واسلقيها، زيني بالمعدنوس المفروم."
-  },
-  {
-    "name": "وجبة البروكلي المسلوق",
-    "category": "diet",
-    "ingredients": [
-      { "name": "بروكلي", "amountKg": 0.4 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي البروكلي على البخار، قدميه مع عصير الليمون والملح."
-  },
-  {
-    "name": "سمك مشوي بالزعتر",
-    "category": "normal",
-    "ingredients": [
-      { "name": "القرش", "amountKg": 0.7 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "الثوم", "amountKg": 0.03 },
-      { "name": "ليمون_اسفر", "amountKg": 0.05 }
-    ],
-    "instructions": "تبلي السمك بالزعتر والثوم وعصير الليمون، اشويه في الفرن."
-  },
-  {
-    "name": "مشروب الكمون الدافئ",
-    "category": "drink",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.02 },
-      { "name": "عسل", "amountKg": 0.04 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اغلي الكمون، أضيفي العسل وعصير الليمون، قدميه ساخناً."
-  },
-  {
-    "name": "كيك الموز الرطب",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "موز", "amountKg": 0.4 },
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
-      { "name": "سكر_بني", "amountKg": 0.15 },
-      { "name": "الزبده", "amountKg": 0.1 }
-    ],
-    "instructions": "اهرسي الموز، اخلطيه مع الدقيق والسكر والزبدة، اخبزي في الفرن."
-  },
-  {
-    "name": "توابل الأرز المبهر",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زعفران", "amountKg": 0.003 },
-      { "name": "هيل", "amountKg": 0.02 },
-      { "name": "قرنفل", "amountKg": 0.015 },
-      { "name": "غار", "amountKg": 0.02 }
-    ],
-    "instructions": "اخلطي التوابل معاً لإضافة نكهة مميزة للأرز."
-  },
-  {
-    "name": "سلطة الباذنجان الصغير",
-    "category": "health",
-    "ingredients": [
-      { "name": "باذنجان", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اشوي الباذنجان الصغير، قطعيه وأضيفي الطماطم والثوم والمعدنوس."
-  },
-  {
-    "name": "شوربة الجزر بالزنجبيل",
-    "category": "soup",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.5 },
-      { "name": "زنجبيل", "amountKg": 0.015 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "الزبده", "amountKg": 0.03 }
-    ],
-    "instructions": "اسلقي الجزر مع البصل والزنجبيل، اهرسيها وأضيفي الزبدة."
-  },
-  {
-    "name": "طبق الفاصوليا الخضراء المسلوقة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "لوبيا", "amountKg": 0.4 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "اسلقي الفاصوليا، أضيفي الطماطم والبصل وعصير الليمون."
-  },
-  {
-    "name": "كفتة الديك الرومي المشوية",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_الديك_الرومي", "amountKg": 0.5 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "فلفلاسود", "amountKg": 0.005 }
-    ],
-    "instructions": "اخلطي الكفتة مع البصل والمعدنوس والفلفل، شكلي واشوي."
-  },
-  {
-    "name": "عصير الخوخ والمشمش",
-    "category": "drink",
-    "ingredients": [
-      { "name": "خوخ", "amountKg": 0.3 },
-      { "name": "مشمش", "amountKg": 0.3 },
-      { "name": "عسل", "amountKg": 0.04 }
-    ],
-    "instructions": "قطعي الخوخ والمشمش، اخلطيهما مع العسل في الخلاط."
-  },
-  {
-    "name": "حلوى الأرز المحلاة",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "ارز", "amountKg": 0.25 },
-      { "name": "الحليب", "amountKg": 0.6 },
-      { "name": "سكر_أبيض", "amountKg": 0.15 },
-      { "name": "الزبادي", "amountKg": 0.1 }
-    ],
-    "instructions": "اطبخي الأرز مع الحليب والسكر، أضيفي الزبادي عند البرودة."
-  },
-  {
-    "name": "بهار المحاشي الشامية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "فلفلاسود", "amountKg": 0.02 },
-      { "name": "هيل", "amountKg": 0.015 },
-      { "name": "قرنفل", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني التوابل معاً لتتبيل حشو المحاشي."
-  },
-  {
-    "name": "سلطة الكوسة النيئة المبشورة",
-    "category": "health",
-    "ingredients": [
-      { "name": "كوسة", "amountKg": 0.4 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.04 },
-      { "name": "نعناع", "amountKg": 0.015 }
-    ],
-    "instructions": "ابشري الكوسة والجزر، أضيفي عصير الليمون والنعناع."
-  },
-  {
-    "name": "حساء الدجاج بالأرز",
-    "category": "soup",
-    "ingredients": [
-      { "name": "دجاج", "amountKg": 0.4 },
-      { "name": "ارز", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.025 }
-    ],
-    "instructions": "اسلقي الدجاج، أضيفي الأرز والجزر، زيني بالمعدنوس."
-  },
-  {
-    "name": "وجبة القرنبيط المسلوق",
-    "category": "diet",
-    "ingredients": [
-      { "name": "قرنبيط", "amountKg": 0.5 },
-      { "name": "كمون", "amountKg": 0.003 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اسلقي القرنبيط مع الكمون، قدميه مع عصير الليمون."
-  },
-  {
-    "name": "سلمون مشوي بالأعشاب",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الصومو", "amountKg": 0.6 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "الثوم", "amountKg": 0.025 }
-    ],
-    "instructions": "تبلي السلمون بالأعشاب والثوم، اشويه حتى ينضج."
-  },
-  {
-    "name": "مشروب النعناع المثلج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "نعناع", "amountKg": 0.05 },
-      { "name": "ليمون_اخضر", "amountKg": 0.08 },
-      { "name": "عسل", "amountKg": 0.06 }
-    ],
-    "instructions": "اخلطي النعناع مع عصير الليمون والعسل، قدميه مع الثلج."
-  },
-  {
-    "name": "تشيز كيك بالفراولة",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "فراولة", "amountKg": 0.3 },
-      { "name": "الجبنه", "amountKg": 0.4 },
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
-      { "name": "سكر_بودرة", "amountKg": 0.15 }
-    ],
-    "instructions": "حضري قاعدة من الدقيق، اخلطي الجبن مع السكر والفراولة، اخبزي."
-  },
-  {
-    "name": "خلطة الفول المدمس",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.04 },
-      { "name": "قزبر", "amountKg": 0.04 },
-      { "name": "الثوم", "amountKg": 0.08 },
-      { "name": "فلفلحار", "amountKg": 0.015 }
-    ],
-    "instructions": "اطحني التوابل مع الثوم للحصول على خلطة الفول المدمس."
-  },
-  {
-    "name": "سلطة الخس الأخضر",
-    "category": "health",
-    "ingredients": [
-      { "name": "خس", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "خيار", "amountKg": 0.15 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الخضار واخلطيها مع عصير الليمون للحصول على سلطة منعشة."
-  },
+  "name": "حساء القرع الأصفر",
+  "category": "soup",
+  "ingredients": [
+    { "name": "قرع", "amountKg": 0.5 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "زنجبيل", "amountKg": 0.01 },
+    { "name": "الزبده", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي القرع مع البصل والزنجبيل، اهرسيه وأضيفي الزبدة."
+},
 {
-    "name": "سلطة الطماطم بالجزر",
-    "category": "health",
-    "ingredients": [
-      { "name": "طماطم", "amountKg": 0.3 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "خس", "amountKg": 0.1 },
-      { "name": "الملح", "amountKg": 0.005 }
-    ],
-اغسلي الطماطم والجزر والخس جيداً، قطعي الطماطم مكعبات والجزر شرائح رفيعة، اخلطي المكونات ورشي الملح."
-  },
-  {
-    "name": "شوربة البطاطس بالكوسة",
-    "category": "soup",
-    "ingredients": [
-      { "name": "بطاطس_بيضاء", "amountKg": 0.4 },
-      { "name": "كوسة", "amountKg": 0.3 },
-      { "name": "كمون", "amountKg": 0.003 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي البطاطس والكوسة مع الكمون، ثم اهرسيها واتركيها تنضج، زيني بالمعدنوس المفروم."
-  },
-  {
-    "name": "طاجين الدجاج بالباذنجان",
-    "category": "normal",
-    "ingredients": [
-      { "name": "دجاج", "amountKg": 0.6 },
-      { "name": "باذنجان", "amountKg": 0.4 },
-      { "name": "التحميرا", "amountKg": 0.01 },
-      { "name": "الثوم", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الدجاج والباذنجان، اقلي الثوم مع التحميرة، أضيفي الدجاج والباذنجان واطبخي على نار هادئة."
-  },
-  {
-    "name": "عصير التفاح بالعنب",
-    "category": "drink",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.3 },
-      { "name": "عنب", "amountKg": 0.2 }
-    ],
-    "instructions": "اغسل التفاح والعنب جيداً، قطع التفاح واخلطه مع العنب في الخلاط حتى يصبح عصيراً ناعماً."
-  },
-  {
-    "name": "حلوى التمر بالعسل",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "تمر", "amountKg": 0.3 },
-      { "name": "عسل", "amountKg": 0.1 },
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 }
-    ],
-    "instructions": "انزعي نوى التمر واهرسيه، اخلطيه مع العسل والدقيق، شكلي كرات صغيرة واتركيها تجف."
-  },
-  {
-    "name": "خليط التوابل المغربي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.05 },
-      { "name": "زعفران", "amountKg": 0.005 },
-      { "name": "قرنفل", "amountKg": 0.01 },
-      { "name": "جوزطيب", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني جميع التوابل معاً واحفظيها في وعاء محكم الإغلاق لاستخدامها في الطبخ."
-  },
-  {
-    "name": "سلطة الجزر المبشور",
-    "category": "diet",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.4 },
-      { "name": "ليمون_اسفر", "amountKg": 0.05 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "ابشري الجزر ناعماً، أضيفي عصير الليمون والمعدنوس المفروم، اخلطي جيداً."
-  },
-  {
-    "name": "طاجين اللحم بالقرع",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.5 },
-      { "name": "قرع", "amountKg": 0.4 },
-      { "name": "قرنفل", "amountKg": 0.002 },
-      { "name": "غار", "amountKg": 0.003 }
-    ],
-    "instructions": "قطع اللحم والقرع مكعبات، ضع المكونات مع القرنفل وورق الغار في طاجين واتركها تطبخ ببطء."
-  },
-  {
-    "name": "شوربة العدس المغربية",
-    "category": "soup",
-    "ingredients": [
-      { "name": "عدس", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "انقعي العدس، اسلقيه مع الطماطم والثوم والكمون، اهرسي الخليط للحصول على قوام كريمي."
-  },
-  {
-    "name": "سلطة الفاصوليا الخضراء",
-    "category": "health",
-    "ingredients": [
-      { "name": "لوبيا", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "يانسون", "amountKg": 0.002 },
-      { "name": "الملح", "amountKg": 0.005 }
-    ],
-    "instructions": "اسلقي الفاصوليا حتى تنضج، اتركيها تبرد ثم اخلطيها مع الطماطم المقطعة والملح واليانسون."
-  },
-  {
-    "name": "كسكس بالخضار",
-    "category": "normal",
-    "ingredients": [
-      { "name": "كسكس", "amountKg": 0.4 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "قرنبيط", "amountKg": 0.2 }
-    ],
-    "instructions": "حضري الكسكس على البخار، اسلقي الخضار واخلطيها مع الكسكس المطبوخ."
-  },
-  {
-    "name": "شاي بالزنجبيل والنعناع",
-    "category": "drink",
-    "ingredients": [
-      { "name": "زنجبيل", "amountKg": 0.01 },
-      { "name": "نعناع", "amountKg": 0.015 },
-      { "name": "شاي_أخضر", "amountKg": 0.01 }
-    ],
-    "instructions": "اغلي الماء وأضف الزنجبيل المقطع والنعناع والشاي الأخضر، دع المزيج ينقع 7 دقائق ثم قدمه ساخناً."
-  },
-  {
-    "name": "سمك السردين المشوي",
-    "category": "normal",
-    "ingredients": [
-      { "name": "سردين", "amountKg": 0.5 },
-      { "name": "زنجبيل", "amountKg": 0.01 },
-      { "name": "فلفلاسود", "amountKg": 0.003 },
-      { "name": "نعناع", "amountKg": 0.02 }
-    ],
-    "instructions": "نظفي السردين وتبليه بالزنجبيل والفلفل الأسود، اشويه واقدميه مع النعناع الطازج."
-  },
-  {
-    "name": "حساء الحمص بالكمون",
-    "category": "soup",
-    "ingredients": [
-      { "name": "حمص", "amountKg": 0.3 },
-      { "name": "كمون", "amountKg": 0.005 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "انقعي الحمص ليلة كاملة، اطبخيه مع الكمون والثوم، اهرسي نصف الكمية وزيني بالمعدنوس."
-  },
-  {
-    "name": "سلطة الشمندر بالجزر",
-    "category": "diet",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.3 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي اللفت والجزر، قطعيهما مكعبات، أضيفي عصير الليمون والملح."
-  },
-  {
-    "name": "طاجين الديك الرومي بالبرقوق",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الديك_الرومي", "amountKg": 0.7 },
-      { "name": "برقوق_احمر", "amountKg": 0.2 },
-      { "name": "قرنفل", "amountKg": 0.003 },
-      { "name": "زعفران", "amountKg": 0.002 }
-    ],
-    "instructions": "قطعي لحم الديك الرومي، ضعيه في طاجين مع البرقوق والتوابل، اطبخي على نار هادئة."
-  },
-  {
-    "name": "عصير الموز بالبرتقال",
-    "category": "drink",
-    "ingredients": [
-      { "name": "موز", "amountKg": 0.2 },
-      { "name": "برتقال", "amountKg": 0.3 }
-    ],
-    "instructions": "قشر الموز واعصر البرتقال، اخلط الموز مع عصير البرتقال في الخلاط للحصول على مشروب كريمي."
-  },
-  {
-    "name": "حلاوة الطحينة بالعسل",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_سميد", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.1 },
-      { "name": "سكر_أبيض", "amountKg": 0.05 }
-    ],
-    "instructions": "حمصي السميد، اخلطيه مع العسل والسكر، شكلي كرات واتركيها تبرد."
-  },
-  {
-    "name": "رز بالزعفران",
-    "category": "normal",
-    "ingredients": [
-      { "name": "ارز", "amountKg": 0.4 },
-      { "name": "زعفران", "amountKg": 0.002 },
-      { "name": "الملح", "amountKg": 0.005 }
-    ],
-    "instructions": "انقعي الزعفران في ماء دافئ، اطبخي الأرز مع ماء الزعفران والملح."
-  },
-  {
-    "name": "سلطة الخس بالطماطم",
-    "category": "health",
-    "ingredients": [
-      { "name": "خس", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.3 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي الخس والطماطم، اخلطيهما مع عصير الليمون والملح."
-  },
-  {
-    "name": "شوربة الملوخية",
-    "category": "soup",
-    "ingredients": [
-      { "name": "ملوخية", "amountKg": 0.3 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.003 },
-      { "name": "دجاج", "amountKg": 0.2 }
-    ],
-    "instructions": "اطبخي الدجاج، أضيفي الملوخية والثوم والكمون، اتركي الخليط ينضج."
-  },
-  {
-    "name": "خضار مسلوقة صحية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "بروكلي", "amountKg": 0.2 },
-      { "name": "قرنبيط", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي الخضار في ماء مملح حتى تنضج، قدميها ساخنة."
-  },
-  {
-    "name": "كفتة مشوية بالتوابل",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_البقر", "amountKg": 0.4 },
-      { "name": "هيل", "amountKg": 0.003 },
-      { "name": "قزبر", "amountKg": 0.005 },
-      { "name": "فلفلحار", "amountKg": 0.002 }
-    ],
-    "instructions": "شكلي الكفتة أصابع وتبليها بالهيل والقزبر والفلفل الحار، اشويها حتى تنضج من جميع الجهات."
-  },
-  {
-    "name": "عصير الفراولة",
-    "category": "drink",
-    "ingredients": [
-      { "name": "فراولة", "amountKg": 0.3 },
-      { "name": "سكر_أبيض", "amountKg": 0.05 }
-    ],
-    "instructions": "اغسلي الفراولة واخلطيها مع السكر في الخلاط حتى تصبح عصيراً ناعماً."
-  },
-  {
-    "name": "مهلبية بماء الورد",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "الحليب", "amountKg": 0.5 },
-      { "name": "سكر_أبيض", "amountKg": 0.1 },
-      { "name": "دقيق_أرز", "amountKg": 0.03 }
-    ],
-    "instructions": "اخلطي دقيق الأرز مع قليل من الحليب، اغلي باقي الحليب مع السكر وأضيفي خليط الدقيق."
-  },
-  {
-    "name": "بهار الشاورما",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلاسود", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "هيل", "amountKg": 0.01 },
-      { "name": "قرنفل", "amountKg": 0.005 }
-    ],
-    "instructions": "اطحني جميع التوابل معاً للحصول على خليط بهار الشاورما."
-  },
-  {
-    "name": "بطاطس مقلية صحية",
-    "category": "health",
-    "ingredients": [
-      { "name": "بطاطس_بيضاء", "amountKg": 0.5 }
-    ],
-    "instructions": "قطعي البطاطس إلى شرائح، واقليها بالزيت الصحي حتى تصبح ذهبية ومقرمشة."
-  },
-  {
-    "name": "شوربة القرنبيط بالبروكلي",
-    "category": "soup",
-    "ingredients": [
-      { "name": "قرنبيط", "amountKg": 0.3 },
-      { "name": "بروكلي", "amountKg": 0.3 },
-      { "name": "زعفران", "amountKg": 0.001 },
-      { "name": "فلفلابيض", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي القرنبيط والبروكلي مع الزعفران والفلفل الأبيض، ثم اهرسيها للحصول على شوربة كريمية."
-  },
-  {
-    "name": "سلطة الملفوف المتبلة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "ملفوف", "amountKg": 0.4 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "ليمون_اسفر", "amountKg": 0.04 },
-      { "name": "الملح", "amountKg": 0.005 }
-    ],
-    "instructions": "اقطعي الملفوف والجزر شرائح رفيعة، تبلي بعصير الليمون والملح."
-  },
-  {
-    "name": "طاجين السمك بالخضار",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الصومو", "amountKg": 0.6 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.02 }
-    ],
-    "instructions": "نظفي السمك، ضعيه في طاجين مع الخضار المقطعة والثوم، اطبخي على نار متوسطة."
-  },
-  {
-    "name": "عصير المانجو",
-    "category": "drink",
-    "ingredients": [
-      { "name": "مانجو", "amountKg": 0.4 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "قشري المانجو وقطعيها، اخلطيها مع العسل في الخلاط."
-  },
-  {
-    "name": "كنافة بالجبن",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "الجبنه", "amountKg": 0.3 },
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
-      { "name": "سكر_بودرة", "amountKg": 0.1 },
-      { "name": "الزبده", "amountKg": 0.05 }
-    ],
-    "instructions": "حضري العجينة من الدقيق والزبدة، احشيها بالجبن والسكر، اخبزيها حتى تذهب."
-  },
-  {
-    "name": "خليط السبع بهارات",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلاسود", "amountKg": 0.01 },
-      { "name": "قرنفل", "amountKg": 0.01 },
-      { "name": "هيل", "amountKg": 0.01 },
-      { "name": "جوزطيب", "amountKg": 0.01 },
-      { "name": "قزبر", "amountKg": 0.01 },
-      { "name": "كمون", "amountKg": 0.01 },
-      { "name": "حلبة", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني جميع التوابل معاً للحصول على خليط السبع بهارات المغربي الأصيل."
-  },
-  {
-    "name": "سلطة البازلاء الخضراء",
-    "category": "health",
-    "ingredients": [
-      { "name": "بازلاء", "amountKg": 0.3 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي البازلاء، اخلطيها مع المعدنوس المفروم وعصير الليمون والملح."
-  },
-  {
-    "name": "شوربة السبانخ",
-    "category": "soup",
-    "ingredients": [
-      { "name": "السبانخ", "amountKg": 0.4 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.003 }
-    ],
-    "instructions": "اقلي البصل والثوم، أضيفي السبانخ والكمون، اسلقي الخليط واهرسيه للحصول على شوربة."
-  },
-  {
-    "name": "خضار منوعة مطبوخة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "فلفل_احمر", "amountKg": 0.1 },
-      { "name": "فلفل_اصفر", "amountKg": 0.1 },
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "باذنجان", "amountKg": 0.2 }
-    ],
-    "instructions": "قطعي الخضار مكعبات، اطبخيها على البخار حتى تنضج."
-  },
-  {
-    "name": "لحم بقري مشوي بالأعشاب",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.7 },
-      { "name": "غار", "amountKg": 0.005 },
-      { "name": "قزبر", "amountKg": 0.01 },
-      { "name": "فلفلاسود", "amountKg": 0.005 }
-    ],
-    "instructions": "تبلي اللحم بالأعشاب والتوابل، اشويه في الفرن حتى ينضج."
-  },
-  {
-    "name": "عصير الرمان الطبيعي",
-    "category": "drink",
-    "ingredients": [
-      { "name": "رمان", "amountKg": 0.5 },
-      { "name": "عسل", "amountKg": 0.02 }
-    ],
-    "instructions": "استخرجي حبوب الرمان، اعصريها واخلطي العصير مع العسل."
-  },
-  {
-    "name": "بسبوسة بالعسل",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_سميد", "amountKg": 0.3 },
-      { "name": "عسل", "amountKg": 0.15 },
-      { "name": "الحليب", "amountKg": 0.2 },
-      { "name": "الزبده", "amountKg": 0.05 }
-    ],
-    "instructions": "اخلطي السميد مع الحليب والزبدة، اخبزي الخليط واسقيه بالعسل وهو ساخن."
-  },
-  {
-    "name": "دقة الكزبرة والثوم",
-    "category": "spice",
-    "ingredients": [
-      { "name": "قزبر", "amountKg": 0.05 },
-      { "name": "الثوم", "amountKg": 0.1 },
-      { "name": "الملح", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني الكزبرة والثوم مع الملح للحصول على دقة التتبيل المغربية."
-  },
-  {
-    "name": "سلطة الأفوكادو",
-    "category": "health",
-    "ingredients": [
-      { "name": "افوكادو", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "ليمون_اخضر", "amountKg": 0.04 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي الأفوكادو والطماطم، اخلطيهما مع عصير الليمون والملح."
-  },
-  {
-    "name": "حساء الفول المدمس",
-    "category": "soup",
-    "ingredients": [
-      { "name": "فول", "amountKg": 0.4 },
-      { "name": "الثوم", "amountKg": 0.03 },
-      { "name": "كمون", "amountKg": 0.005 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "انقعي الفول ليلة كاملة، اسلقيه مع الثوم والكمون، زيني بالمعدنوس."
-  },
-  {
-    "name": "شرائح البطاطس المخبوزة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "بطاطس_حمراء", "amountKg": 0.6 },
-      { "name": "الملح", "amountKg": 0.005 },
-      { "name": "فلفلاسود", "amountKg": 0.002 }
-    ],
-    "instructions": "قطعي البطاطس شرائح، رشي عليها الملح والفلفل، اخبزيها في الفرن."
-  },
-  {
-    "name": "كروفيت مقلي بالتوابل",
-    "category": "normal",
-    "ingredients": [
-      { "name": "كروفيت", "amountKg": 0.5 },
-      { "name": "فلفلحار", "amountKg": 0.003 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "زنجبيل", "amountKg": 0.01 }
-    ],
-    "instructions": "نظفي الكروفيت، تبليه بالتوابل والثوم والزنجبيل، اقليه حتى يصبح ذهبي اللون."
-  },
-  {
-    "name": "عصير الكيوي المنعش",
-    "category": "drink",
-    "ingredients": [
-      { "name": "كيوي", "amountKg": 0.4 },
-      { "name": "عسل", "amountKg": 0.03 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "قشري الكيوي واخلطيه مع العسل والنعناع في الخلاط للحصول على عصير منعش."
-  },
-  {
-    "name": "حلوى السميد بالحليب",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_سميد", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.5 },
-      { "name": "سكر_بني", "amountKg": 0.1 },
-      { "name": "الزبده", "amountKg": 0.03 }
-    ],
-    "instructions": "حمصي السميد مع الزبدة، أضيفي الحليب والسكر، حركي حتى يثخن القوام."
-  },
-  {
-    "name": "بهار الطاجين المغربي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زعفران", "amountKg": 0.003 },
-      { "name": "زنجبيل", "amountKg": 0.02 },
-      { "name": "قرنفل", "amountKg": 0.01 },
-      { "name": "غار", "amountKg": 0.01 }
-    ],
-    "instructions": "اخلطي جميع التوابل معاً لتحصلي على خليط بهار الطاجين الأصيل."
-  },
-  {
-    "name": "سلطة الخيار بالنعناع",
-    "category": "health",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.3 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي اللفت شرائح رفيعة، أضيفي النعناع المفروم وعصير الليمون والملح."
-  },
-  {
-    "name": "شوربة الكرافس",
-    "category": "soup",
-    "ingredients": [
-      { "name": "الكرافس", "amountKg": 0.4 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "فلفلابيض", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي الكرافس والبصل، اسلقيهما مع الثوم والفلفل الأبيض، اهرسي للحصول على شوربة."
-  },
-  {
-    "name": "خضار مشكلة بالبخار",
-    "category": "diet",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "بازلاء", "amountKg": 0.2 },
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي الخضار وضعيها في سلة البخار، اطبخيها حتى تنضج مع رش الملح."
-  },
-  {
-    "name": "طاجين القرش بالخضار",
-    "category": "normal",
-    "ingredients": [
-      { "name": "القرش", "amountKg": 0.6 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "فلفل_احمر", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.025 }
-    ],
-    "instructions": "نظفي لحم القرش، ضعيه في طاجين مع الخضار والثوم، اطبخي على نار هادئة."
-  },
-  {
-    "name": "شراب الدلاح المثلج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "دلاح", "amountKg": 0.6 },
-      { "name": "نعناع", "amountKg": 0.01 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الدلاح وازيلي البذور، اخلطيه مع النعناع وعصير الليمون."
-  },
-  {
-    "name": "معمول بالتمر والجوز",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أسمر", "amountKg": 0.3 },
-      { "name": "تمر", "amountKg": 0.2 },
-      { "name": "الزبده", "amountKg": 0.1 },
-      { "name": "سكر_بودرة", "amountKg": 0.05 }
-    ],
-    "instructions": "حضري عجينة من الدقيق والزبدة، احشيها بالتمر المهروس، اخبزي القطع حتى تذهب."
-  },
-  {
-    "name": "خلطة الحريرة",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.02 },
-      { "name": "زنجبيل", "amountKg": 0.01 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "فلفلاسود", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني التوابل معاً لتحصلي على خلطة الحريرة المغربية الأصيلة."
-  },
-  {
-    "name": "سلطة الجرجير بالرمان",
-    "category": "health",
-    "ingredients": [
-      { "name": "قصبر_معدنوس", "amountKg": 0.15 },
-      { "name": "رمان", "amountKg": 0.2 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اخلطي أوراق الجرجير مع حبوب الرمان وعصير الليمون والملح."
-  },
-  {
-    "name": "شوربة الذرة الحلوة",
-    "category": "soup",
-    "ingredients": [
-      { "name": "ذرة", "amountKg": 0.4 },
-      { "name": "الحليب", "amountKg": 0.3 },
-      { "name": "الزبده", "amountKg": 0.02 },
-      { "name": "الملح", "amountKg": 0.005 }
-    ],
-    "instructions": "اسلقي الذرة، اخلطيها مع الحليب والزبدة، تبلي بالملح."
-  },
-  {
-    "name": "سلطة خفيفة للرجيم",
-    "category": "diet",
-    "ingredients": [
-      { "name": "خس", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "خيار", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الخضار قطع صغيرة، اخلطيها مع عصير الليمون بدون ملح."
-  },
-  {
-    "name": "كفتة الدجاج المشوية",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_دجاج", "amountKg": 0.5 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "فلفلاسود", "amountKg": 0.003 }
-    ],
-    "instructions": "اخلطي كفتة الدجاج مع البصل المفروم والمعدنوس، شكلي كرات واشويها."
-  },
-  {
-    "name": "عصير التوت البري",
-    "category": "drink",
-    "ingredients": [
-      { "name": "زبيب", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "انقعي الزبيب في الماء، اخلطيه مع العسل وعصير الليمون."
-  },
-  {
-    "name": "كريم كراميل منزلي",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "الحليب", "amountKg": 0.5 },
-      { "name": "سكر_خام", "amountKg": 0.15 },
-      { "name": "الزبادي", "amountKg": 0.1 }
-    ],
-    "instructions": "حضري الكراميل من السكر، اخلطي الحليب مع الزبادي، اسكبي في قوالب واتركي لتبرد."
-  },
-  {
-    "name": "توابل الكباب المغربي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلحار", "amountKg": 0.01 },
-      { "name": "كمون", "amountKg": 0.02 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "الثوم", "amountKg": 0.05 }
-    ],
-    "instructions": "اطحني التوابل مع الثوم للحصول على خلطة الكباب المغربي."
-  },
-  {
-    "name": "سلطة الشمام بالنعناع",
-    "category": "health",
-    "ingredients": [
-      { "name": "شمام", "amountKg": 0.4 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الشمام مكعبات، أضيفي النعناع المفروم وعصير الليمون."
-  },
-  {
-    "name": "حساء القمح بالخضار",
-    "category": "soup",
-    "ingredients": [
-      { "name": "قمح", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "انقعي القمح، اسلقيه مع الخضار المقطعة، زيني بالمعدنوس."
-  },
-  {
-    "name": "خضار مشوية صحية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "باذنجان", "amountKg": 0.2 },
-      { "name": "فلفل_اصفر", "amountKg": 0.1 },
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "زعفران", "amountKg": 0.001 }
-    ],
-    "instructions": "قطعي الخضار وتبليها بالزعفران، اشويها في الفرن حتى تنضج."
-  },
-  {
-    "name": "طاجين الكفتة بالبيض",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_الديك_الرومي", "amountKg": 0.4 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "شكلي الكفتة كرات، ضعيها في طاجين مع الطماطم والبصل، اطبخي حتى تنضج."
-  },
-  {
-    "name": "عصير الخوخ الطازج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "خوخ", "amountKg": 0.5 },
-      { "name": "سكر_جوز_الهند", "amountKg": 0.03 }
-    ],
-    "instructions": "قشري الخوخ وازيلي النوى، اخلطيه مع سكر جوز الهند."
-  },
-  {
-    "name": "قطايف بالقشطة",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.3 },
-      { "name": "شراب_القيقب", "amountKg": 0.1 },
-      { "name": "الزبده", "amountKg": 0.05 }
-    ],
-    "instructions": "حضري عجينة القطايف، احشيها بالقشطة المحضرة من الحليب، اقليها واسقيها بالشراب."
-  },
-  {
-    "name": "بهارات السمك المغربي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.02 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "فلفلحار", "amountKg": 0.005 },
-      { "name": "زنجبيل", "amountKg": 0.01 }
-    ],
-    "instructions": "اخلطي التوابل معاً لتتبيل السمك على الطريقة المغربية."
-  },
-  {
-    "name": "سلطة التفاح بالجوز",
-    "category": "health",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.3 },
-      { "name": "خس", "amountKg": 0.1 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "عسل", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي التفاح والخس، اخلطيهما مع عصير الليمون والعسل."
-  },
-  {
-    "name": "شوربة الأرز بالحليب",
-    "category": "soup",
-    "ingredients": [
-      { "name": "ارز", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.4 },
-      { "name": "الزبده", "amountKg": 0.02 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي الأرز، أضيفي الحليب والزبدة، تبلي بقليل من الملح."
-  },
-  {
-    "name": "وجبة خفيفة للحمية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "بروكلي", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "قرنبيط", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الخضار على البخار، قدميها مع عصير الليمون."
-  },
-  {
-    "name": "دجاج محشي بالأرز",
-    "category": "normal",
-    "ingredients": [
-      { "name": "دجاج", "amountKg": 0.8 },
-      { "name": "ارز", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "زعفران", "amountKg": 0.002 }
-    ],
-    "instructions": "نظفي الدجاج، حضري الحشوة من الأرز والبصل والزعفران، احشي الدجاج واشويه."
-  },
-  {
-    "name": "عصير المشمش الطبيعي",
-    "category": "drink",
-    "ingredients": [
-      { "name": "مشمش", "amountKg": 0.5 },
-      { "name": "عسل", "amountKg": 0.03 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي المشمش وازيلي النوى، اخلطيه مع العسل وعصير الليمون."
-  },
-  {
-    "name": "مربى التين المنزلي",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "تين", "amountKg": 0.6 },
-      { "name": "سكر_أبيض", "amountKg": 0.3 },
-      { "name": "ليمون_اسفر", "amountKg": 0.05 }
-    ],
-    "instructions": "قطعي التين، اطبخيه مع السكر وعصير الليمون حتى يثخن."
-  },
-  {
-    "name": "رأس الحانوت الأصلي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زعفران", "amountKg": 0.002 },
-      { "name": "قرنفل", "amountKg": 0.01 },
-      { "name": "هيل", "amountKg": 0.01 },
-      { "name": "جوزطيب", "amountKg": 0.008 },
-      { "name": "حلبة", "amountKg": 0.01 },
-      { "name": "يانسون", "amountKg": 0.008 }
-    ],
-    "instructions": "اطحني جميع التوابل معاً للحصول على خليط رأس الحانوت المغربي الأصيل."
-  },
-  {
-    "name": "سلطة الكوسة النيئة",
-    "category": "health",
-    "ingredients": [
-      { "name": "كوسة", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "نعناع", "amountKg": 0.01 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "ابشري الكوسة، أضيفي الطماطم المقطعة والنعناع وعصير الليمون."
-  },
-  {
-    "name": "حساء البقوليات المختلطة",
-    "category": "soup",
-    "ingredients": [
-      { "name": "عدس", "amountKg": 0.15 },
-      { "name": "حمص", "amountKg": 0.15 },
-      { "name": "فول", "amountKg": 0.15 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "انقعي البقوليات، اسلقيها مع الكمون حتى تنضج جيداً."
-  },
-  {
-    "name": "خضار سوتيه للرجيم",
-    "category": "diet",
-    "ingredients": [
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "فلفل_احمر", "amountKg": 0.1 },
-      { "name": "البصل_ابيض", "amountKg": 0.05 },
-      { "name": "الثوم", "amountKg": 0.01 }
-    ],
-    "instructions": "قطعي الخضار شرائح، اقليها قلياً خفيفاً مع الثوم."
-  },
-  {
-    "name": "لحم الغنم بالبرقوق",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.6 },
-      { "name": "برقوق_احمر", "amountKg": 0.2 },
-      { "name": "قرنفل", "amountKg": 0.003 },
-      { "name": "زعفران", "amountKg": 0.002 }
-    ],
-    "instructions": "قطعي اللحم، ضعيه في طاجين مع البرقوق والتوابل، اطبخي ببطء."
-  },
-  {
-    "name": "عصير اليوسفي الطازج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "يوسفي", "amountKg": 0.6 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "قشري اليوسفي واعصريه، أضيفي أوراق النعناع للتزيين."
-  },
-  {
-    "name": "كنافة نابلسية",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
-      { "name": "الجبنه", "amountKg": 0.25 },
-      { "name": "شراب_الذرة", "amountKg": 0.15 },
-      { "name": "الزبده", "amountKg": 0.08 }
-    ],
-    "instructions": "حضري عجينة الكنافة، احشيها بالجبن، اخبزيها واسقيها بالشراب."
-  },
-  {
-    "name": "خلطة البهارات الحارة",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلحار", "amountKg": 0.03 },
-      { "name": "فلفلاسود", "amountKg": 0.02 },
-      { "name": "زنجبيل", "amountKg": 0.02 },
-      { "name": "الثوم", "amountKg": 0.05 }
-    ],
-    "instructions": "اطحني التوابل مع الثوم للحصول على خلطة حارة للتتبيل."
-  },
-  {
-    "name": "سلطة الرجلة البرية",
-    "category": "health",
-    "ingredients": [
-      { "name": "قصبر_معدنوس", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اقطفي أوراق الرجلة، اخلطيها مع الطماطم والبصل وعصير الليمون."
-  },
-  {
-    "name": "شوربة الشعير بالخضار",
-    "category": "soup",
-    "ingredients": [
-      { "name": "دقيق_شعير", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "الكرافس", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الشعير مع الخضار المقطعة، زيني بالمعدنوس المفروم."
-  },
-  {
-    "name": "سلطة دايت للإفطار",
-    "category": "diet",
-    "ingredients": [
-      { "name": "خس", "amountKg": 0.15 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "خيار", "amountKg": 0.1 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار قطع صغيرة، رشي عصير الليمون بدون إضافة ملح أو زيت."
-  },
-  {
-    "name": "سردين معلب بالصلصة",
-    "category": "normal",
-    "ingredients": [
-      { "name": "سردين", "amountKg": 0.4 },
-      { "name": "طماطم", "amountKg": 0.3 },
-      { "name": "فلفلحار", "amountKg": 0.002 },
-      { "name": "الثوم", "amountKg": 0.02 }
-    ],
-    "instructions": "حضري صلصة الطماطم بالثوم والفلفل الحار، أضيفي السردين واتركيه ينضج."
-  },
-  {
-    "name": "عصير العنب الأحمر",
-    "category": "drink",
-    "ingredients": [
-      { "name": "عنب", "amountKg": 0.6 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "اغسلي العنب جيداً، اعصريه وأضيفي قطرات من عصير الليمون."
-  },
-  {
-    "name": "أم علي بالمكسرات",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.5 },
-      { "name": "سكر_بني", "amountKg": 0.1 },
-      { "name": "الزبده", "amountKg": 0.05 }
-    ],
-    "instructions": "حضري الفطائر من الدقيق، قطعيها واتركيها تجف، اسكبي الحليب المحلى الساخن عليها."
-  },
-  {
-    "name": "دقة الملح والكمون",
-    "category": "spice",
-    "ingredients": [
-      { "name": "الملح", "amountKg": 0.1 },
-      { "name": "كمون", "amountKg": 0.05 },
-      { "name": "فلفلاسود", "amountKg": 0.02 }
-    ],
-    "instructions": "اطحني الملح مع الكمون والفلفل الأسود للحصول على دقة التتبيل."
-  },
-  {
-    "name": "سلطة الفجل الأحمر",
-    "category": "health",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.2 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي الفجل شرائح رفيعة، أضيفي المعدنوس المفروم وعصير الليمون والملح."
-  },
-  {
-    "name": "حساء الشوفان بالحليب",
-    "category": "soup",
-    "ingredients": [
-      { "name": "دقيق_شوفان", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.4 },
-      { "name": "عسل", "amountKg": 0.05 },
-      { "name": "الزبده", "amountKg": 0.02 }
-    ],
-    "instructions": "اطبخي الشوفان مع الحليب، أضيفي العسل والزبدة عند التقديم."
-  },
-  {
-    "name": "خضار مطبوخة بالبخار",
-    "category": "diet",
-    "ingredients": [
-      { "name": "السبانخ", "amountKg": 0.2 },
-      { "name": "ملوخية", "amountKg": 0.15 },
-      { "name": "الثوم", "amountKg": 0.01 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "اطبخي الخضار الورقية على البخار مع الثوم، رشي عصير الليمون."
-  },
-  {
-    "name": "طاجين السمك بالزيتون",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الصومو", "amountKg": 0.6 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "زعفران", "amountKg": 0.002 }
-    ],
-    "instructions": "نظفي السمك، ضعيه في طاجين مع الطماطم والبصل والزعفران، اطبخي على نار هادئة."
-  },
-  {
-    "name": "مشروب الزبيب المنقوع",
-    "category": "drink",
-    "ingredients": [
-      { "name": "زبيب", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.03 },
-      { "name": "قرنفل", "amountKg": 0.002 }
-    ],
-    "instructions": "انقعي الزبيب في الماء مع القرنفل، أضيفي العسل واتركي الخليط ينقع."
-  },
-  {
-    "name": "بلح الشام بالقطر",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.25 },
-      { "name": "سكر_أبيض", "amountKg": 0.2 },
-      { "name": "الزبده", "amountKg": 0.1 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "حضري عجينة الشو، شكلي أصابع واقليها، حضري القطر من السكر وعصير الليمون."
-  },
-  {
-    "name": "خلطة الدجاج المشوي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلاسود", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "الثوم", "amountKg": 0.05 }
-    ],
-    "instructions": "اخلطي التوابل مع المعدنوس والثوم المهروس للحصول على تتبيلة الدجاج."
-  },
-  {
-    "name": "سلطة الجزر والزبيب",
-    "category": "health",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.3 },
-      { "name": "زبيب", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "عسل", "amountKg": 0.02 }
-    ],
-    "instructions": "ابشري الجزر، أضيفي الزبيب وعصير الليمون والعسل، اخلطي جيداً."
-  },
-  {
-    "name": "شوربة الكسكس بالخضار",
-    "category": "soup",
-    "ingredients": [
-      { "name": "كسكس", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اطبخي الكسكس منفصلاً، حضري مرقة الخضار، أضيفي الكسكس إلى المرقة."
-  },
-  {
-    "name": "وجبة خضار للحمية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "قرنبيط", "amountKg": 0.2 },
-      { "name": "بروكلي", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "اسلقي الخضار على البخار، قدميها مع أوراق النعناع الطازج."
-  },
-  {
-    "name": "كباب الحلة المغربي",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_البقر", "amountKg": 0.5 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "قزبر", "amountKg": 0.01 }
-    ],
-    "instructions": "شكلي الكفتة كرات، ضعيها في حلة مع الطماطم والبصل والكزبرة."
-  },
-  {
-    "name": "عصير الليمون بالنعناع",
-    "category": "drink",
-    "ingredients": [
-      { "name": "ليمون_اسفر", "amountKg": 0.2 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "عسل", "amountKg": 0.05 }
-    ],
-    "instructions": "اعصري الليمون، أضيفي النعناع المدقوق والعسل، اخلطي بالماء البارد."
-  },
-  {
-    "name": "مهلبية الأرز بالحليب",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_أرز", "amountKg": 0.1 },
-      { "name": "الحليب", "amountKg": 0.6 },
-      { "name": "سكر_بودرة", "amountKg": 0.12 },
-      { "name": "الزبادي", "amountKg": 0.1 }
-    ],
-    "instructions": "اطبخي دقيق الأرز مع الحليب والسكر، أضيفي الزبادي عند البرودة."
-  },
-  {
-    "name": "توابل اللحم المفروم",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلحار", "amountKg": 0.01 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.02 },
-      { "name": "فلفلاسود", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني التوابل معاً لتتبيل اللحم المفروم."
-  },
-  {
-    "name": "سلطة الطماطم الكرزية",
-    "category": "health",
-    "ingredients": [
-      { "name": "طماطم", "amountKg": 0.4 },
-      { "name": "خس", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الطماطم نصفين، أضيفي الخس والمعدنوس وعصير الليمون."
-  },
-  {
-    "name": "حساء الحمص الأخضر",
-    "category": "soup",
-    "ingredients": [
-      { "name": "حمص", "amountKg": 0.3 },
-      { "name": "السبانخ", "amountKg": 0.2 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "اسلقي الحمص، أضيفي السبانخ والثوم والكمون، اهرسي الخليط جزئياً."
-  },
-  {
-    "name": "خضار نيئة للسناك",
-    "category": "diet",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "خيار", "amountKg": 0.15 },
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار أعواد رفيعة، قدميها مع عصير الليمون للغمس."
-  },
-  {
-    "name": "سمك مقلي بالكمون",
-    "category": "normal",
-    "ingredients": [
-      { "name": "سردين", "amountKg": 0.6 },
-      { "name": "كمون", "amountKg": 0.01 },
-      { "name": "الثوم", "amountKg": 0.03 },
-      { "name": "فلفلحار", "amountKg": 0.003 }
-    ],
-    "instructions": "نظفي السردين، تبليه بالكمون والثوم والفلفل الحار، اقليه حتى ينضج."
-  },
-  {
-    "name": "مشروب التمر والحليب",
-    "category": "drink",
-    "ingredients": [
-      { "name": "تمر", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.4 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "انزعي نوى التمر، اخلطيه مع الحليب والعسل في الخلاط."
-  },
-  {
-    "name": "حلاوة السميد بالجوز",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_سميد", "amountKg": 0.3 },
-      { "name": "عسل", "amountKg": 0.15 },
-      { "name": "الزبده", "amountKg": 0.08 },
-      { "name": "سكر_جوز_الهند", "amountKg": 0.05 }
-    ],
-    "instructions": "حمصي السميد مع الزبدة، أضيفي العسل وسكر جوز الهند، شكلي كرات."
-  },
-  {
-    "name": "خلطة الشاي المغربي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "شاي_أخضر", "amountKg": 0.05 },
-      { "name": "نعناع", "amountKg": 0.03 },
-      { "name": "سكر_أبيض", "amountKg": 0.1 }
-    ],
-    "instructions": "اخلطي الشاي الأخضر مع النعناع الجاف والسكر للحصول على خلطة الأتاي."
-  },
-  {
-    "name": "سلطة البقدونس التبولة",
-    "category": "health",
-    "ingredients": [
-      { "name": "معدنوس", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.05 }
-    ],
-    "instructions": "افرمي المعدنوس ناعماً، أضيفي الطماطم والبصل المفرومين وعصير الليمون."
-  },
-  {
-    "name": "شوربة العدس الأحمر",
-    "category": "soup",
-    "ingredients": [
-      { "name": "عدس", "amountKg": 0.3 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "اسلقي العدس مع الجزر والبصل والكمون، اهرسي الخليط للحصول على شوربة ناعمة."
-  },
-  {
-    "name": "طبق خضار للدايت",
-    "category": "diet",
-    "ingredients": [
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "باذنجان", "amountKg": 0.15 },
-      { "name": "فلفل_احمر", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.01 }
-    ],
-    "instructions": "قطعي الخضار واطبخيها على البخار مع الثوم، بدون إضافة زيوت."
-  },
-  {
-    "name": "كفتة السمك المقلية",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الصومو", "amountKg": 0.5 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "فلفلاسود", "amountKg": 0.005 }
-    ],
-    "instructions": "افرمي السمك مع البصل والمعدنوس، شكلي كفتة واقليها حتى تنضج."
-  },
-  {
-    "name": "عصير الأناناس الطبيعي",
-    "category": "drink",
-    "ingredients": [
-      { "name": "شمام", "amountKg": 0.5 },
-      { "name": "نعناع", "amountKg": 0.01 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الشمام واخلطيه مع النعناع وعصير الليمون في الخلاط."
-  },
-  {
-    "name": "كيك الجزر المنزلي",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.25 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "سكر_بني", "amountKg": 0.15 },
-      { "name": "الزبده", "amountKg": 0.1 }
-    ],
-    "instructions": "ابشري الجزر، اخلطيه مع الدقيق والسكر والزبدة، اخبزي في الفرن."
-  },
-  {
-    "name": "بهار الحريرة الأصلي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زنجبيل", "amountKg": 0.02 },
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "قزبر", "amountKg": 0.03 },
-      { "name": "فلفلاسود", "amountKg": 0.015 }
-    ],
-    "instructions": "اطحني التوابل معاً للحصول على خليط بهار الحريرة المغربية."
-  },
-  {
-    "name": "سلطة الفواكه المشكلة",
-    "category": "health",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.2 },
-      { "name": "موز", "amountKg": 0.15 },
-      { "name": "عنب", "amountKg": 0.15 },
-      { "name": "ليمون_اسفر", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الفواكه قطع متوسطة، رشي عصير الليمون لمنع الأكسدة."
-  },
-  {
-    "name": "حساء الكوسة بالنعناع",
-    "category": "soup",
-    "ingredients": [
-      { "name": "كوسة", "amountKg": 0.4 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 },
-      { "name": "الثوم", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الكوسة مع البصل والثوم، أضيفي النعناع واهرسي للحصول على حساء."
-  },
-  {
-    "name": "خضار مسلوقة بسيطة",
-    "category": "diet",
-    "ingredients": [
-      { "name": "بازلاء", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "قرنبيط", "amountKg": 0.15 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الخضار في ماء مملح، قدميها مع المعدنوس المفروم."
-  },
-  {
-    "name": "طاجين الدجاج بالزعفران",
-    "category": "normal",
-    "ingredients": [
-      { "name": "دجاج", "amountKg": 0.8 },
-      { "name": "البصل_ابيض", "amountKg": 0.15 },
-      { "name": "زعفران", "amountKg": 0.003 },
-      { "name": "غار", "amountKg": 0.005 }
-    ],
-    "instructions": "قطعي الدجاج، ضعيه في طاجين مع البصل والزعفران وورق الغار."
-  },
-  {
-    "name": "عصير الشمندر الأحمر",
-    "category": "drink",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.4 },
-      { "name": "تفاح", "amountKg": 0.2 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اسلقي الشمندر، اعصريه مع التفاح وأضيفي عصير الليمون."
-  },
-  {
-    "name": "قراشل العيد المغربية",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.4 },
-      { "name": "الزبده", "amountKg": 0.15 },
-      { "name": "سكر_بودرة", "amountKg": 0.2 },
-      { "name": "يانسون", "amountKg": 0.005 }
-    ],
-    "instructions": "حضري عجينة من الدقيق والزبدة، شكلي قراشل واخبزيها، رشي السكر البودرة."
-  },
-  {
-    "name": "خلطة التوابل الشامية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "هيل", "amountKg": 0.02 },
-      { "name": "قرنفل", "amountKg": 0.015 },
-      { "name": "جوزطيب", "amountKg": 0.01 },
-      { "name": "فلفلابيض", "amountKg": 0.02 }
-    ],
-    "instructions": "اطحني التوابل معاً للحصول على خليط البهارات الشامي."
-  },
-  {
-    "name": "سلطة الجرجير والرقة",
-    "category": "health",
-    "ingredients": [
-      { "name": "قصبر_معدنوس", "amountKg": 0.15 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "اقطفي أوراق الجرجير، أضيفي الطماطم والجزر المبشور وعصير الليمون."
-  },
-  {
-    "name": "شوربة الفاصوليا البيضاء",
-    "category": "soup",
-    "ingredients": [
-      { "name": "لوبيا", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "الثوم", "amountKg": 0.025 },
-      { "name": "قزبر", "amountKg": 0.01 }
-    ],
-    "instructions": "انقعي الفاصوليا، اسلقيها مع الطماطم والثوم والكزبرة."
-  },
-  {
-    "name": "وجبة صحية للإفطار",
-    "category": "diet",
-    "ingredients": [
-      { "name": "خس", "amountKg": 0.1 },
-      { "name": "طماطم", "amountKg": 0.1 },
-      { "name": "خيار", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار قطع صغيرة، اخلطيها مع المعدنوس المفروم."
-  },
-  {
-    "name": "لحم محمر بالبصل",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.6 },
-      { "name": "البصل_ابيض", "amountKg": 0.2 },
-      { "name": "التحميرا", "amountKg": 0.015 },
-      { "name": "الثوم", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي اللحم مكعبات، حمريه مع البصل والثوم والتحميرة."
-  },
-  {
-    "name": "مشروب الكركديه البارد",
-    "category": "drink",
-    "ingredients": [
-      { "name": "شاي_أعشاب", "amountKg": 0.03 },
-      { "name": "عسل", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "انقعي الكركديه في الماء البارد، أضيفي العسل وعصير الليمون."
-  },
-  {
-    "name": "حلوى اللوز المغربية",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_جوز_الهند", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.1 },
-      { "name": "سكر_بودرة", "amountKg": 0.08 },
-      { "name": "الزبده", "amountKg": 0.05 }
-    ],
-    "instructions": "اخلطي دقيق جوز الهند مع العسل والزبدة، شكلي كرات ولفيها بالسكر البودرة."
-  },
-  {
-    "name": "دقة الملح بالكزبرة",
-    "category": "spice",
-    "ingredients": [
-      { "name": "الملح", "amountKg": 0.1 },
-      { "name": "قزبر", "amountKg": 0.05 },
-      { "name": "كمون", "amountKg": 0.03 }
-    ],
-    "instructions": "اطحني الملح مع الكزبرة والكمون للحصول على دقة التتبيل المغربية."
-  },
-  {
-    "name": "سلطة الباذنجان المشوي",
-    "category": "health",
-    "ingredients": [
-      { "name": "باذنجان", "amountKg": 0.4 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اشوي الباذنجان، اهرسيه مع الطماطم والثوم وعصير الليمون."
-  },
-  {
-    "name": "حساء الخضار المختلطة",
-    "category": "soup",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 },
-      { "name": "بطاطس_بيضاء", "amountKg": 0.2 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار واسلقيها معاً، زيني بالمعدنوس المفروم."
-  },
-  {
-    "name": "خضار مطهوة بالقليل من الزيت",
-    "category": "diet",
-    "ingredients": [
-      { "name": "فلفل_اخضر", "amountKg": 0.15 },
-      { "name": "فلفل_احمر", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار واقليها بقليل جداً من الزيت مع الثوم."
-  },
-  {
-    "name": "سمك مشوي بالأعشاب",
-    "category": "normal",
-    "ingredients": [
-      { "name": "القرش", "amountKg": 0.7 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "قزبر", "amountKg": 0.02 },
-      { "name": "الثوم", "amountKg": 0.03 }
-    ],
-    "instructions": "نظفي السمك، تبليه بالأعشاب والثوم، اشويه في الفرن."
-  },
-  {
-    "name": "عصير الجوافة المنعش",
-    "category": "drink",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.3 },
-      { "name": "موز", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "اخلطي التفاح والموز مع العسل في الخلاط للحصول على عصير كثيف."
-  },
-  {
-    "name": "حلاوة الجبن المحلاة",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "الجبنه", "amountKg": 0.3 },
-      { "name": "عسل", "amountKg": 0.1 },
-      { "name": "دقيق_أرز", "amountKg": 0.05 },
-      { "name": "الحليب", "amountKg": 0.2 }
-    ],
-    "instructions": "اخلطي الجبن مع العسل ودقيق الأرز والحليب، اطبخي حتى يثخن."
-  },
-  {
-    "name": "خليط بهار الطبخ اليومي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "فلفلاسود", "amountKg": 0.03 },
-      { "name": "كمون", "amountKg": 0.04 },
-      { "name": "قزبر", "amountKg": 0.04 },
-      { "name": "الملح", "amountKg": 0.05 }
-    ],
-    "instructions": "اطحني التوابل مع الملح للحصول على خليط البهار اليومي."
-  },
-  {
-    "name": "سلطة الخضار الملونة",
-    "category": "health",
-    "ingredients": [
-      { "name": "فلفل_اصفر", "amountKg": 0.1 },
-      { "name": "فلفل_احمر", "amountKg": 0.1 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الخضار شرائح ملونة، تبلي بعصير الليمون."
-  },
-  {
-    "name": "شوربة البطاطس الكريمية",
-    "category": "soup",
-    "ingredients": [
-      { "name": "بطاطس_بيضاء", "amountKg": 0.4 },
-      { "name": "الحليب", "amountKg": 0.3 },
-      { "name": "الزبده", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.005 }
-    ],
-    "instructions": "اسلقي البطاطس واهرسيها، أضيفي الحليب والزبدة والملح."
-  },
-  {
-    "name": "طبق الخضار المطبوخة للحمية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "ملفوف", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "قطعي الخضار واطبخيها على البخار، قدميها مع النعناع الطازج."
-  },
-  {
-    "name": "طاجين اللحم بالخضار",
-    "category": "normal",
-    "ingredients": [
-      { "name": "لبقر", "amountKg": 0.5 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "بطاطس_حمراء", "amountKg": 0.2 },
-      { "name": "زعفران", "amountKg": 0.002 }
-    ],
-    "instructions": "ضعي اللحم والخضار في طاجين مع الزعفران، اطبخي على نار هادئة."
-  },
-  {
-    "name": "مشروب الزنجبيل الدافئ",
-    "category": "drink",
-    "ingredients": [
-      { "name": "زنجبيل", "amountKg": 0.03 },
-      { "name": "عسل", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "قرنفل", "amountKg": 0.002 }
-    ],
-    "instructions": "اغلي الزنجبيل مع القرنفل، أضيفي العسل وعصير الليمون."
-  },
-  {
-    "name": "كيك التمر الرطب",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "تمر", "amountKg": 0.3 },
-      { "name": "دقيق_قمح_أسمر", "amountKg": 0.25 },
-      { "name": "الحليب", "amountKg": 0.2 },
-      { "name": "الزبده", "amountKg": 0.08 }
-    ],
-    "instructions": "اهرسي التمر، اخلطيه مع الدقيق والحليب والزبدة، اخبزي في الفرن."
-  },
-  {
-    "name": "توابل السلطات المغربية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.02 },
-      { "name": "فلفلاسود", "amountKg": 0.01 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.02 }
-    ],
-    "instructions": "اخلطي التوابل مع المعدنوس المجفف والملح لتتبيل السلطات."
-  },
-  {
-    "name": "سلطة الشمندر بالجزر",
-    "category": "health",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.3 },
-      { "name": "جزر", "amountKg": 0.2 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اسلقي الشمندر والجزر، قطعيهما وأضيفي المعدنوس وعصير الليمون."
-  },
-  {
-    "name": "حساء اللوبيا الخضراء",
-    "category": "soup",
-    "ingredients": [
-      { "name": "لوبيا", "amountKg": 0.3 },
-      { "name": "طماطم", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "فلفلاسود", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي اللوبيا مع الطماطم والبصل والفلفل الأسود."
-  },
-  {
-    "name": "خضار مشوية في الفرن",
-    "category": "diet",
-    "ingredients": [
-      { "name": "باذنجان", "amountKg": 0.2 },
-      { "name": "كوسة", "amountKg": 0.2 },
-      { "name": "فلفل_اخضر", "amountKg": 0.1 },
-      { "name": "الثوم", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الخضار وتبليها بالثوم، اشويها في الفرن حتى تنضج."
-  },
-  {
-    "name": "سردين محفوظ بالطماطم",
-    "category": "normal",
-    "ingredients": [
-      { "name": "سردين", "amountKg": 0.6 },
-      { "name": "طماطم", "amountKg": 0.3 },
-      { "name": "فلفلحار", "amountKg": 0.003 },
-      { "name": "الثوم", "amountKg": 0.025 }
-    ],
-    "instructions": "حضري صلصة الطماطم، أضيفي السردين والفلفل والثوم، اتركي ينضج."
-  },
-  {
-    "name": "عصير الكمثرى الطازج",
-    "category": "drink",
-    "ingredients": [
-      { "name": "تفاح", "amountKg": 0.4 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "اعصري التفاح وأضيفي عصير الليمون وأوراق النعناع."
-  },
-  {
-    "name": "مربى البرتقال المنزلي",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "برتقال", "amountKg": 0.6 },
-      { "name": "سكر_أبيض", "amountKg": 0.4 },
-      { "name": "ليمون_اسفر", "amountKg": 0.05 }
-    ],
-    "instructions": "قشري البرتقال وقطعيه، اطبخيه مع السكر وعصير الليمون حتى يثخن."
-  },
-  {
-    "name": "خلطة التوابل الهندية",
-    "category": "spice",
-    "ingredients": [
-      { "name": "كمون", "amountKg": 0.03 },
-      { "name": "هيل", "amountKg": 0.02 },
-      { "name": "قرنفل", "amountKg": 0.015 },
-      { "name": "حلبة", "amountKg": 0.02 }
-    ],
-    "instructions": "اطحني التوابل معاً للحصول على خليط البهارات الهندي."
-  },
-  {
-    "name": "سلطة الملوخية الطازجة",
-    "category": "health",
-    "ingredients": [
-      { "name": "ملوخية", "amountKg": 0.2 },
-      { "name": "طماطم", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.05 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 }
-    ],
-    "instructions": "اقطفي أوراق الملوخية الصغيرة، اخلطيها مع الطماطم والبصل وعصير الليمون."
-  },
-  {
-    "name": "شوربة الكرنب الأحمر",
-    "category": "soup",
-    "ingredients": [
-      { "name": "ملفوف", "amountKg": 0.4 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "فلفلابيض", "amountKg": 0.003 }
-    ],
-    "instructions": "قطعي الكرنب والخضار، اسلقيها مع الفلفل الأبيض."
-  },
-  {
-    "name": "طبق خضار للرجيم السريع",
-    "category": "diet",
-    "ingredients": [
-      { "name": "السبانخ", "amountKg": 0.2 },
-      { "name": "بروكلي", "amountKg": 0.15 },
-      { "name": "قرنبيط", "amountKg": 0.15 },
-      { "name": "ليمون_اخضر", "amountKg": 0.02 }
-    ],
-    "instructions": "اطبخي الخضار الورقية على البخار، رشي عصير الليمون."
-  },
-  {
-    "name": "دجاج مقلي بالتوابل",
-    "category": "normal",
-    "ingredients": [
-      { "name": "دجاج", "amountKg": 0.7 },
-      { "name": "كمون", "amountKg": 0.01 },
-      { "name": "فلفلحار", "amountKg": 0.005 },
-      { "name": "الثوم", "amountKg": 0.03 }
-    ],
-    "instructions": "قطعي الدجاج، تبليه بالتوابل والثوم، اقليه حتى ينضج."
-  },
-  {
-    "name": "مشروب الليمون بالزنجبيل",
-    "category": "drink",
-    "ingredients": [
-      { "name": "ليمون_اسفر", "amountKg": 0.15 },
-      { "name": "زنجبيل", "amountKg": 0.02 },
-      { "name": "عسل", "amountKg": 0.04 },
-      { "name": "نعناع", "amountKg": 0.01 }
-    ],
-    "instructions": "اعصري الليمون، أضيفي الزنجبيل المبشور والعسل والنعناع."
-  },
-  {
-    "name": "حلوى الأرز بالحليب المغربية",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "ارز", "amountKg": 0.2 },
-      { "name": "الحليب", "amountKg": 0.6 },
-      { "name": "سكر_أبيض", "amountKg": 0.12 },
-      { "name": "ماء_الورد", "amountKg": 0.01 }
-    ],
-    "instructions": "اطبخي الأرز مع الحليب والسكر حتى ينضج، أضيفي ماء الورد."
-  },
-  {
-    "name": "بهار الكوارع المغربي",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زنجبيل", "amountKg": 0.03 },
-      { "name": "قرنفل", "amountKg": 0.02 },
-      { "name": "هيل", "amountKg": 0.02 },
-      { "name": "غار", "amountKg": 0.02 }
-    ],
-    "instructions": "اطحني التوابل معاً لتتبيل الكوارع على الطريقة المغربية."
-  },
-  {
-    "name": "سلطة الفلفل المحمص",
-    "category": "health",
-    "ingredients": [
-      { "name": "فلفل_احمر", "amountKg": 0.3 },
-      { "name": "فلفل_اصفر", "amountKg": 0.2 },
-      { "name": "الثوم", "amountKg": 0.02 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "احمصي الفلفل، قشريه وقطعيه، أضيفي الثوم والمعدنوس."
-  },
-  {
-    "name": "حساء الذرة بالدجاج",
-    "category": "soup",
-    "ingredients": [
-      { "name": "ذرة", "amountKg": 0.3 },
-      { "name": "دجاج", "amountKg": 0.2 },
-      { "name": "البصل_ابيض", "amountKg": 0.08 },
-      { "name": "معدنوس", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي الدجاج، أضيفي الذرة والبصل، زيني بالمعدنوس."
-  },
-  {
-    "name": "وجبة نباتية صحية",
-    "category": "diet",
-    "ingredients": [
-      { "name": "عدس", "amountKg": 0.2 },
-      { "name": "جزر", "amountKg": 0.1 },
-      { "name": "كوسة", "amountKg": 0.1 },
-      { "name": "كمون", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي العدس مع الخضار والكمون للحصول على وجبة صحية."
-  },
-  {
-    "name": "سمك مسلوق بالخضار",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الصومو", "amountKg": 0.5 },
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "كوسة", "amountKg": 0.15 },
-      { "name": "غار", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي السمك مع الخضار وورق الغار حتى ينضج."
-  },
-  {
-    "name": "عصير التوت المجمد",
-    "category": "drink",
-    "ingredients": [
-      { "name": "عنب", "amountKg": 0.4 },
-      { "name": "تفاح", "amountKg": 0.2 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "اخلطي العنب والتفاح مع العسل للحصول على عصير غني."
-  },
-  {
-    "name": "كعك العيد المحشو",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "دقيق_قمح_أبيض", "amountKg": 0.4 },
-      { "name": "تمر", "amountKg": 0.2 },
-      { "name": "الزبده", "amountKg": 0.15 },
-      { "name": "سكر_بودرة", "amountKg": 0.1 }
-    ],
-    "instructions": "حضري العجينة، احشيها بالتمر، اخبزيها ورشي السكر البودرة."
-  },
-  {
-    "name": "خلطة الحوت المقدد",
-    "category": "spice",
-    "ingredients": [
-      { "name": "الملح", "amountKg": 0.1 },
-      { "name": "فلفلحار", "amountKg": 0.02 },
-      { "name": "قزبر", "amountKg": 0.03 },
-      { "name": "كمون", "amountKg": 0.03 }
-    ],
-    "instructions": "اخلطي الملح مع التوابل لحفظ وتتبيل السمك."
-  },
-  {
-    "name": "سلطة الخيار بالزبادي",
-    "category": "health",
-    "ingredients": [
-      { "name": "اللفت_دائري", "amountKg": 0.3 },
-      { "name": "الزبادي", "amountKg": 0.15 },
-      { "name": "نعناع", "amountKg": 0.01 },
-      { "name": "الثوم", "amountKg": 0.01 }
-    ],
-    "instructions": "قطعي الخيار، اخلطيه مع الزبادي والنعناع والثوم المهروس."
-  },
-  {
-    "name": "شوربة البازلاء الخضراء",
-    "category": "soup",
-    "ingredients": [
-      { "name": "بازلاء", "amountKg": 0.4 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "الزبده", "amountKg": 0.02 }
-    ],
-    "instructions": "اسلقي البازلاء مع البصل، أضيفي النعناع والزبدة."
-  },
-  {
-    "name": "سناك صحي للأطفال",
-    "category": "diet",
-    "ingredients": [
-      { "name": "جزر", "amountKg": 0.15 },
-      { "name": "تفاح", "amountKg": 0.15 },
-      { "name": "عسل", "amountKg": 0.02 }
-    ],
-    "instructions": "قطعي الجزر والتفاح أعواد، قدميها مع العسل للغمس."
-  },
-  {
-    "name": "كباب الدجاج المشوي",
-    "category": "normal",
-    "ingredients": [
-      { "name": "الكفتة_دجاج", "amountKg": 0.5 },
-      { "name": "البصل_ابيض", "amountKg": 0.1 },
-      { "name": "معدنوس", "amountKg": 0.03 },
-      { "name": "كمون", "amountKg": 0.005 }
-    ],
-    "instructions": "اخلطي كفتة الدجاج مع البصل والمعدنوس والكمون، شكلي كباب واشويه."
-  },
-  {
-    "name": "مشروب الشاي الأخضر بالنعناع",
-    "category": "drink",
-    "ingredients": [
-      { "name": "شاي_أخضر", "amountKg": 0.01 },
-      { "name": "نعناع", "amountKg": 0.02 },
-      { "name": "عسل", "amountKg": 0.03 }
-    ],
-    "instructions": "انقعي الشاي الأخضر مع النعناع، أضيفي العسل للتحلية."
-  },
-  {
-    "name": "بودينغ الشوكولاتة المنزلي",
-    "category": "dessert",
-    "ingredients": [
-      { "name": "الحليب", "amountKg": 0.5 },
-      { "name": "سكر_بني", "amountKg": 0.1 },
-      { "name": "دقيق_أرز", "amountKg": 0.04 },
-      { "name": "الزبادي", "amountKg": 0.1 }
-    ],
-    "instructions": "اطبخي الحليب مع السكر ودقيق الأرز، أضيفي الزبادي عند البرودة."
-  },
-  {
-    "name": "توابل الطاجين الحلو",
-    "category": "spice",
-    "ingredients": [
-      { "name": "زعفران", "amountKg": 0.002 },
-      { "name": "قرنفل", "amountKg": 0.01 },
-      { "name": "هيل", "amountKg": 0.015 },
-      { "name": "يانسون", "amountKg": 0.01 }
-    ],
-    "instructions": "اطحني التوابل معاً لاستخدامها في الطواجن الحلوة."
-  },
-  {
-    "name": "سلطة القرع المسلوق",
-    "category": "health",
-    "ingredients": [
-      { "name": "قرع", "amountKg": 0.4 },
-      { "name": "معدنوس", "amountKg": 0.02 },
-      { "name": "ليمون_اسفر", "amountKg": 0.03 },
-      { "name": "الملح", "amountKg": 0.003 }
-    ],
-    "instructions": "اسلقي القرع وقطعيه، أضيفي المعدنوس وعصير الليمون والملح."
-  },
+  "name": "خضار مقطعة للسلطة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "خس", "amountKg": 0.15 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "البصل_ابيض", "amountKg": 0.05 }
+  ],
+  "instructions": "قطعي جميع الخضار قطع صغيرة واخلطيها معاً للحصول على سلطة منعشة."
+},
+{
+  "name": "لحم غنم بالبرقوق المجفف",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.6 },
+    { "name": "برقوق_احمر", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "قرنفل", "amountKg": 0.003 }
+  ],
+  "instructions": "اطبخي اللحم مع البصل، أضيفي البرقوق والقرنفل واتركي ينضج."
+},
+{
+  "name": "عصير الفواكه المختلطة",
+  "category": "drink",
+  "ingredients": [
+    { "name": "برتقال", "amountKg": 0.3 },
+    { "name": "تفاح", "amountKg": 0.2 },
+    { "name": "موز", "amountKg": 0.15 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "اخلطي جميع الفواكه مع العسل في الخلاط للحصول على عصير غني."
+},
+{
+  "name": "حلوى اللوز والتمر",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "تمر", "amountKg": 0.3 },
+    { "name": "دقيق_جوز_الهند", "amountKg": 0.15 },
+    { "name": "عسل", "amountKg": 0.08 },
+    { "name": "سكر_بودرة", "amountKg": 0.05 }
+  ],
+  "instructions": "اهرسي التمر، اخلطيه مع دقيق جوز الهند والعسل، شكلي كرات ولفيها بالسكر."
+},
+{
+  "name": "خلطة الفلافل المغربية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "قزبر", "amountKg": 0.03 },
+    { "name": "فلفلحار", "amountKg": 0.01 },
+    { "name": "الثوم", "amountKg": 0.05 }
+  ],
+  "instructions": "اطحني التوابل مع الثوم للحصول على خلطة الفلافل المغربي."
+},
+{
+  "name": "سلطة الكرنب الأبيض",
+  "category": "health",
+  "ingredients": [
+    { "name": "ملفوف", "amountKg": 0.4 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اقطعي الملفوف والجزر رفيعاً، تبلي بعصير الليمون والمعدنوس."
+},
+{
+  "name": "شوربة الحمص بالخضار",
+  "category": "soup",
+  "ingredients": [
+    { "name": "حمص", "amountKg": 0.25 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "اسلقي الحمص مع الخضار والكمون حتى تنضج جميع المكونات."
+},
+{
+  "name": "وجبة خفيفة صحية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "بروكلي", "amountKg": 0.2 },
+    { "name": "قرنبيط", "amountKg": 0.2 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 },
+    { "name": "الملح", "amountKg": 0.002 }
+  ],
+  "instructions": "اسلقي الخضار على البخار، قدميها مع عصير الليمون ورشة ملح."
+},
+{
+  "name": "سمك مشوي بالليمون",
+  "category": "normal",
+  "ingredients": [
+    { "name": "سردين", "amountKg": 0.6 },
+    { "name": "ليمون_اسفر", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "الثوم", "amountKg": 0.02 }
+  ],
+  "instructions": "نظفي السردين، تبليه بعصير الليمون والثوم والمعدنوس، اشويه."
+},
+{
+  "name": "مشروب الرمان الطبيعي",
+  "category": "drink",
+  "ingredients": [
+    { "name": "رمان", "amountKg": 0.5 },
+    { "name": "نعناع", "amountKg": 0.01 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "استخرجي عصير الرمان، أضيفي النعناع المدقوق والعسل."
+},
+{
+  "name": "كنافة بالقشطة والعسل",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
+    { "name": "الحليب", "amountKg": 0.4 },
+    { "name": "عسل", "amountKg": 0.12 },
+    { "name": "الزبده", "amountKg": 0.08 }
+  ],
+  "instructions": "حضري عجينة الكنافة، احشيها بالقشطة المحضرة من الحليب، اسقيها بالعسل."
+},
+{
+  "name": "توابل الأسماك المتوسطية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "قزبر", "amountKg": 0.03 },
+    { "name": "كمون", "amountKg": 0.025 },
+    { "name": "فلفلاسود", "amountKg": 0.015 },
+    { "name": "زعفران", "amountKg": 0.002 }
+  ],
+  "instructions": "اخلطي التوابل معاً لتتبيل الأسماك على الطريقة المتوسطية."
+},
+{
+  "name": "سلطة الجزر بالزبيب",
+  "category": "health",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.35 },
+    { "name": "زبيب", "amountKg": 0.06 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "ابشري الجزر، أضيفي الزبيب وعصير الليمون والنعناع المفروم."
+},
+{
+  "name": "حساء الشعير بالدجاج",
+  "category": "soup",
+  "ingredients": [
+    { "name": "دقيق_شعير", "amountKg": 0.2 },
+    { "name": "دجاج", "amountKg": 0.3 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الدجاج، أضيفي الشعير والجزر، زيني بالمعدنوس."
+},
+{
+  "name": "طبق الخضار المسلوقة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "فلفل_احمر", "amountKg": 0.15 },
+    { "name": "فلفل_اصفر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "اسلقي الخضار حتى تنضج، قدميها مع النعناع الطازج."
+},
+{
+  "name": "طاجين الكفتة بالطماطم",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_البقر", "amountKg": 0.5 },
+    { "name": "طماطم", "amountKg": 0.3 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "فلفلاسود", "amountKg": 0.005 }
+  ],
+  "instructions": "شكلي الكفتة كرات، ضعيها في طاجين مع الطماطم والبصل والفلفل."
+},
+{
+  "name": "عصير الخضار الطازج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 }
+  ],
+  "instructions": "اعصري الجزر والطماطم، أضيفي المعدنوس وعصير الليمون."
+},
+{
+  "name": "حلوى الشوفان بالعسل",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_شوفان", "amountKg": 0.25 },
+    { "name": "عسل", "amountKg": 0.1 },
+    { "name": "الحليب", "amountKg": 0.2 },
+    { "name": "الزبده", "amountKg": 0.05 }
+  ],
+  "instructions": "اطبخي الشوفان مع الحليب، أضيفي العسل والزبدة، شكلي كرات."
+},
+{
+  "name": "خليط البهار المغربي الكامل",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زعفران", "amountKg": 0.003 },
+    { "name": "زنجبيل", "amountKg": 0.025 },
+    { "name": "قرنفل", "amountKg": 0.02 },
+    { "name": "هيل", "amountKg": 0.02 },
+    { "name": "جوزطيب", "amountKg": 0.015 },
+    { "name": "حلبة", "amountKg": 0.02 },
+    { "name": "يانسون", "amountKg": 0.015 }
+  ],
+  "instructions": "اطحني جميع التوابل معاً للحصول على خليط البهار المغربي الكامل."
+},
+{
+  "name": "سلطة الطحالب البحرية",
+  "category": "health",
+  "ingredients": [
+    { "name": "السبانخ", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "زنجبيل", "amountKg": 0.005 }
+  ],
+  "instructions": "اقطفي أوراق السبانخ الصغيرة، أضيفي الطماطم وعصير الليمون والزنجبيل."
+},
+{
+  "name": "شوربة العدس بالكمون",
+  "category": "soup",
+  "ingredients": [
+    { "name": "عدس", "amountKg": 0.3 },
+    { "name": "كمون", "amountKg": 0.008 },
+    { "name": "الثوم", "amountKg": 0.025 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 }
+  ],
+  "instructions": "اسلقي العدس مع الكمون والثوم والبصل حتى ينضج جيداً."
+},
+{
+  "name": "خضار نيئة للوجبات الخفيفة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "خيار", "amountKg": 0.15 },
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار أعواد صغيرة، قدميها مع المعدنوس للتزيين."
+},
+{
+  "name": "سمك مقلي بالدقيق",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الصومو", "amountKg": 0.6 },
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.1 },
+    { "name": "كمون", "amountKg": 0.005 },
+    { "name": "الملح", "amountKg": 0.008 }
+  ],
+  "instructions": "نظفي السمك، اخلطي الدقيق مع الكمون والملح، غلفي السمك واقليه."
+},
+{
+  "name": "مشروب اليانسون الدافئ",
+  "category": "drink",
+  "ingredients": [
+    { "name": "يانسون", "amountKg": 0.02 },
+    { "name": "عسل", "amountKg": 0.04 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "اغلي اليانسون، أضيفي العسل وعصير الليمون، قدميه ساخناً."
+},
+{
+  "name": "بسكويت الشوفان المنزلي",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_شوفان", "amountKg": 0.2 },
+    { "name": "سكر_بني", "amountKg": 0.1 },
+    { "name": "الزبده", "amountKg": 0.08 },
+    { "name": "عسل", "amountKg": 0.05 }
+  ],
+  "instructions": "اخلطي الشوفان مع السكر والزبدة والعسل، شكلي بسكويت واخبزيه."
+},
+{
+  "name": "توابل الخضار المشوية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلاسود", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.025 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "الثوم", "amountKg": 0.04 }
+  ],
+  "instructions": "اخلطي التوابل مع المعدنوس المجفف والثوم لتتبيل الخضار."
+},
+{
+  "name": "سلطة البنجر الأحمر",
+  "category": "health",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.4 },
+    { "name": "معدنوس", "amountKg": 0.025 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي البنجر وقشريه وقطعيه، أضيفي المعدنوس وعصير الليمون والملح."
+},
+{
+  "name": "حساء الكسكس التقليدي",
+  "category": "soup",
+  "ingredients": [
+    { "name": "كسكس", "amountKg": 0.25 },
+    { "name": "دجاج", "amountKg": 0.3 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 }
+  ],
+  "instructions": "حضري مرقة الدجاج، أضيفي الخضار، قدمي الكسكس المطبوخ مع المرقة."
+},
+{
+  "name": "طبق البقوليات المسلوقة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "حمص", "amountKg": 0.15 },
+    { "name": "عدس", "amountKg": 0.15 },
+    { "name": "لوبيا", "amountKg": 0.15 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "انقعي البقوليات واسلقيها مع الكمون حتى تنضج."
+},
+{
+  "name": "كروفيت مسلوق بالتوابل",
+  "category": "normal",
+  "ingredients": [
+    { "name": "كروفيت", "amountKg": 0.5 },
+    { "name": "غار", "amountKg": 0.005 },
+    { "name": "فلفلاسود", "amountKg": 0.003 },
+    { "name": "الملح", "amountKg": 0.008 }
+  ],
+  "instructions": "اسلقي الكروفيت مع ورق الغار والفلفل والملح حتى ينضج."
+},
+{
+  "name": "عصير الليمون الطازج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "ليمون_اخضر", "amountKg": 0.2 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "سكر_أبيض", "amountKg": 0.05 }
+  ],
+  "instructions": "اعصري الليمون، أضيفي النعناع المدقوق والسكر، اخلطي بالماء البارد."
+},
+{
+  "name": "تارت التفاح المغربية",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.5 },
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.25 },
+    { "name": "سكر_أبيض", "amountKg": 0.12 },
+    { "name": "الزبده", "amountKg": 0.1 }
+  ],
+  "instructions": "حضري عجينة التارت، قطعي التفاح واخبزي مع السكر والزبدة."
+},
+{
+  "name": "بهار الملوخية الخاص",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "قزبر", "amountKg": 0.03 },
+    { "name": "الثوم", "amountKg": 0.06 },
+    { "name": "فلفلاسود", "amountKg": 0.015 }
+  ],
+  "instructions": "اطحني التوابل مع الثوم للحصول على خلطة خاصة بالملوخية."
+},
+{
+  "name": "سلطة الأعشاب البرية",
+  "category": "health",
+  "ingredients": [
+    { "name": "قصبر_معدنوس", "amountKg": 0.2 },
+    { "name": "نعناع", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.04 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "افرمي الأعشاب ناعماً، تبلي بعصير الليمون والملح."
+},
+{
+  "name": "شوربة الفول المدشوش",
+  "category": "soup",
+  "ingredients": [
+    { "name": "فول", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "الثوم", "amountKg": 0.03 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "انقعي الفول واسلقيه، أضيفي الطماطم والثوم والكمون."
+},
+{
+  "name": "وجبة الإفطار الصحية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "دقيق_شوفان", "amountKg": 0.1 },
+    { "name": "موز", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.03 },
+    { "name": "الحليب", "amountKg": 0.2 }
+  ],
+  "instructions": "اطبخي الشوفان مع الحليب، أضيفي الموز المهروس والعسل."
+},
+{
+  "name": "طاجين السمك بالزيتون",
+  "category": "normal",
+  "ingredients": [
+    { "name": "القرش", "amountKg": 0.6 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "قزبر", "amountKg": 0.01 }
+  ],
+  "instructions": "ضعي السمك في طاجين مع الطماطم والبصل والكزبرة."
+},
+{
+  "name": "مشروب الحلبة الدافئ",
+  "category": "drink",
+  "ingredients": [
+    { "name": "حلبة", "amountKg": 0.02 },
+    { "name": "عسل", "amountKg": 0.04 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "انقعي الحلبة، اغليها وأضيفي العسل وعصير الليمون."
+},
+{
+  "name": "حلوى الجزر بالحليب",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.4 },
+    { "name": "الحليب", "amountKg": 0.5 },
+    { "name": "سكر_أبيض", "amountKg": 0.15 },
+    { "name": "هيل", "amountKg": 0.003 }
+  ],
+  "instructions": "ابشري الجزر، اطبخيه مع الحليب والسكر والهيل حتى يثخن."
+},
+{
+  "name": "مزيج التوابل العربية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "هيل", "amountKg": 0.025 },
+    { "name": "قرنفل", "amountKg": 0.02 },
+    { "name": "جوزطيب", "amountKg": 0.015 },
+    { "name": "فلفلابيض", "amountKg": 0.02 }
+  ],
+  "instructions": "اطحني التوابل معاً للحصول على مزيج البهارات العربي."
+},
+{
+  "name": "سلطة الفاصوليا الحمراء",
+  "category": "health",
+  "ingredients": [
+    { "name": "لوبيا", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الفاصوليا، أضيفي الطماطم والبصل والمعدنوس المفروم."
+},
+{
+  "name": "شوربة القمح بالحليب",
+  "category": "soup",
+  "ingredients": [
+    { "name": "قمح", "amountKg": 0.25 },
+    { "name": "الحليب", "amountKg": 0.4 },
+    { "name": "سكر_أبيض", "amountKg": 0.08 },
+    { "name": "الزبده", "amountKg": 0.03 }
+  ],
+  "instructions": "اسلقي القمح حتى ينضج، أضيفي الحليب والسكر والزبدة."
+},
+{
+  "name": "خضار مشكلة للرجيم",
+  "category": "diet",
+  "ingredients": [
+    { "name": "السبانخ", "amountKg": 0.15 },
+    { "name": "ملوخية", "amountKg": 0.15 },
+    { "name": "الكرافس", "amountKg": 0.1 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "اسلقي الخضار الورقية على البخار، قدميها مع النعناع الطازج."
+},
+{
+  "name": "لحم مشوي بالفرن",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.8 },
+    { "name": "الثوم", "amountKg": 0.04 },
+    { "name": "قزبر", "amountKg": 0.015 },
+    { "name": "فلفلاسود", "amountKg": 0.008 }
+  ],
+  "instructions": "تبلي اللحم بالثوم والكزبرة والفلفل، اشويه في الفرن حتى ينضج."
+},
+{
+  "name": "عصير الجزر والبرتقال",
+  "category": "drink",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.3 },
+    { "name": "برتقال", "amountKg": 0.4 },
+    { "name": "زنجبيل", "amountKg": 0.005 }
+  ],
+  "instructions": "اعصري الجزر والبرتقال، أضيفي الزنجبيل المبشور."
+},
+{
+  "name": "حلوى السميد بالزبيب",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_سميد", "amountKg": 0.3 },
+    { "name": "زبيب", "amountKg": 0.1 },
+    { "name": "عسل", "amountKg": 0.12 },
+    { "name": "الحليب", "amountKg": 0.25 }
+  ],
+  "instructions": "حمصي السميد، أضيفي الحليب والعسل والزبيب، اطبخي حتى يثخن."
+},
+{
+  "name": "خليط بهار الشوي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلحار", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.035 },
+    { "name": "قزبر", "amountKg": 0.035 },
+    { "name": "الثوم", "amountKg": 0.06 }
+  ],
+  "instructions": "اخلطي التوابل مع الثوم المهروس لتتبيل اللحوم المشوية."
+},
+{
+  "name": "سلطة الخيار بالطماطم",
+  "category": "health",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.25 },
+    { "name": "طماطم", "amountKg": 0.25 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الخيار والطماطم، أضيفي النعناع وعصير الليمون."
+},
+{
+  "name": "حساء الكوسة بالأرز",
+  "category": "soup",
+  "ingredients": [
+    { "name": "كوسة", "amountKg": 0.4 },
+    { "name": "ارز", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الكوسة مع الأرز والبصل، زيني بالمعدنوس."
+},
+{
+  "name": "سناك الجزر المسلوق",
+  "category": "diet",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.3 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 },
+    { "name": "الملح", "amountKg": 0.002 }
+  ],
+  "instructions": "اسلقي الجزر حتى ينضج، قدميه مع عصير الليمون ورشة ملح."
+},
+{
+  "name": "سردين مقلي بالكزبرة",
+  "category": "normal",
+  "ingredients": [
+    { "name": "سردين", "amountKg": 0.6 },
+    { "name": "قزبر", "amountKg": 0.015 },
+    { "name": "الثوم", "amountKg": 0.025 },
+    { "name": "ليمون_اسفر", "amountKg": 0.04 }
+  ],
+  "instructions": "نظفي السردين، تبليه بالكزبرة والثوم وعصير الليمون، اقليه."
+},
+{
+  "name": "مشروب التفاح الساخن",
+  "category": "drink",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.5 },
+    { "name": "قرنفل", "amountKg": 0.003 },
+    { "name": "عسل", "amountKg": 0.05 }
+  ],
+  "instructions": "اسلقي التفاح المقطع مع القرنفل، أضيفي العسل للتحلية."
+},
+{
+  "name": "مربى العنب الأحمر",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "عنب", "amountKg": 0.8 },
+    { "name": "سكر_أبيض", "amountKg": 0.5 },
+    { "name": "ليمون_اسفر", "amountKg": 0.06 }
+  ],
+  "instructions": "اطبخي العنب مع السكر وعصير الليمون حتى يثخن ويصبح مربى."
+},
+{
+  "name": "توابل الكباب الشامي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلاسود", "amountKg": 0.025 },
+    { "name": "هيل", "amountKg": 0.02 },
+    { "name": "قرنفل", "amountKg": 0.015 },
+    { "name": "جوزطيب", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني التوابل معاً للحصول على خليط بهار الكباب الشامي."
+},
+{
+  "name": "سلطة الرقة والجرجير",
+  "category": "health",
+  "ingredients": [
+    { "name": "قصبر_معدنوس", "amountKg": 0.15 },
+    { "name": "خس", "amountKg": 0.1 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "اخلطي الأوراق الخضراء مع الطماطم وعصير الليمون."
+},
+{
+  "name": "شوربة الطماطم الكريمية",
+  "category": "soup",
+  "ingredients": [
+    { "name": "طماطم", "amountKg": 0.6 },
+    { "name": "الحليب", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "فلفلابيض", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي الطماطم والبصل، اهرسيها وأضيفي الحليب والفلفل الأبيض."
+},
+{
+  "name": "طبق خضار مطهوة بالقليل من الماء",
+  "category": "diet",
+  "ingredients": [
+    { "name": "باذنجان", "amountKg": 0.2 },
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "فلفل_احمر", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.015 }
+  ],
+  "instructions": "قطعي الخضار واطبخيها بقليل من الماء مع الثوم."
+},
+{
+  "name": "طاجين الدجاج بالخضار",
+  "category": "normal",
+  "ingredients": [
+    { "name": "دجاج", "amountKg": 0.7 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "بطاطس_بيضاء", "amountKg": 0.2 },
+    { "name": "زعفران", "amountKg": 0.003 }
+  ],
+  "instructions": "ضعي الدجاج والخضار في طاجين مع الزعفران، اطبخي على نار هادئة."
+},
+{
+  "name": "عصير الشاي الأخضر المثلج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "شاي_أخضر", "amountKg": 0.02 },
+    { "name": "نعناع", "amountKg": 0.03 },
+    { "name": "ليمون_اسفر", "amountKg": 0.05 },
+    { "name": "عسل", "amountKg": 0.04 }
+  ],
+  "instructions": "حضري الشاي الأخضر بالنعناع، أضيفي الليمون والعسل، قدميه بارداً."
+},
+{
+  "name": "حلاوة اللوز بالعسل",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_جوز_الهند", "amountKg": 0.25 },
+    { "name": "عسل", "amountKg": 0.15 },
+    { "name": "الحليب", "amountKg": 0.1 },
+    { "name": "هيل", "amountKg": 0.003 }
+  ],
+  "instructions": "اخلطي دقيق جوز الهند مع العسل والحليب والهيل، شكلي حلويات."
+},
+{
+  "name": "خليط الدقة المغربية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "الملح", "amountKg": 0.1 },
+    { "name": "كمون", "amountKg": 0.06 },
+    { "name": "قزبر", "amountKg": 0.05 },
+    { "name": "فلفلحار", "amountKg": 0.02 }
+  ],
+  "instructions": "اطحني جميع المكونات معاً للحصول على الدقة المغربية الأصيلة."
+},
+{
+  "name": "سلطة الفلفل الحلو",
+  "category": "health",
+  "ingredients": [
+    { "name": "فلفل_اصفر", "amountKg": 0.2 },
+    { "name": "فلفل_احمر", "amountKg": 0.2 },
+    { "name": "معدنوس", "amountKg": 0.025 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الفلفل شرائح، أضيفي المعدنوس وعصير الليمون."
+},
+{
+  "name": "حساء الخضار الجذرية",
+  "category": "soup",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "اللفت_دائري", "amountKg": 0.15 },
+    { "name": "بطاطس_حمراء", "amountKg": 0.2 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار الجذرية واسلقيها، زيني بالمعدنوس المفروم."
+},
+{
+  "name": "وجبة البروكلي المسلوق",
+  "category": "diet",
+  "ingredients": [
+    { "name": "بروكلي", "amountKg": 0.4 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي البروكلي على البخار، قدميه مع عصير الليمون والملح."
+},
+{
+  "name": "سمك مشوي بالزعتر",
+  "category": "normal",
+  "ingredients": [
+    { "name": "القرش", "amountKg": 0.7 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "الثوم", "amountKg": 0.03 },
+    { "name": "ليمون_اسفر", "amountKg": 0.05 }
+  ],
+  "instructions": "تبلي السمك بالزعتر والثوم وعصير الليمون، اشويه في الفرن."
+},
+{
+  "name": "مشروب الكمون الدافئ",
+  "category": "drink",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.02 },
+    { "name": "عسل", "amountKg": 0.04 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اغلي الكمون، أضيفي العسل وعصير الليمون، قدميه ساخناً."
+},
+{
+  "name": "كيك الموز الرطب",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "موز", "amountKg": 0.4 },
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
+    { "name": "سكر_بني", "amountKg": 0.15 },
+    { "name": "الزبده", "amountKg": 0.1 }
+  ],
+  "instructions": "اهرسي الموز، اخلطيه مع الدقيق والسكر والزبدة، اخبزي في الفرن."
+},
+{
+  "name": "توابل الأرز المبهر",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زعفران", "amountKg": 0.003 },
+    { "name": "هيل", "amountKg": 0.02 },
+    { "name": "قرنفل", "amountKg": 0.015 },
+    { "name": "غار", "amountKg": 0.02 }
+  ],
+  "instructions": "اخلطي التوابل معاً لإضافة نكهة مميزة للأرز."
+},
+{
+  "name": "سلطة الباذنجان الصغير",
+  "category": "health",
+  "ingredients": [
+    { "name": "باذنجان", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اشوي الباذنجان الصغير، قطعيه وأضيفي الطماطم والثوم والمعدنوس."
+},
+{
+  "name": "شوربة الجزر بالزنجبيل",
+  "category": "soup",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.5 },
+    { "name": "زنجبيل", "amountKg": 0.015 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "الزبده", "amountKg": 0.03 }
+  ],
+  "instructions": "اسلقي الجزر مع البصل والزنجبيل، اهرسيها وأضيفي الزبدة."
+},
+{
+  "name": "طبق الفاصوليا الخضراء المسلوقة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "لوبيا", "amountKg": 0.4 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "اسلقي الفاصوليا، أضيفي الطماطم والبصل وعصير الليمون."
+},
+{
+  "name": "كفتة الديك الرومي المشوية",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_الديك_الرومي", "amountKg": 0.5 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "فلفلاسود", "amountKg": 0.005 }
+  ],
+  "instructions": "اخلطي الكفتة مع البصل والمعدنوس والفلفل، شكلي واشوي."
+},
+{
+  "name": "عصير الخوخ والمشمش",
+  "category": "drink",
+  "ingredients": [
+    { "name": "خوخ", "amountKg": 0.3 },
+    { "name": "مشمش", "amountKg": 0.3 },
+    { "name": "عسل", "amountKg": 0.04 }
+  ],
+  "instructions": "قطعي الخوخ والمشمش، اخلطيهما مع العسل في الخلاط."
+},
+{
+  "name": "حلوى الأرز المحلاة",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "ارز", "amountKg": 0.25 },
+    { "name": "الحليب", "amountKg": 0.6 },
+    { "name": "سكر_أبيض", "amountKg": 0.15 },
+    { "name": "الزبادي", "amountKg": 0.1 }
+  ],
+  "instructions": "اطبخي الأرز مع الحليب والسكر، أضيفي الزبادي عند البرودة."
+},
+{
+  "name": "بهار المحاشي الشامية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "فلفلاسود", "amountKg": 0.02 },
+    { "name": "هيل", "amountKg": 0.015 },
+    { "name": "قرنفل", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني التوابل معاً لتتبيل حشو المحاشي."
+},
+{
+  "name": "سلطة الكوسة النيئة المبشورة",
+  "category": "health",
+  "ingredients": [
+    { "name": "كوسة", "amountKg": 0.4 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.04 },
+    { "name": "نعناع", "amountKg": 0.015 }
+  ],
+  "instructions": "ابشري الكوسة والجزر، أضيفي عصير الليمون والنعناع."
+},
+{
+  "name": "حساء الدجاج بالأرز",
+  "category": "soup",
+  "ingredients": [
+    { "name": "دجاج", "amountKg": 0.4 },
+    { "name": "ارز", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.025 }
+  ],
+  "instructions": "اسلقي الدجاج، أضيفي الأرز والجزر، زيني بالمعدنوس."
+},
+{
+  "name": "وجبة القرنبيط المسلوق",
+  "category": "diet",
+  "ingredients": [
+    { "name": "قرنبيط", "amountKg": 0.5 },
+    { "name": "كمون", "amountKg": 0.003 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اسلقي القرنبيط مع الكمون، قدميه مع عصير الليمون."
+},
+{
+  "name": "سلمون مشوي بالأعشاب",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الصومو", "amountKg": 0.6 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "الثوم", "amountKg": 0.025 }
+  ],
+  "instructions": "تبلي السلمون بالأعشاب والثوم، اشويه حتى ينضج."
+},
+{
+  "name": "مشروب النعناع المثلج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "نعناع", "amountKg": 0.05 },
+    { "name": "ليمون_اخضر", "amountKg": 0.08 },
+    { "name": "عسل", "amountKg": 0.06 }
+  ],
+  "instructions": "اخلطي النعناع مع عصير الليمون والعسل، قدميه مع الثلج."
+},
+{
+  "name": "تشيز كيك بالفراولة",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "فراولة", "amountKg": 0.3 },
+    { "name": "الجبنه", "amountKg": 0.4 },
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
+    { "name": "سكر_بودرة", "amountKg": 0.15 }
+  ],
+  "instructions": "حضري قاعدة من الدقيق، اخلطي الجبن مع السكر والفراولة، اخبزي."
+},
+{
+  "name": "خلطة الفول المدمس",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.04 },
+    { "name": "قزبر", "amountKg": 0.04 },
+    { "name": "الثوم", "amountKg": 0.08 },
+    { "name": "فلفلحار", "amountKg": 0.015 }
+  ],
+  "instructions": "اطحني التوابل مع الثوم للحصول على خلطة الفول المدمس."
+},
+{
+  "name": "سلطة الخس الأخضر",
+  "category": "health",
+  "ingredients": [
+    { "name": "خس", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "خيار", "amountKg": 0.15 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الخضار واخلطيها مع عصير الليمون للحصول على سلطة منعشة."
+},
+{
+  "name": "سلطة الطماطم بالجزر",
+  "category": "health",
+  "ingredients": [
+    { "name": "طماطم", "amountKg": 0.3 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "خس", "amountKg": 0.1 },
+    { "name": "الملح", "amountKg": 0.005 }
+  ],
+  "instructions": "اغسلي الطماطم والجزر والخس جيداً، قطعي الطماطم مكعبات والجزر شرائح رفيعة، اخلطي المكونات ورشي الملح."
+},
+{
+  "name": "شوربة البطاطس بالكوسة",
+  "category": "soup",
+  "ingredients": [
+    { "name": "بطاطس_بيضاء", "amountKg": 0.4 },
+    { "name": "كوسة", "amountKg": 0.3 },
+    { "name": "كمون", "amountKg": 0.003 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي البطاطس والكوسة مع الكمون، ثم اهرسيها واتركيها تنضج، زيني بالمعدنوس المفروم."
+},
+{
+  "name": "طاجين الدجاج بالباذنجان",
+  "category": "normal",
+  "ingredients": [
+    { "name": "دجاج", "amountKg": 0.6 },
+    { "name": "باذنجان", "amountKg": 0.4 },
+    { "name": "التحميرا", "amountKg": 0.01 },
+    { "name": "الثوم", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الدجاج والباذنجان، اقلي الثوم مع التحميرة، أضيفي الدجاج والباذنجان واطبخي على نار هادئة."
+},
+{
+  "name": "عصير التفاح بالعنب",
+  "category": "drink",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.3 },
+    { "name": "عنب", "amountKg": 0.2 }
+  ],
+  "instructions": "اغسل التفاح والعنب جيداً، قطع التفاح واخلطه مع العنب في الخلاط حتى يصبح عصيراً ناعماً."
+},
+{
+  "name": "حلوى التمر بالعسل",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "تمر", "amountKg": 0.3 },
+    { "name": "عسل", "amountKg": 0.1 },
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 }
+  ],
+  "instructions": "انزعي نوى التمر واهرسيه، اخلطيه مع العسل والدقيق، شكلي كرات صغيرة واتركيها تجف."
+},
+{
+  "name": "خليط التوابل المغربي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.05 },
+    { "name": "زعفران", "amountKg": 0.005 },
+    { "name": "قرنفل", "amountKg": 0.01 },
+    { "name": "جوزطيب", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني جميع التوابل معاً واحفظيها في وعاء محكم الإغلاق لاستخدامها في الطبخ."
+},
+{
+  "name": "سلطة الجزر المبشور",
+  "category": "diet",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.4 },
+    { "name": "ليمون_اسفر", "amountKg": 0.05 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "ابشري الجزر ناعماً، أضيفي عصير الليمون والمعدنوس المفروم، اخلطي جيداً."
+},
+{
+  "name": "طاجين اللحم بالقرع",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.5 },
+    { "name": "قرع", "amountKg": 0.4 },
+    { "name": "قرنفل", "amountKg": 0.002 },
+    { "name": "غار", "amountKg": 0.003 }
+  ],
+  "instructions": "قطع اللحم والقرع مكعبات، ضع المكونات مع القرنفل وورق الغار في طاجين واتركها تطبخ ببطء."
+},
+{
+  "name": "شوربة العدس المغربية",
+  "category": "soup",
+  "ingredients": [
+    { "name": "عدس", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "انقعي العدس، اسلقيه مع الطماطم والثوم والكمون، اهرسي الخليط للحصول على قوام كريمي."
+},
+{
+  "name": "سلطة الفاصوليا الخضراء",
+  "category": "health",
+  "ingredients": [
+    { "name": "لوبيا", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "يانسون", "amountKg": 0.002 },
+    { "name": "الملح", "amountKg": 0.005 }
+  ],
+  "instructions": "اسلقي الفاصوليا حتى تنضج، اتركيها تبرد ثم اخلطيها مع الطماطم المقطعة والملح واليانسون."
+},
+{
+  "name": "كسكس بالخضار",
+  "category": "normal",
+  "ingredients": [
+    { "name": "كسكس", "amountKg": 0.4 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "قرنبيط", "amountKg": 0.2 }
+  ],
+  "instructions": "حضري الكسكس على البخار، اسلقي الخضار واخلطيها مع الكسكس المطبوخ."
+},
+{
+  "name": "شاي بالزنجبيل والنعناع",
+  "category": "drink",
+  "ingredients": [
+    { "name": "زنجبيل", "amountKg": 0.01 },
+    { "name": "نعناع", "amountKg": 0.015 },
+    { "name": "شاي_أخضر", "amountKg": 0.01 }
+  ],
+  "instructions": "اغلي الماء وأضف الزنجبيل المقطع والنعناع والشاي الأخضر، دع المزيج ينقع 7 دقائق ثم قدمه ساخناً."
+},
+{
+  "name": "سمك السردين المشوي",
+  "category": "normal",
+  "ingredients": [
+    { "name": "سردين", "amountKg": 0.5 },
+    { "name": "زنجبيل", "amountKg": 0.01 },
+    { "name": "فلفلاسود", "amountKg": 0.003 },
+    { "name": "نعناع", "amountKg": 0.02 }
+  ],
+  "instructions": "نظفي السردين وتبليه بالزنجبيل والفلفل الأسود، اشويه واقدميه مع النعناع الطازج."
+},
+{
+  "name": "حساء الحمص بالكمون",
+  "category": "soup",
+  "ingredients": [
+    { "name": "حمص", "amountKg": 0.3 },
+    { "name": "كمون", "amountKg": 0.005 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "انقعي الحمص ليلة كاملة، اطبخيه مع الكمون والثوم، اهرسي نصف الكمية وزيني بالمعدنوس."
+},
+{
+  "name": "سلطة الشمندر بالجزر",
+  "category": "diet",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.3 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي اللفت والجزر، قطعيهما مكعبات، أضيفي عصير الليمون والملح."
+},
+{
+  "name": "طاجين الديك الرومي بالبرقوق",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الديك_الرومي", "amountKg": 0.7 },
+    { "name": "برقوق_احمر", "amountKg": 0.2 },
+    { "name": "قرنفل", "amountKg": 0.003 },
+    { "name": "زعفران", "amountKg": 0.002 }
+  ],
+  "instructions": "قطعي لحم الديك الرومي، ضعيه في طاجين مع البرقوق والتوابل، اطبخي على نار هادئة."
+},
+{
+  "name": "عصير الموز بالبرتقال",
+  "category": "drink",
+  "ingredients": [
+    { "name": "موز", "amountKg": 0.2 },
+    { "name": "برتقال", "amountKg": 0.3 }
+  ],
+  "instructions": "قشر الموز واعصر البرتقال، اخلط الموز مع عصير البرتقال في الخلاط للحصول على مشروب كريمي."
+},
+{
+  "name": "حلاوة الطحينة بالعسل",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_سميد", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.1 },
+    { "name": "سكر_أبيض", "amountKg": 0.05 }
+  ],
+  "instructions": "حمصي السميد، اخلطيه مع العسل والسكر، شكلي كرات واتركيها تبرد."
+},
+{
+  "name": "رز بالزعفران",
+  "category": "normal",
+  "ingredients": [
+    { "name": "ارز", "amountKg": 0.4 },
+    { "name": "زعفران", "amountKg": 0.002 },
+    { "name": "الملح", "amountKg": 0.005 }
+  ],
+  "instructions": "انقعي الزعفران في ماء دافئ، اطبخي الأرز مع ماء الزعفران والملح."
+},
+{
+  "name": "سلطة الخس بالطماطم",
+  "category": "health",
+  "ingredients": [
+    { "name": "خس", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.3 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي الخس والطماطم، اخلطيهما مع عصير الليمون والملح."
+},
+{
+  "name": "شوربة الملوخية",
+  "category": "soup",
+  "ingredients": [
+    { "name": "ملوخية", "amountKg": 0.3 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.003 },
+    { "name": "دجاج", "amountKg": 0.2 }
+  ],
+  "instructions": "اطبخي الدجاج، أضيفي الملوخية والثوم والكمون، اتركي الخليط ينضج."
+},
+{
+  "name": "خضار مسلوقة صحية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "بروكلي", "amountKg": 0.2 },
+    { "name": "قرنبيط", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي الخضار في ماء مملح حتى تنضج، قدميها ساخنة."
+},
+{
+  "name": "كفتة مشوية بالتوابل",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_البقر", "amountKg": 0.4 },
+    { "name": "هيل", "amountKg": 0.003 },
+    { "name": "قزبر", "amountKg": 0.005 },
+    { "name": "فلفلحار", "amountKg": 0.002 }
+  ],
+  "instructions": "شكلي الكفتة أصابع وتبليها بالهيل والقزبر والفلفل الحار، اشويها حتى تنضج من جميع الجهات."
+},
+{
+  "name": "عصير الفراولة",
+  "category": "drink",
+  "ingredients": [
+    { "name": "فراولة", "amountKg": 0.3 },
+    { "name": "سكر_أبيض", "amountKg": 0.05 }
+  ],
+  "instructions": "اغسلي الفراولة واخلطيها مع السكر في الخلاط حتى تصبح عصيراً ناعماً."
+},
+{
+  "name": "مهلبية بماء الورد",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "الحليب", "amountKg": 0.5 },
+    { "name": "سكر_أبيض", "amountKg": 0.1 },
+    { "name": "دقيق_أرز", "amountKg": 0.03 }
+  ],
+  "instructions": "اخلطي دقيق الأرز مع قليل من الحليب، اغلي باقي الحليب مع السكر وأضيفي خليط الدقيق."
+},
+{
+  "name": "بهار الشاورما",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلاسود", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "هيل", "amountKg": 0.01 },
+    { "name": "قرنفل", "amountKg": 0.005 }
+  ],
+  "instructions": "اطحني جميع التوابل معاً للحصول على خليط بهار الشاورما."
+},
+{
+  "name": "بطاطس مقلية صحية",
+  "category": "health",
+  "ingredients": [
+    { "name": "بطاطس_بيضاء", "amountKg": 0.5 }
+  ],
+  "instructions": "قطعي البطاطس إلى شرائح، واقليها بالزيت الصحي حتى تصبح ذهبية ومقرمشة."
+},
+{
+  "name": "شوربة القرنبيط بالبروكلي",
+  "category": "soup",
+  "ingredients": [
+    { "name": "قرنبيط", "amountKg": 0.3 },
+    { "name": "بروكلي", "amountKg": 0.3 },
+    { "name": "زعفران", "amountKg": 0.001 },
+    { "name": "فلفلابيض", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي القرنبيط والبروكلي مع الزعفران والفلفل الأبيض، ثم اهرسيها للحصول على شوربة كريمية."
+},
+{
+  "name": "سلطة الملفوف المتبلة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "ملفوف", "amountKg": 0.4 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "ليمون_اسفر", "amountKg": 0.04 },
+    { "name": "الملح", "amountKg": 0.005 }
+  ],
+  "instructions": "اقطعي الملفوف والجزر شرائح رفيعة، تبلي بعصير الليمون والملح."
+},
+{
+  "name": "طاجين السمك بالخضار",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الصومو", "amountKg": 0.6 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.02 }
+  ],
+  "instructions": "نظفي السمك، ضعيه في طاجين مع الخضار المقطعة والثوم، اطبخي على نار متوسطة."
+},
+{
+  "name": "عصير المانجو",
+  "category": "drink",
+  "ingredients": [
+    { "name": "مانجو", "amountKg": 0.4 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "قشري المانجو وقطعيها، اخلطيها مع العسل في الخلاط."
+},
+{
+  "name": "كنافة بالجبن",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "الجبنه", "amountKg": 0.3 },
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
+    { "name": "سكر_بودرة", "amountKg": 0.1 },
+    { "name": "الزبده", "amountKg": 0.05 }
+  ],
+  "instructions": "حضري العجينة من الدقيق والزبدة، احشيها بالجبن والسكر، اخبزيها حتى تذهب."
+},
+{
+  "name": "خليط السبع بهارات",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلاسود", "amountKg": 0.01 },
+    { "name": "قرنفل", "amountKg": 0.01 },
+    { "name": "هيل", "amountKg": 0.01 },
+    { "name": "جوزطيب", "amountKg": 0.01 },
+    { "name": "قزبر", "amountKg": 0.01 },
+    { "name": "كمون", "amountKg": 0.01 },
+    { "name": "حلبة", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني جميع التوابل معاً للحصول على خليط السبع بهارات المغربي الأصيل."
+},
+{
+  "name": "سلطة البازلاء الخضراء",
+  "category": "health",
+  "ingredients": [
+    { "name": "بازلاء", "amountKg": 0.3 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي البازلاء، اخلطيها مع المعدنوس المفروم وعصير الليمون والملح."
+},
+{
+  "name": "شوربة السبانخ",
+  "category": "soup",
+  "ingredients": [
+    { "name": "السبانخ", "amountKg": 0.4 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.003 }
+  ],
+  "instructions": "اقلي البصل والثوم، أضيفي السبانخ والكمون، اسلقي الخليط واهرسيه للحصول على شوربة."
+},
+{
+  "name": "خضار منوعة مطبوخة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "فلفل_احمر", "amountKg": 0.1 },
+    { "name": "فلفل_اصفر", "amountKg": 0.1 },
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "باذنجان", "amountKg": 0.2 }
+  ],
+  "instructions": "قطعي الخضار مكعبات، اطبخيها على البخار حتى تنضج."
+},
+{
+  "name": "لحم بقري مشوي بالأعشاب",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.7 },
+    { "name": "غار", "amountKg": 0.005 },
+    { "name": "قزبر", "amountKg": 0.01 },
+    { "name": "فلفلاسود", "amountKg": 0.005 }
+  ],
+  "instructions": "تبلي اللحم بالأعشاب والتوابل، اشويه في الفرن حتى ينضج."
+},
+{
+  "name": "عصير الرمان الطبيعي",
+  "category": "drink",
+  "ingredients": [
+    { "name": "رمان", "amountKg": 0.5 },
+    { "name": "عسل", "amountKg": 0.02 }
+  ],
+  "instructions": "استخرجي حبوب الرمان، اعصريها واخلطي العصير مع العسل."
+},
+{
+  "name": "بسبوسة بالعسل",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_سميد", "amountKg": 0.3 },
+    { "name": "عسل", "amountKg": 0.15 },
+    { "name": "الحليب", "amountKg": 0.2 },
+    { "name": "الزبده", "amountKg": 0.05 }
+  ],
+  "instructions": "اخلطي السميد مع الحليب والزبدة، اخبزي الخليط واسقيه بالعسل وهو ساخن."
+},
+{
+  "name": "دقة الكزبرة والثوم",
+  "category": "spice",
+  "ingredients": [
+    { "name": "قزبر", "amountKg": 0.05 },
+    { "name": "الثوم", "amountKg": 0.1 },
+    { "name": "الملح", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني الكزبرة والثوم مع الملح للحصول على دقة التتبيل المغربية."
+},
+{
+  "name": "سلطة الأفوكادو",
+  "category": "health",
+  "ingredients": [
+    { "name": "افوكادو", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "ليمون_اخضر", "amountKg": 0.04 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي الأفوكادو والطماطم، اخلطيهما مع عصير الليمون والملح."
+},
+{
+  "name": "حساء الفول المدمس",
+  "category": "soup",
+  "ingredients": [
+    { "name": "فول", "amountKg": 0.4 },
+    { "name": "الثوم", "amountKg": 0.03 },
+    { "name": "كمون", "amountKg": 0.005 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "انقعي الفول ليلة كاملة، اسلقيه مع الثوم والكمون، زيني بالمعدنوس."
+},
+{
+  "name": "شرائح البطاطس المخبوزة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "بطاطس_حمراء", "amountKg": 0.6 },
+    { "name": "الملح", "amountKg": 0.005 },
+    { "name": "فلفلاسود", "amountKg": 0.002 }
+  ],
+  "instructions": "قطعي البطاطس شرائح، رشي عليها الملح والفلفل، اخبزيها في الفرن."
+},
+{
+  "name": "كروفيت مقلي بالتوابل",
+  "category": "normal",
+  "ingredients": [
+    { "name": "كروفيت", "amountKg": 0.5 },
+    { "name": "فلفلحار", "amountKg": 0.003 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "زنجبيل", "amountKg": 0.01 }
+  ],
+  "instructions": "نظفي الكروفيت، تبليه بالتوابل والثوم والزنجبيل، اقليه حتى يصبح ذهبي اللون."
+},
+{
+  "name": "عصير الكيوي المنعش",
+  "category": "drink",
+  "ingredients": [
+    { "name": "كيوي", "amountKg": 0.4 },
+    { "name": "عسل", "amountKg": 0.03 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "قشري الكيوي واخلطيه مع العسل والنعناع في الخلاط للحصول على عصير منعش."
+},
+{
+  "name": "حلوى السميد بالحليب",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_سميد", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.5 },
+    { "name": "سكر_بني", "amountKg": 0.1 },
+    { "name": "الزبده", "amountKg": 0.03 }
+  ],
+  "instructions": "حمصي السميد مع الزبدة، أضيفي الحليب والسكر، حركي حتى يثخن القوام."
+},
+{
+  "name": "بهار الطاجين المغربي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زعفران", "amountKg": 0.003 },
+    { "name": "زنجبيل", "amountKg": 0.02 },
+    { "name": "قرنفل", "amountKg": 0.01 },
+    { "name": "غار", "amountKg": 0.01 }
+  ],
+  "instructions": "اخلطي جميع التوابل معاً لتحصلي على خليط بهار الطاجين الأصيل."
+},
+{
+  "name": "سلطة الخيار بالنعناع",
+  "category": "health",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.3 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي اللفت شرائح رفيعة، أضيفي النعناع المفروم وعصير الليمون والملح."
+},
+{
+  "name": "شوربة الكرافس",
+  "category": "soup",
+  "ingredients": [
+    { "name": "الكرافس", "amountKg": 0.4 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "فلفلابيض", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي الكرافس والبصل، اسلقيهما مع الثوم والفلفل الأبيض، اهرسي للحصول على شوربة."
+},
+{
+  "name": "خضار مشكلة بالبخار",
+  "category": "diet",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "بازلاء", "amountKg": 0.2 },
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي الخضار وضعيها في سلة البخار، اطبخيها حتى تنضج مع رش الملح."
+},
+{
+  "name": "طاجين القرش بالخضار",
+  "category": "normal",
+  "ingredients": [
+    { "name": "القرش", "amountKg": 0.6 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "فلفل_احمر", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.025 }
+  ],
+  "instructions": "نظفي لحم القرش، ضعيه في طاجين مع الخضار والثوم، اطبخي على نار هادئة."
+},
+{
+  "name": "شراب الدلاح المثلج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "دلاح", "amountKg": 0.6 },
+    { "name": "نعناع", "amountKg": 0.01 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الدلاح وازيلي البذور، اخلطيه مع النعناع وعصير الليمون."
+},
+{
+  "name": "معمول بالتمر والجوز",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أسمر", "amountKg": 0.3 },
+    { "name": "تمر", "amountKg": 0.2 },
+    { "name": "الزبده", "amountKg": 0.1 },
+    { "name": "سكر_بودرة", "amountKg": 0.05 }
+  ],
+  "instructions": "حضري عجينة من الدقيق والزبدة، احشيها بالتمر المهروس، اخبزي القطع حتى تذهب."
+},
+{
+  "name": "خلطة الحريرة",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.02 },
+    { "name": "زنجبيل", "amountKg": 0.01 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "فلفلاسود", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني التوابل معاً لتحصلي على خلطة الحريرة المغربية الأصيلة."
+},
+{
+  "name": "سلطة الجرجير بالرمان",
+  "category": "health",
+  "ingredients": [
+    { "name": "قصبر_معدنوس", "amountKg": 0.15 },
+    { "name": "رمان", "amountKg": 0.2 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اخلطي أوراق الجرجير مع حبوب الرمان وعصير الليمون والملح."
+},
+{
+  "name": "شوربة الذرة الحلوة",
+  "category": "soup",
+  "ingredients": [
+    { "name": "ذرة", "amountKg": 0.4 },
+    { "name": "الحليب", "amountKg": 0.3 },
+    { "name": "الزبده", "amountKg": 0.02 },
+    { "name": "الملح", "amountKg": 0.005 }
+  ],
+  "instructions": "اسلقي الذرة، اخلطيها مع الحليب والزبدة، تبلي بالملح."
+},
+{
+  "name": "سلطة خفيفة للرجيم",
+  "category": "diet",
+  "ingredients": [
+    { "name": "خس", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "خيار", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الخضار قطع صغيرة، اخلطيها مع عصير الليمون بدون ملح."
+},
+{
+  "name": "كفتة الدجاج المشوية",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_دجاج", "amountKg": 0.5 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "فلفلاسود", "amountKg": 0.003 }
+  ],
+  "instructions": "اخلطي كفتة الدجاج مع البصل المفروم والمعدنوس، شكلي كرات واشويها."
+},
+{
+  "name": "عصير التوت البري",
+  "category": "drink",
+  "ingredients": [
+    { "name": "زبيب", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "انقعي الزبيب في الماء، اخلطيه مع العسل وعصير الليمون."
+},
+{
+  "name": "كريم كراميل منزلي",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "الحليب", "amountKg": 0.5 },
+    { "name": "سكر_خام", "amountKg": 0.15 },
+    { "name": "الزبادي", "amountKg": 0.1 }
+  ],
+  "instructions": "حضري الكراميل من السكر، اخلطي الحليب مع الزبادي، اسكبي في قوالب واتركي لتبرد."
+},
+{
+  "name": "توابل الكباب المغربي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلحار", "amountKg": 0.01 },
+    { "name": "كمون", "amountKg": 0.02 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "الثوم", "amountKg": 0.05 }
+  ],
+  "instructions": "اطحني التوابل مع الثوم للحصول على خلطة الكباب المغربي."
+},
+{
+  "name": "سلطة الشمام بالنعناع",
+  "category": "health",
+  "ingredients": [
+    { "name": "شمام", "amountKg": 0.4 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الشمام مكعبات، أضيفي النعناع المفروم وعصير الليمون."
+},
+{
+  "name": "حساء القمح بالخضار",
+  "category": "soup",
+  "ingredients": [
+    { "name": "قمح", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "انقعي القمح، اسلقيه مع الخضار المقطعة، زيني بالمعدنوس."
+},
+{
+  "name": "خضار مشوية صحية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "باذنجان", "amountKg": 0.2 },
+    { "name": "فلفل_اصفر", "amountKg": 0.1 },
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "زعفران", "amountKg": 0.001 }
+  ],
+  "instructions": "قطعي الخضار وتبليها بالزعفران، اشويها في الفرن حتى تنضج."
+},
+{
+  "name": "طاجين الكفتة بالبيض",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_الديك_الرومي", "amountKg": 0.4 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "شكلي الكفتة كرات، ضعيها في طاجين مع الطماطم والبصل، اطبخي حتى تنضج."
+},
+{
+  "name": "عصير الخوخ الطازج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "خوخ", "amountKg": 0.5 },
+    { "name": "سكر_جوز_الهند", "amountKg": 0.03 }
+  ],
+  "instructions": "قشري الخوخ وازيلي النوى، اخلطيه مع سكر جوز الهند."
+},
+{
+  "name": "قطايف بالقشطة",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.3 },
+    { "name": "شراب_القيقب", "amountKg": 0.1 },
+    { "name": "الزبده", "amountKg": 0.05 }
+  ],
+  "instructions": "حضري عجينة القطايف، احشيها بالقشطة المحضرة من الحليب، اقليها واسقيها بالشراب."
+},
+{
+  "name": "بهارات السمك المغربي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.02 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "فلفلحار", "amountKg": 0.005 },
+    { "name": "زنجبيل", "amountKg": 0.01 }
+  ],
+  "instructions": "اخلطي التوابل معاً لتتبيل السمك على الطريقة المغربية."
+},
+{
+  "name": "سلطة التفاح بالجوز",
+  "category": "health",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.3 },
+    { "name": "خس", "amountKg": 0.1 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "عسل", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي التفاح والخس، اخلطيهما مع عصير الليمون والعسل."
+},
+{
+  "name": "شوربة الأرز بالحليب",
+  "category": "soup",
+  "ingredients": [
+    { "name": "ارز", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.4 },
+    { "name": "الزبده", "amountKg": 0.02 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي الأرز، أضيفي الحليب والزبدة، تبلي بقليل من الملح."
+},
+{
+  "name": "وجبة خفيفة للحمية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "بروكلي", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "قرنبيط", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الخضار على البخار، قدميها مع عصير الليمون."
+},
+{
+  "name": "دجاج محشي بالأرز",
+  "category": "normal",
+  "ingredients": [
+    { "name": "دجاج", "amountKg": 0.8 },
+    { "name": "ارز", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "زعفران", "amountKg": 0.002 }
+  ],
+  "instructions": "نظفي الدجاج، حضري الحشوة من الأرز والبصل والزعفران، احشي الدجاج واشويه."
+},
+{
+  "name": "عصير المشمش الطبيعي",
+  "category": "drink",
+  "ingredients": [
+    { "name": "مشمش", "amountKg": 0.5 },
+    { "name": "عسل", "amountKg": 0.03 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي المشمش وازيلي النوى، اخلطيه مع العسل وعصير الليمون."
+},
+{
+  "name": "مربى التين المنزلي",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "تين", "amountKg": 0.6 },
+    { "name": "سكر_أبيض", "amountKg": 0.3 },
+    { "name": "ليمون_اسفر", "amountKg": 0.05 }
+  ],
+  "instructions": "قطعي التين، اطبخيه مع السكر وعصير الليمون حتى يثخن."
+},
+{
+  "name": "رأس الحانوت الأصلي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زعفران", "amountKg": 0.002 },
+    { "name": "قرنفل", "amountKg": 0.01 },
+    { "name": "هيل", "amountKg": 0.01 },
+    { "name": "جوزطيب", "amountKg": 0.008 },
+    { "name": "حلبة", "amountKg": 0.01 },
+    { "name": "يانسون", "amountKg": 0.008 }
+  ],
+  "instructions": "اطحني جميع التوابل معاً للحصول على خليط رأس الحانوت المغربي الأصيل."
+},
+{
+  "name": "سلطة الكوسة النيئة",
+  "category": "health",
+  "ingredients": [
+    { "name": "كوسة", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "نعناع", "amountKg": 0.01 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "ابشري الكوسة، أضيفي الطماطم المقطعة والنعناع وعصير الليمون."
+},
+{
+  "name": "حساء البقوليات المختلطة",
+  "category": "soup",
+  "ingredients": [
+    { "name": "عدس", "amountKg": 0.15 },
+    { "name": "حمص", "amountKg": 0.15 },
+    { "name": "فول", "amountKg": 0.15 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "انقعي البقوليات، اسلقيها مع الكمون حتى تنضج جيداً."
+},
+{
+  "name": "خضار سوتيه للرجيم",
+  "category": "diet",
+  "ingredients": [
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "فلفل_احمر", "amountKg": 0.1 },
+    { "name": "البصل_ابيض", "amountKg": 0.05 },
+    { "name": "الثوم", "amountKg": 0.01 }
+  ],
+  "instructions": "قطعي الخضار شرائح، اقليها قلياً خفيفاً مع الثوم."
+},
+{
+  "name": "لحم الغنم بالبرقوق",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.6 },
+    { "name": "برقوق_احمر", "amountKg": 0.2 },
+    { "name": "قرنفل", "amountKg": 0.003 },
+    { "name": "زعفران", "amountKg": 0.002 }
+  ],
+  "instructions": "قطعي اللحم، ضعيه في طاجين مع البرقوق والتوابل، اطبخي ببطء."
+},
+{
+  "name": "عصير اليوسفي الطازج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "يوسفي", "amountKg": 0.6 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "قشري اليوسفي واعصريه، أضيفي أوراق النعناع للتزيين."
+},
+{
+  "name": "كنافة نابلسية",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
+    { "name": "الجبنه", "amountKg": 0.25 },
+    { "name": "شراب_الذرة", "amountKg": 0.15 },
+    { "name": "الزبده", "amountKg": 0.08 }
+  ],
+  "instructions": "حضري عجينة الكنافة، احشيها بالجبن، اخبزيها واسقيها بالشراب."
+},
+{
+  "name": "خلطة البهارات الحارة",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلحار", "amountKg": 0.03 },
+    { "name": "فلفلاسود", "amountKg": 0.02 },
+    { "name": "زنجبيل", "amountKg": 0.02 },
+    { "name": "الثوم", "amountKg": 0.05 }
+  ],
+  "instructions": "اطحني التوابل مع الثوم للحصول على خلطة حارة للتتبيل."
+},
+{
+  "name": "سلطة الرجلة البرية",
+  "category": "health",
+  "ingredients": [
+    { "name": "قصبر_معدنوس", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اقطفي أوراق الرجلة، اخلطيها مع الطماطم والبصل وعصير الليمون."
+},
+{
+  "name": "شوربة الشعير بالخضار",
+  "category": "soup",
+  "ingredients": [
+    { "name": "دقيق_شعير", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "الكرافس", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الشعير مع الخضار المقطعة، زيني بالمعدنوس المفروم."
+},
+{
+  "name": "سلطة دايت للإفطار",
+  "category": "diet",
+  "ingredients": [
+    { "name": "خس", "amountKg": 0.15 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "خيار", "amountKg": 0.1 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار قطع صغيرة، رشي عصير الليمون بدون إضافة ملح أو زيت."
+},
+{
+  "name": "سردين معلب بالصلصة",
+  "category": "normal",
+  "ingredients": [
+    { "name": "سردين", "amountKg": 0.4 },
+    { "name": "طماطم", "amountKg": 0.3 },
+    { "name": "فلفلحار", "amountKg": 0.002 },
+    { "name": "الثوم", "amountKg": 0.02 }
+  ],
+  "instructions": "حضري صلصة الطماطم بالثوم والفلفل الحار، أضيفي السردين واتركيه ينضج."
+},
+{
+  "name": "عصير العنب الأحمر",
+  "category": "drink",
+  "ingredients": [
+    { "name": "عنب", "amountKg": 0.6 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "اغسلي العنب جيداً، اعصريه وأضيفي قطرات من عصير الليمون."
+},
+{
+  "name": "أم علي بالمكسرات",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.5 },
+    { "name": "سكر_بني", "amountKg": 0.1 },
+    { "name": "الزبده", "amountKg": 0.05 }
+  ],
+  "instructions": "حضري الفطائر من الدقيق، قطعيها واتركيها تجف، اسكبي الحليب المحلى الساخن عليها."
+},
+{
+  "name": "دقة الملح والكمون",
+  "category": "spice",
+  "ingredients": [
+    { "name": "الملح", "amountKg": 0.1 },
+    { "name": "كمون", "amountKg": 0.05 },
+    { "name": "فلفلاسود", "amountKg": 0.02 }
+  ],
+  "instructions": "اطحني الملح مع الكمون والفلفل الأسود للحصول على دقة التتبيل."
+},
+{
+  "name": "سلطة الفجل الأحمر",
+  "category": "health",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.2 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي الفجل شرائح رفيعة، أضيفي المعدنوس المفروم وعصير الليمون والملح."
+},
+{
+  "name": "حساء الشوفان بالحليب",
+  "category": "soup",
+  "ingredients": [
+    { "name": "دقيق_شوفان", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.4 },
+    { "name": "عسل", "amountKg": 0.05 },
+    { "name": "الزبده", "amountKg": 0.02 }
+  ],
+  "instructions": "اطبخي الشوفان مع الحليب، أضيفي العسل والزبدة عند التقديم."
+},
+{
+  "name": "خضار مطبوخة بالبخار",
+  "category": "diet",
+  "ingredients": [
+    { "name": "السبانخ", "amountKg": 0.2 },
+    { "name": "ملوخية", "amountKg": 0.15 },
+    { "name": "الثوم", "amountKg": 0.01 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "اطبخي الخضار الورقية على البخار مع الثوم، رشي عصير الليمون."
+},
+{
+  "name": "طاجين السمك بالزيتون",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الصومو", "amountKg": 0.6 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "زعفران", "amountKg": 0.002 }
+  ],
+  "instructions": "نظفي السمك، ضعيه في طاجين مع الطماطم والبصل والزعفران، اطبخي على نار هادئة."
+},
+{
+  "name": "مشروب الزبيب المنقوع",
+  "category": "drink",
+  "ingredients": [
+    { "name": "زبيب", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.03 },
+    { "name": "قرنفل", "amountKg": 0.002 }
+  ],
+  "instructions": "انقعي الزبيب في الماء مع القرنفل، أضيفي العسل واتركي الخليط ينقع."
+},
+{
+  "name": "بلح الشام بالقطر",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.25 },
+    { "name": "سكر_أبيض", "amountKg": 0.2 },
+    { "name": "الزبده", "amountKg": 0.1 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "حضري عجينة الشو، شكلي أصابع واقليها، حضري القطر من السكر وعصير الليمون."
+},
+{
+  "name": "خلطة الدجاج المشوي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلاسود", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "الثوم", "amountKg": 0.05 }
+  ],
+  "instructions": "اخلطي التوابل مع المعدنوس والثوم المهروس للحصول على تتبيلة الدجاج."
+},
+{
+  "name": "سلطة الجزر والزبيب",
+  "category": "health",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.3 },
+    { "name": "زبيب", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "عسل", "amountKg": 0.02 }
+  ],
+  "instructions": "ابشري الجزر، أضيفي الزبيب وعصير الليمون والعسل، اخلطي جيداً."
+},
+{
+  "name": "شوربة الكسكس بالخضار",
+  "category": "soup",
+  "ingredients": [
+    { "name": "كسكس", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اطبخي الكسكس منفصلاً، حضري مرقة الخضار، أضيفي الكسكس إلى المرقة."
+},
+{
+  "name": "وجبة خضار للحمية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "قرنبيط", "amountKg": 0.2 },
+    { "name": "بروكلي", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "اسلقي الخضار على البخار، قدميها مع أوراق النعناع الطازج."
+},
+{
+  "name": "كباب الحلة المغربي",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_البقر", "amountKg": 0.5 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "قزبر", "amountKg": 0.01 }
+  ],
+  "instructions": "شكلي الكفتة كرات، ضعيها في حلة مع الطماطم والبصل والكزبرة."
+},
+{
+  "name": "عصير الليمون بالنعناع",
+  "category": "drink",
+  "ingredients": [
+    { "name": "ليمون_اسفر", "amountKg": 0.2 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "عسل", "amountKg": 0.05 }
+  ],
+  "instructions": "اعصري الليمون، أضيفي النعناع المدقوق والعسل، اخلطي بالماء البارد."
+},
+{
+  "name": "مهلبية الأرز بالحليب",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_أرز", "amountKg": 0.1 },
+    { "name": "الحليب", "amountKg": 0.6 },
+    { "name": "سكر_بودرة", "amountKg": 0.12 },
+    { "name": "الزبادي", "amountKg": 0.1 }
+  ],
+  "instructions": "اطبخي دقيق الأرز مع الحليب والسكر، أضيفي الزبادي عند البرودة."
+},
+{
+  "name": "توابل اللحم المفروم",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلحار", "amountKg": 0.01 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.02 },
+    { "name": "فلفلاسود", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني التوابل معاً لتتبيل اللحم المفروم."
+},
+{
+  "name": "سلطة الطماطم الكرزية",
+  "category": "health",
+  "ingredients": [
+    { "name": "طماطم", "amountKg": 0.4 },
+    { "name": "خس", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الطماطم نصفين، أضيفي الخس والمعدنوس وعصير الليمون."
+},
+{
+  "name": "حساء الحمص الأخضر",
+  "category": "soup",
+  "ingredients": [
+    { "name": "حمص", "amountKg": 0.3 },
+    { "name": "السبانخ", "amountKg": 0.2 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "اسلقي الحمص، أضيفي السبانخ والثوم والكمون، اهرسي الخليط جزئياً."
+},
+{
+  "name": "خضار نيئة للسناك",
+  "category": "diet",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "خيار", "amountKg": 0.15 },
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار أعواد رفيعة، قدميها مع عصير الليمون للغمس."
+},
+{
+  "name": "سمك مقلي بالكمون",
+  "category": "normal",
+  "ingredients": [
+    { "name": "سردين", "amountKg": 0.6 },
+    { "name": "كمون", "amountKg": 0.01 },
+    { "name": "الثوم", "amountKg": 0.03 },
+    { "name": "فلفلحار", "amountKg": 0.003 }
+  ],
+  "instructions": "نظفي السردين، تبليه بالكمون والثوم والفلفل الحار، اقليه حتى ينضج."
+},
+{
+  "name": "مشروب التمر والحليب",
+  "category": "drink",
+  "ingredients": [
+    { "name": "تمر", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.4 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "انزعي نوى التمر، اخلطيه مع الحليب والعسل في الخلاط."
+},
+{
+  "name": "حلاوة السميد بالجوز",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_سميد", "amountKg": 0.3 },
+    { "name": "عسل", "amountKg": 0.15 },
+    { "name": "الزبده", "amountKg": 0.08 },
+    { "name": "سكر_جوز_الهند", "amountKg": 0.05 }
+  ],
+  "instructions": "حمصي السميد مع الزبدة، أضيفي العسل وسكر جوز الهند، شكلي كرات."
+},
+{
+  "name": "خلطة الشاي المغربي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "شاي_أخضر", "amountKg": 0.05 },
+    { "name": "نعناع", "amountKg": 0.03 },
+    { "name": "سكر_أبيض", "amountKg": 0.1 }
+  ],
+  "instructions": "اخلطي الشاي الأخضر مع النعناع الجاف والسكر للحصول على خلطة الأتاي."
+},
+{
+  "name": "سلطة البقدونس التبولة",
+  "category": "health",
+  "ingredients": [
+    { "name": "معدنوس", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.05 }
+  ],
+  "instructions": "افرمي المعدنوس ناعماً، أضيفي الطماطم والبصل المفرومين وعصير الليمون."
+},
+{
+  "name": "شوربة العدس الأحمر",
+  "category": "soup",
+  "ingredients": [
+    { "name": "عدس", "amountKg": 0.3 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "اسلقي العدس مع الجزر والبصل والكمون، اهرسي الخليط للحصول على شوربة ناعمة."
+},
+{
+  "name": "طبق خضار للدايت",
+  "category": "diet",
+  "ingredients": [
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "باذنجان", "amountKg": 0.15 },
+    { "name": "فلفل_احمر", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.01 }
+  ],
+  "instructions": "قطعي الخضار واطبخيها على البخار مع الثوم، بدون إضافة زيوت."
+},
+{
+  "name": "كفتة السمك المقلية",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الصومو", "amountKg": 0.5 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "فلفلاسود", "amountKg": 0.005 }
+  ],
+  "instructions": "افرمي السمك مع البصل والمعدنوس، شكلي كفتة واقليها حتى تنضج."
+},
+{
+  "name": "عصير الأناناس الطبيعي",
+  "category": "drink",
+  "ingredients": [
+    { "name": "شمام", "amountKg": 0.5 },
+    { "name": "نعناع", "amountKg": 0.01 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الشمام واخلطيه مع النعناع وعصير الليمون في الخلاط."
+},
+{
+  "name": "كيك الجزر المنزلي",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.25 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "سكر_بني", "amountKg": 0.15 },
+    { "name": "الزبده", "amountKg": 0.1 }
+  ],
+  "instructions": "ابشري الجزر، اخلطيه مع الدقيق والسكر والزبدة، اخبزي في الفرن."
+},
+{
+  "name": "بهار الحريرة الأصلي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زنجبيل", "amountKg": 0.02 },
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "قزبر", "amountKg": 0.03 },
+    { "name": "فلفلاسود", "amountKg": 0.015 }
+  ],
+  "instructions": "اطحني التوابل معاً للحصول على خليط بهار الحريرة المغربية."
+},
+{
+  "name": "سلطة الفواكه المشكلة",
+  "category": "health",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.2 },
+    { "name": "موز", "amountKg": 0.15 },
+    { "name": "عنب", "amountKg": 0.15 },
+    { "name": "ليمون_اسفر", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الفواكه قطع متوسطة، رشي عصير الليمون لمنع الأكسدة."
+},
+{
+  "name": "حساء الكوسة بالنعناع",
+  "category": "soup",
+  "ingredients": [
+    { "name": "كوسة", "amountKg": 0.4 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 },
+    { "name": "الثوم", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الكوسة مع البصل والثوم، أضيفي النعناع واهرسي للحصول على حساء."
+},
+{
+  "name": "خضار مسلوقة بسيطة",
+  "category": "diet",
+  "ingredients": [
+    { "name": "بازلاء", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "قرنبيط", "amountKg": 0.15 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الخضار في ماء مملح، قدميها مع المعدنوس المفروم."
+},
+{
+  "name": "طاجين الدجاج بالزعفران",
+  "category": "normal",
+  "ingredients": [
+    { "name": "دجاج", "amountKg": 0.8 },
+    { "name": "البصل_ابيض", "amountKg": 0.15 },
+    { "name": "زعفران", "amountKg": 0.003 },
+    { "name": "غار", "amountKg": 0.005 }
+  ],
+  "instructions": "قطعي الدجاج، ضعيه في طاجين مع البصل والزعفران وورق الغار."
+},
+{
+  "name": "عصير الشمندر الأحمر",
+  "category": "drink",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.4 },
+    { "name": "تفاح", "amountKg": 0.2 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اسلقي الشمندر، اعصريه مع التفاح وأضيفي عصير الليمون."
+},
+{
+  "name": "قراشل العيد المغربية",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.4 },
+    { "name": "الزبده", "amountKg": 0.15 },
+    { "name": "سكر_بودرة", "amountKg": 0.2 },
+    { "name": "يانسون", "amountKg": 0.005 }
+  ],
+  "instructions": "حضري عجينة من الدقيق والزبدة، شكلي قراشل واخبزيها، رشي السكر البودرة."
+},
+{
+  "name": "خلطة التوابل الشامية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "هيل", "amountKg": 0.02 },
+    { "name": "قرنفل", "amountKg": 0.015 },
+    { "name": "جوزطيب", "amountKg": 0.01 },
+    { "name": "فلفلابيض", "amountKg": 0.02 }
+  ],
+  "instructions": "اطحني التوابل معاً للحصول على خليط البهارات الشامي."
+},
+{
+  "name": "سلطة الجرجير والرقة",
+  "category": "health",
+  "ingredients": [
+    { "name": "قصبر_معدنوس", "amountKg": 0.15 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "اقطفي أوراق الجرجير، أضيفي الطماطم والجزر المبشور وعصير الليمون."
+},
+{
+  "name": "شوربة الفاصوليا البيضاء",
+  "category": "soup",
+  "ingredients": [
+    { "name": "لوبيا", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "الثوم", "amountKg": 0.025 },
+    { "name": "قزبر", "amountKg": 0.01 }
+  ],
+  "instructions": "انقعي الفاصوليا، اسلقيها مع الطماطم والثوم والكزبرة."
+},
+{
+  "name": "وجبة صحية للإفطار",
+  "category": "diet",
+  "ingredients": [
+    { "name": "خس", "amountKg": 0.1 },
+    { "name": "طماطم", "amountKg": 0.1 },
+    { "name": "خيار", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار قطع صغيرة، اخلطيها مع المعدنوس المفروم."
+},
+{
+  "name": "لحم محمر بالبصل",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.6 },
+    { "name": "البصل_ابيض", "amountKg": 0.2 },
+    { "name": "التحميرا", "amountKg": 0.015 },
+    { "name": "الثوم", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي اللحم مكعبات، حمريه مع البصل والثوم والتحميرة."
+},
+{
+  "name": "مشروب الكركديه البارد",
+  "category": "drink",
+  "ingredients": [
+    { "name": "شاي_أعشاب", "amountKg": 0.03 },
+    { "name": "عسل", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "انقعي الكركديه في الماء البارد، أضيفي العسل وعصير الليمون."
+},
+{
+  "name": "حلوى اللوز المغربية",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_جوز_الهند", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.1 },
+    { "name": "سكر_بودرة", "amountKg": 0.08 },
+    { "name": "الزبده", "amountKg": 0.05 }
+  ],
+  "instructions": "اخلطي دقيق جوز الهند مع العسل والزبدة، شكلي كرات ولفيها بالسكر البودرة."
+},
+{
+  "name": "دقة الملح بالكزبرة",
+  "category": "spice",
+  "ingredients": [
+    { "name": "الملح", "amountKg": 0.1 },
+    { "name": "قزبر", "amountKg": 0.05 },
+    { "name": "كمون", "amountKg": 0.03 }
+  ],
+  "instructions": "اطحني الملح مع الكزبرة والكمون للحصول على دقة التتبيل المغربية."
+},
+{
+  "name": "سلطة الباذنجان المشوي",
+  "category": "health",
+  "ingredients": [
+    { "name": "باذنجان", "amountKg": 0.4 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اشوي الباذنجان، اهرسيه مع الطماطم والثوم وعصير الليمون."
+},
+{
+  "name": "حساء الخضار المختلطة",
+  "category": "soup",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 },
+    { "name": "بطاطس_بيضاء", "amountKg": 0.2 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار واسلقيها معاً، زيني بالمعدنوس المفروم."
+},
+{
+  "name": "خضار مطهوة بالقليل من الزيت",
+  "category": "diet",
+  "ingredients": [
+    { "name": "فلفل_اخضر", "amountKg": 0.15 },
+    { "name": "فلفل_احمر", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار واقليها بقليل جداً من الزيت مع الثوم."
+},
+{
+  "name": "سمك مشوي بالأعشاب",
+  "category": "normal",
+  "ingredients": [
+    { "name": "القرش", "amountKg": 0.7 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "قزبر", "amountKg": 0.02 },
+    { "name": "الثوم", "amountKg": 0.03 }
+  ],
+  "instructions": "نظفي السمك، تبليه بالأعشاب والثوم، اشويه في الفرن."
+},
+{
+  "name": "عصير الجوافة المنعش",
+  "category": "drink",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.3 },
+    { "name": "موز", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "اخلطي التفاح والموز مع العسل في الخلاط للحصول على عصير كثيف."
+},
+{
+  "name": "حلاوة الجبن المحلاة",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "الجبنه", "amountKg": 0.3 },
+    { "name": "عسل", "amountKg": 0.1 },
+    { "name": "دقيق_أرز", "amountKg": 0.05 },
+    { "name": "الحليب", "amountKg": 0.2 }
+  ],
+  "instructions": "اخلطي الجبن مع العسل ودقيق الأرز والحليب، اطبخي حتى يثخن."
+},
+{
+  "name": "خليط بهار الطبخ اليومي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "فلفلاسود", "amountKg": 0.03 },
+    { "name": "كمون", "amountKg": 0.04 },
+    { "name": "قزبر", "amountKg": 0.04 },
+    { "name": "الملح", "amountKg": 0.05 }
+  ],
+  "instructions": "اطحني التوابل مع الملح للحصول على خليط البهار اليومي."
+},
+{
+  "name": "سلطة الخضار الملونة",
+  "category": "health",
+  "ingredients": [
+    { "name": "فلفل_اصفر", "amountKg": 0.1 },
+    { "name": "فلفل_احمر", "amountKg": 0.1 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الخضار شرائح ملونة، تبلي بعصير الليمون."
+},
+{
+  "name": "شوربة البطاطس الكريمية",
+  "category": "soup",
+  "ingredients": [
+    { "name": "بطاطس_بيضاء", "amountKg": 0.4 },
+    { "name": "الحليب", "amountKg": 0.3 },
+    { "name": "الزبده", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.005 }
+  ],
+  "instructions": "اسلقي البطاطس واهرسيها، أضيفي الحليب والزبدة والملح."
+},
+{
+  "name": "طبق الخضار المطبوخة للحمية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "ملفوف", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "قطعي الخضار واطبخيها على البخار، قدميها مع النعناع الطازج."
+},
+{
+  "name": "طاجين اللحم بالخضار",
+  "category": "normal",
+  "ingredients": [
+    { "name": "لبقر", "amountKg": 0.5 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "بطاطس_حمراء", "amountKg": 0.2 },
+    { "name": "زعفران", "amountKg": 0.002 }
+  ],
+  "instructions": "ضعي اللحم والخضار في طاجين مع الزعفران، اطبخي على نار هادئة."
+},
+{
+  "name": "مشروب الزنجبيل الدافئ",
+  "category": "drink",
+  "ingredients": [
+    { "name": "زنجبيل", "amountKg": 0.03 },
+    { "name": "عسل", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "قرنفل", "amountKg": 0.002 }
+  ],
+  "instructions": "اغلي الزنجبيل مع القرنفل، أضيفي العسل وعصير الليمون."
+},
+{
+  "name": "كيك التمر الرطب",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "تمر", "amountKg": 0.3 },
+    { "name": "دقيق_قمح_أسمر", "amountKg": 0.25 },
+    { "name": "الحليب", "amountKg": 0.2 },
+    { "name": "الزبده", "amountKg": 0.08 }
+  ],
+  "instructions": "اهرسي التمر، اخلطيه مع الدقيق والحليب والزبدة، اخبزي في الفرن."
+},
+{
+  "name": "توابل السلطات المغربية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.02 },
+    { "name": "فلفلاسود", "amountKg": 0.01 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.02 }
+  ],
+  "instructions": "اخلطي التوابل مع المعدنوس المجفف والملح لتتبيل السلطات."
+},
+{
+  "name": "سلطة الشمندر بالجزر",
+  "category": "health",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.3 },
+    { "name": "جزر", "amountKg": 0.2 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اسلقي الشمندر والجزر، قطعيهما وأضيفي المعدنوس وعصير الليمون."
+},
+{
+  "name": "حساء اللوبيا الخضراء",
+  "category": "soup",
+  "ingredients": [
+    { "name": "لوبيا", "amountKg": 0.3 },
+    { "name": "طماطم", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "فلفلاسود", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي اللوبيا مع الطماطم والبصل والفلفل الأسود."
+},
+{
+  "name": "خضار مشوية في الفرن",
+  "category": "diet",
+  "ingredients": [
+    { "name": "باذنجان", "amountKg": 0.2 },
+    { "name": "كوسة", "amountKg": 0.2 },
+    { "name": "فلفل_اخضر", "amountKg": 0.1 },
+    { "name": "الثوم", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الخضار وتبليها بالثوم، اشويها في الفرن حتى تنضج."
+},
+{
+  "name": "سردين محفوظ بالطماطم",
+  "category": "normal",
+  "ingredients": [
+    { "name": "سردين", "amountKg": 0.6 },
+    { "name": "طماطم", "amountKg": 0.3 },
+    { "name": "فلفلحار", "amountKg": 0.003 },
+    { "name": "الثوم", "amountKg": 0.025 }
+  ],
+  "instructions": "حضري صلصة الطماطم، أضيفي السردين والفلفل والثوم، اتركي ينضج."
+},
+{
+  "name": "عصير الكمثرى الطازج",
+  "category": "drink",
+  "ingredients": [
+    { "name": "تفاح", "amountKg": 0.4 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "اعصري التفاح وأضيفي عصير الليمون وأوراق النعناع."
+},
+{
+  "name": "مربى البرتقال المنزلي",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "برتقال", "amountKg": 0.6 },
+    { "name": "سكر_أبيض", "amountKg": 0.4 },
+    { "name": "ليمون_اسفر", "amountKg": 0.05 }
+  ],
+  "instructions": "قشري البرتقال وقطعيه، اطبخيه مع السكر وعصير الليمون حتى يثخن."
+},
+{
+  "name": "خلطة التوابل الهندية",
+  "category": "spice",
+  "ingredients": [
+    { "name": "كمون", "amountKg": 0.03 },
+    { "name": "هيل", "amountKg": 0.02 },
+    { "name": "قرنفل", "amountKg": 0.015 },
+    { "name": "حلبة", "amountKg": 0.02 }
+  ],
+  "instructions": "اطحني التوابل معاً للحصول على خليط البهارات الهندي."
+},
+{
+  "name": "سلطة الملوخية الطازجة",
+  "category": "health",
+  "ingredients": [
+    { "name": "ملوخية", "amountKg": 0.2 },
+    { "name": "طماطم", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.05 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 }
+  ],
+  "instructions": "اقطفي أوراق الملوخية الصغيرة، اخلطيها مع الطماطم والبصل وعصير الليمون."
+},
+{
+  "name": "شوربة الكرنب الأحمر",
+  "category": "soup",
+  "ingredients": [
+    { "name": "ملفوف", "amountKg": 0.4 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "فلفلابيض", "amountKg": 0.003 }
+  ],
+  "instructions": "قطعي الكرنب والخضار، اسلقيها مع الفلفل الأبيض."
+},
+{
+  "name": "طبق خضار للرجيم السريع",
+  "category": "diet",
+  "ingredients": [
+    { "name": "السبانخ", "amountKg": 0.2 },
+    { "name": "بروكلي", "amountKg": 0.15 },
+    { "name": "قرنبيط", "amountKg": 0.15 },
+    { "name": "ليمون_اخضر", "amountKg": 0.02 }
+  ],
+  "instructions": "اطبخي الخضار الورقية على البخار، رشي عصير الليمون."
+},
+{
+  "name": "دجاج مقلي بالتوابل",
+  "category": "normal",
+  "ingredients": [
+    { "name": "دجاج", "amountKg": 0.7 },
+    { "name": "كمون", "amountKg": 0.01 },
+    { "name": "فلفلحار", "amountKg": 0.005 },
+    { "name": "الثوم", "amountKg": 0.03 }
+  ],
+  "instructions": "قطعي الدجاج، تبليه بالتوابل والثوم، اقليه حتى ينضج."
+},
+{
+  "name": "مشروب الليمون بالزنجبيل",
+  "category": "drink",
+  "ingredients": [
+    { "name": "ليمون_اسفر", "amountKg": 0.15 },
+    { "name": "زنجبيل", "amountKg": 0.02 },
+    { "name": "عسل", "amountKg": 0.04 },
+    { "name": "نعناع", "amountKg": 0.01 }
+  ],
+  "instructions": "اعصري الليمون، أضيفي الزنجبيل المبشور والعسل والنعناع."
+},
+{
+  "name": "حلوى الأرز بالحليب المغربية",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "ارز", "amountKg": 0.2 },
+    { "name": "الحليب", "amountKg": 0.6 },
+    { "name": "سكر_أبيض", "amountKg": 0.12 },
+    { "name": "ماء_الورد", "amountKg": 0.01 }
+  ],
+  "instructions": "اطبخي الأرز مع الحليب والسكر حتى ينضج، أضيفي ماء الورد."
+},
+{
+  "name": "بهار الكوارع المغربي",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زنجبيل", "amountKg": 0.03 },
+    { "name": "قرنفل", "amountKg": 0.02 },
+    { "name": "هيل", "amountKg": 0.02 },
+    { "name": "غار", "amountKg": 0.02 }
+  ],
+  "instructions": "اطحني التوابل معاً لتتبيل الكوارع على الطريقة المغربية."
+},
+{
+  "name": "سلطة الفلفل المحمص",
+  "category": "health",
+  "ingredients": [
+    { "name": "فلفل_احمر", "amountKg": 0.3 },
+    { "name": "فلفل_اصفر", "amountKg": 0.2 },
+    { "name": "الثوم", "amountKg": 0.02 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "احمصي الفلفل، قشريه وقطعيه، أضيفي الثوم والمعدنوس."
+},
+{
+  "name": "حساء الذرة بالدجاج",
+  "category": "soup",
+  "ingredients": [
+    { "name": "ذرة", "amountKg": 0.3 },
+    { "name": "دجاج", "amountKg": 0.2 },
+    { "name": "البصل_ابيض", "amountKg": 0.08 },
+    { "name": "معدنوس", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي الدجاج، أضيفي الذرة والبصل، زيني بالمعدنوس."
+},
+{
+  "name": "وجبة نباتية صحية",
+  "category": "diet",
+  "ingredients": [
+    { "name": "عدس", "amountKg": 0.2 },
+    { "name": "جزر", "amountKg": 0.1 },
+    { "name": "كوسة", "amountKg": 0.1 },
+    { "name": "كمون", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي العدس مع الخضار والكمون للحصول على وجبة صحية."
+},
+{
+  "name": "سمك مسلوق بالخضار",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الصومو", "amountKg": 0.5 },
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "كوسة", "amountKg": 0.15 },
+    { "name": "غار", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي السمك مع الخضار وورق الغار حتى ينضج."
+},
+{
+  "name": "عصير التوت المجمد",
+  "category": "drink",
+  "ingredients": [
+    { "name": "عنب", "amountKg": 0.4 },
+    { "name": "تفاح", "amountKg": 0.2 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "اخلطي العنب والتفاح مع العسل للحصول على عصير غني."
+},
+{
+  "name": "كعك العيد المحشو",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "دقيق_قمح_أبيض", "amountKg": 0.4 },
+    { "name": "تمر", "amountKg": 0.2 },
+    { "name": "الزبده", "amountKg": 0.15 },
+    { "name": "سكر_بودرة", "amountKg": 0.1 }
+  ],
+  "instructions": "حضري العجينة، احشيها بالتمر، اخبزيها ورشي السكر البودرة."
+},
+{
+  "name": "خلطة الحوت المقدد",
+  "category": "spice",
+  "ingredients": [
+    { "name": "الملح", "amountKg": 0.1 },
+    { "name": "فلفلحار", "amountKg": 0.02 },
+    { "name": "قزبر", "amountKg": 0.03 },
+    { "name": "كمون", "amountKg": 0.03 }
+  ],
+  "instructions": "اخلطي الملح مع التوابل لحفظ وتتبيل السمك."
+},
+{
+  "name": "سلطة الخيار بالزبادي",
+  "category": "health",
+  "ingredients": [
+    { "name": "اللفت_دائري", "amountKg": 0.3 },
+    { "name": "الزبادي", "amountKg": 0.15 },
+    { "name": "نعناع", "amountKg": 0.01 },
+    { "name": "الثوم", "amountKg": 0.01 }
+  ],
+  "instructions": "قطعي الخيار، اخلطيه مع الزبادي والنعناع والثوم المهروس."
+},
+{
+  "name": "شوربة البازلاء الخضراء",
+  "category": "soup",
+  "ingredients": [
+    { "name": "بازلاء", "amountKg": 0.4 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "الزبده", "amountKg": 0.02 }
+  ],
+  "instructions": "اسلقي البازلاء مع البصل، أضيفي النعناع والزبدة."
+},
+{
+  "name": "سناك صحي للأطفال",
+  "category": "diet",
+  "ingredients": [
+    { "name": "جزر", "amountKg": 0.15 },
+    { "name": "تفاح", "amountKg": 0.15 },
+    { "name": "عسل", "amountKg": 0.02 }
+  ],
+  "instructions": "قطعي الجزر والتفاح أعواد، قدميها مع العسل للغمس."
+},
+{
+  "name": "كباب الدجاج المشوي",
+  "category": "normal",
+  "ingredients": [
+    { "name": "الكفتة_دجاج", "amountKg": 0.5 },
+    { "name": "البصل_ابيض", "amountKg": 0.1 },
+    { "name": "معدنوس", "amountKg": 0.03 },
+    { "name": "كمون", "amountKg": 0.005 }
+  ],
+  "instructions": "اخلطي كفتة الدجاج مع البصل والمعدنوس والكمون، شكلي كباب واشويه."
+},
+{
+  "name": "مشروب الشاي الأخضر بالنعناع",
+  "category": "drink",
+  "ingredients": [
+    { "name": "شاي_أخضر", "amountKg": 0.01 },
+    { "name": "نعناع", "amountKg": 0.02 },
+    { "name": "عسل", "amountKg": 0.03 }
+  ],
+  "instructions": "انقعي الشاي الأخضر مع النعناع، أضيفي العسل للتحلية."
+},
+{
+  "name": "بودينغ الشوكولاتة المنزلي",
+  "category": "dessert",
+  "ingredients": [
+    { "name": "الحليب", "amountKg": 0.5 },
+    { "name": "سكر_بني", "amountKg": 0.1 },
+    { "name": "دقيق_أرز", "amountKg": 0.04 },
+    { "name": "الزبادي", "amountKg": 0.1 }
+  ],
+  "instructions": "اطبخي الحليب مع السكر ودقيق الأرز، أضيفي الزبادي عند البرودة."
+},
+{
+  "name": "توابل الطاجين الحلو",
+  "category": "spice",
+  "ingredients": [
+    { "name": "زعفران", "amountKg": 0.002 },
+    { "name": "قرنفل", "amountKg": 0.01 },
+    { "name": "هيل", "amountKg": 0.015 },
+    { "name": "يانسون", "amountKg": 0.01 }
+  ],
+  "instructions": "اطحني التوابل معاً لاستخدامها في الطواجن الحلوة."
+},
+{
+  "name": "سلطة القرع المسلوق",
+  "category": "health",
+  "ingredients": [
+    { "name": "قرع", "amountKg": 0.4 },
+    { "name": "معدنوس", "amountKg": 0.02 },
+    { "name": "ليمون_اسفر", "amountKg": 0.03 },
+    { "name": "الملح", "amountKg": 0.003 }
+  ],
+  "instructions": "اسلقي القرع وقطعيه، أضيفي المعدنوس وعصير الليمون والملح."
+}
 ]
-
 
