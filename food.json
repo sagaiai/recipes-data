@@ -14,9 +14,9 @@
     "category": "health",
     "mealType": "dinner",
     "ingredients": [
-      { "name": "بطاطس", "amountKg": 0.3 },
+      { "name": "بطاطس_بيضاء", "amountKg": 0.3 },
       { "name": "جزر", "amountKg": 0.2 },
-      { "name": "بصل", "amountKg": 0.1 }
+      { "name": "البصل_ابيض", "amountKg": 0.1 }
     ]
   },
   {
@@ -25,7 +25,7 @@
     "mealType": "breakfast",
     "ingredients": [
       { "name": "بيض", "amountKg": 0.2 },
-      { "name": "ملح", "amountKg": 0.01 }
+      { "name": "الملح", "amountKg": 0.01 }
     ]
   },
   {
@@ -34,9 +34,780 @@
     "mealType": "lunch",
     "ingredients": [
       { "name": "دجاج", "amountKg": 1.0 },
-      { "name": "زيت", "amountKg": 0.05 },
-      { "name": "بهارات", "amountKg": 0.01 }
+      { "name": "الثوم", "amountKg": 0.02 },
+      { "name": "كمون", "amountKg": 0.01 }
     ]
-  }
+  },
+  {
+    "name": "سلطة خضراء مشكلة",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "خس", "amountKg": 0.15 },
+      { "name": "طماطم", "amountKg": 0.2 },
+      { "name": "فلفل_اخضر", "amountKg": 0.1 },
+      { "name": "البصل_ابيض", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "شوربة العدس",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "عدس", "amountKg": 0.3 },
+      { "name": "جزر", "amountKg": 0.15 },
+      { "name": "البصل_ابيض", "amountKg": 0.1 },
+      { "name": "الثوم", "amountKg": 0.02 }
+    ]
+  },
+  {
+    "name": "كفتة مشوية",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "الكفتة_البقر", "amountKg": 0.5 },
+      { "name": "البصل_ابيض", "amountKg": 0.1 },
+      { "name": "معدنوس", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "سلطة الفواكه",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تفاح", "amountKg": 0.2 },
+      { "name": "موز", "amountKg": 0.15 },
+      { "name": "عنب", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "أرز بالخضار",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ارز", "amountKg": 0.3 },
+      { "name": "جزر", "amountKg": 0.1 },
+      { "name": "بازلاء", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "سمك السردين المشوي",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "سردين", "amountKg": 0.4 },
+      { "name": "ليمون_اسفر", "amountKg": 0.05 },
+      { "name": "الثوم", "amountKg": 0.02 }
+    ]
+  },
+  {
+    "name": "طبق الحمص",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "حمص", "amountKg": 0.3 },
+      { "name": "الثوم", "amountKg": 0.02 },
+      { "name": "ليمون_اسفر", "amountKg": 0.03 }
+    ]
+  },
+  {
+    "name": "شوربة الدجاج",
+    "category": "normal",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "دجاج", "amountKg": 0.3 },
+      { "name": "جزر", "amountKg": 0.15 },
+      { "name": "بطاطس_بيضاء", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "سلطة التبولة",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "معدنوس", "amountKg": 0.1 },
+      { "name": "طماطم", "amountKg": 0.2 },
+      { "name": "ليمون_اسفر", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "كسكس بالخضار",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "كسكس", "amountKg": 0.3 },
+      { "name": "جزر", "amountKg": 0.15 },
+      { "name": "كوسة", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "أومليت بالخضار",
+    "category": "diet",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "بيض", "amountKg": 0.15 },
+      { "name": "فلفل_اخضر", "amountKg": 0.08 },
+      { "name": "طماطم", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "سلطة السبانخ",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "السبانخ", "amountKg": 0.2 },
+      { "name": "طماطم", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "طاجين اللحم",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "لبقر", "amountKg": 0.4 },
+      { "name": "بطاطس_بيضاء", "amountKg": 0.2 },
+      { "name": "جزر", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "سلطة الملفوف",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ملفوف", "amountKg": 0.25 },
+      { "name": "جزر", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "شوربة القرع",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "قرع", "amountKg": 0.4 },
+      { "name": "البصل_ابيض", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "سمك السلمون",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "الصومو", "amountKg": 0.3 },
+      { "name": "ليمون_اسفر", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "طماطم مسلوقة",
+    "category": "diet",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "طماطم", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "جزر مسلوق",
+    "category": "diet",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "جزر", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "بطاطس مسلوقة",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "بطاطس_بيضاء", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "فلفل محشي بالأرز",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "فلفل_اخضر", "amountKg": 0.3 },
+      { "name": "ارز", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "باذنجان مشوي",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "باذنجان", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "كوسة محشية",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "كوسة", "amountKg": 0.5 },
+      { "name": "ارز", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "سلطة البطاطس",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "بطاطس_بيضاء", "amountKg": 0.3 },
+      { "name": "معدنوس", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "شوربة البصل",
+    "category": "diet",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "البصل_ابيض", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "سلطة الخس",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "خس", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "فول مدمس",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "فول", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "عدس أصفر",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "عدس", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "أرز أبيض",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ارز", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "لحم بقري مسلوق",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "لبقر", "amountKg": 0.5 }
+    ]
+  },
+  {
+    "name": "دجاج مسلوق",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "دجاج", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "سمك مشوي",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "سردين", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "قرنبيط مسلوق",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "قرنبيط", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "بروكلي مطبوخ",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "بروكلي", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "ملوخية خضراء",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ملوخية", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "بازلاء مطبوخة",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "بازلاء", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "شوربة الفول",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "فول", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "لوبيا مطبوخة",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "لوبيا", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "سميد بالحليب",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "سميد", "amountKg": 0.1 },
+      { "name": "الحليب", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "تفاحة واحدة",
+    "category": "diet",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تفاح", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "موز واحد",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "موز", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "برتقال طازج",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "برتقال", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "عنب أحمر",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "عنب", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "يوسفي حلو",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "يوسفي", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "خوخ طري",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "خوخ", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "مشمش حلو",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "مشمش", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "مانجو ناضج",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "مانجو", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "فراولة حمراء",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "فراولة", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "رمان أحمر",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "رمان", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "كيوي أخضر",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "كيوي", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "أفوكادو كريمي",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "افوكادو", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "شمام حلو",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "شمام", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "دلاح أحمر",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "دلاح", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "تين طازج",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تين", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "تمر محشي",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تمر", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "زبيب أسود",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "زبيب", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "عصير البرتقال",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "برتقال", "amountKg": 0.5 }
+    ]
+  },
+  {
+    "name": "عصير التفاح",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تفاح", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "عصير الجزر",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "جزر", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "عصير السبانخ",
+    "category": "diet",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "السبانخ", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "عصير الرمان",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "رمان", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "عصير المانجو",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "مانجو", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "عصير الطماطم",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "طماطم", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "عصير الفراولة",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "فراولة", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "عصير الكيوي",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "كيوي", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "مشروب النعناع",
+    "category": "diet",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "نعناع", "amountKg": 0.05 }
+    ]
+  },
+  {
+    "name": "عصير الأفوكادو",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "افوكادو", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "شاي أخضر",
+    "category": "diet",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "شاي_أخضر", "amountKg": 0.01 }
+    ]
+  },
+  {
+    "name": "شاي أسود",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "شاي_أسود", "amountKg": 0.01 }
+    ]
+  },
+  {
+    "name": "مشروب الزنجبيل",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "زنجبيل", "amountKg": 0.02 }
+    ]
+  },
+  {
+    "name": "ليموناضة",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ليمون_اسفر", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "عصير العنب",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "عنب", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "عصير الدلاح",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "دلاح", "amountKg": 0.5 }
+    ]
+  },
+  {
+    "name": "عصير الشمام",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "شمام", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "مشروب القرفة",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "التحميرا", "amountKg": 0.01 }
+    ]
+  },
+  {
+    "name": "شاي النعناع",
+    "category": "diet",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "شاي_النعناع", "amountKg": 0.01 }
+    ]
+  },
+  {
+    "name": "شاي الزنجبيل",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "شاي_الزنجبيل", "amountKg": 0.01 }
+    ]
+  },
+  {
+    "name": "مشروب اليانسون",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "يانسون", "amountKg": 0.01 }
+    ]
+  },
+  {
+    "name": "مشروب الحلبة",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "حلبة", "amountKg": 0.02 }
+    ]
+  },
+  {
+    "name": "حليب دافئ",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "الحليب", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "زبادي طبيعي",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "الزبادي", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "جبنة بيضاء",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "الجبنه", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "خبز بالدقيق",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "فطيرة بسيطة",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "دقيق_قمح_أبيض", "amountKg": 0.15 }
+    ]
+  },
+  {
+    "name": "عصيدة الشوفان",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "دقيق_شوفان", "amountKg": 0.1 }
+    ]
+  },
+  {
+    "name": "مشروب الذرة",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ذرة", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "قمح مسلوق",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "قمح", "amountKg": 0.25 }
+    ]
+  },
+  {
+    "name": "كريفيت مسلوق",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "كروفيت", "amountKg": 0.2 }
+    ]
+  },
+  {
+    "name": "سمك القرش",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "القرش", "amountKg": 0.4 }
+    ]
+  },
+  {
+    "name": "ديك رومي مشوي",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "الديك_الرومي", "amountKg": 0.5 }
+    ]
+  },
+  {
+    "name": "كفتة الدجاج",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "الكفتة_دجاج", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "كفتة الديك الرومي",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "الكفتة_الديك_الرومي", "amountKg": 0.3 }
+    ]
+  },
+  {
+    "name": "سكر بسيط",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "سكر_أبيض", "amountKg": 0.05 }
+    ]
+  },
 ]
+
 
