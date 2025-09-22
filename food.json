@@ -1,8 +1,8 @@
 [
   {
     "name": "سلطة الطماطم بالجزر",
-    "category": "health",       // تصنيف رئيسي
-    "mealType": "breakfast",    // تصنيف فرعي (إفطار/غداء/عشاء)
+    "category": "health",       
+    "mealType": "breakfast",    
     "ingredients": [
       { "name": "طماطم", "amountKg": 0.3 },
       { "name": "جزر", "amountKg": 0.2 },
@@ -39,3 +39,4 @@
     ]
   }
 ]
+
