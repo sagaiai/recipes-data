@@ -7,7 +7,8 @@
         { "name": "طماطم", "amountKg": 0.3 },
         { "name": "جزر", "amountKg": 0.2 },
         { "name": "خس", "amountKg": 0.1 }
-      ]
+      ],
+      "preparation": "اغسلي الطماطم والجزر والخس جيداً. قطعي الطماطم إلى قطع متوسطة. ابشري الجزر ناعماً. قطعي الخس إلى شرائح رفيعة. اخلطي المكونات في وعاء كبير وتبلي بالملح والليمون وزيت الزيتون."
     },
     {
       "name": "شوربة الخضار",
@@ -17,7 +18,8 @@
         { "name": "بطاطس_بيضاء", "amountKg": 0.3 },
         { "name": "جزر", "amountKg": 0.2 },
         { "name": "البصل_ابيض", "amountKg": 0.1 }
-      ]
+      ],
+      "preparation": "قشري وقطعي البطاطس والجزر والبصل إلى قطع متوسطة. في مقلاة عميقة، اقلي البصل حتى يذبل. أضيفي البطاطس والجزر مع كوبين من الماء. اتركي الخليط ينضج على نار متوسطة لمدة 30 دقيقة. تبلي بالملح والفلفل الأسود."
     },
     {
       "name": "بيض مسلوق",
@@ -26,7 +28,8 @@
       "ingredients": [
         { "name": "بيض", "amountKg": 0.2 },
         { "name": "الملح", "amountKg": 0.01 }
-      ]
+      ],
+      "preparation": "ضعي البيض في إناء وغطيه بالماء البارد. ضعي الإناء على نار عالية حتى يغلي الماء. خففي النار واتركي البيض ينضج لمدة 10 دقائق. ارفعي البيض واتركيه يبرد في الماء البارد. قشري البيض ورشي عليه الملح قبل التقديم."
     },
     {
       "name": "دجاج مشوي",
@@ -36,7 +39,80 @@
         { "name": "دجاج", "amountKg": 1.0 },
         { "name": "الثوم", "amountKg": 0.02 },
         { "name": "كمون", "amountKg": 0.01 }
-      ]
+      ],
+      "preparation": "نظفي الدجاج جيداً وجففيه. اهرسي الثوم وامزجيه مع الكمون والملح وزيت الزيتون. ادهني الدجاج بالخليط من الداخل والخارج. اتركيه ينقع لمدة ساعة. اشوي الدجاج في الفرن على 180 درجة لمدة ساعة ونصف مع التقليب من حين لآخر."
+    },
+    {
+      "name": "الحرشا المغربية",
+      "category": "normal",
+      "mealType": "breakfast",
+      "ingredients": [
+        { "name": "دقيق_قمح_أبيض", "amountKg": 0.5 },
+        { "name": "سميد", "amountKg": 0.2 },
+        { "name": "الحليب", "amountKg": 0.3 },
+        { "name": "زيت_زيتون", "amountKg": 0.05 }
+      ],
+      "preparation": "اخلطي الدقيق والسميد في وعاء كبير. أضيفي الحليب الدافئ تدريجياً مع العجن حتى تحصلي على عجينة طرية. أضيفي زيت الزيتون والملح. اتركي العجينة ترتاح لمدة 30 دقيقة. افردي العجينة على شكل أقراص واطبخيها على المقلاة حتى تنضج من الجهتين."
+    },
+    {
+      "name": "الملاوي المغربي",
+      "category": "normal",
+      "mealType": "breakfast",
+      "ingredients": [
+        { "name": "دقيق_قمح_أبيض", "amountKg": 0.4 },
+        { "name": "زيت_زيتون", "amountKg": 0.1 },
+        { "name": "سميد", "amountKg": 0.1 }
+      ],
+      "preparation": "اعجني الدقيق بالماء الدافئ والملح حتى تحصلي على عجينة ناعمة. اقسمي العجينة إلى كرات صغيرة. افردي كل كرة رفيعة جداً وادهنيها بزيت الزيتون ورشي السميد. لفي العجينة على شكل مربع. اطبخي الملاوي على المقلاة حتى يصبح ذهبي اللون من الجهتين."
+    },
+    {
+      "name": "تاجين اللحم بالبرقوق",
+      "category": "normal",
+      "mealType": "lunch",
+      "ingredients": [
+        { "name": "لبقر", "amountKg": 0.6 },
+        { "name": "البصل_ابيض", "amountKg": 0.2 },
+        { "name": "البرقوق_المجفف", "amountKg": 0.15 },
+        { "name": "لوز", "amountKg": 0.05 }
+      ],
+      "preparation": "قطعي اللحم إلى قطع متوسطة. في إناء التاجين، اقلي اللحم مع البصل المقطع شرائح. أضيفي البهارات (الزنجبيل، القرفة، الفلفل الأسود) والملح. أضيفي الماء واتركي الخليط ينضج على نار هادئة لمدة ساعة. أضيفي البرقوق واللوز المحمص واتركي الطبق ينضج لمدة 30 دقيقة إضافية."
+    },
+    {
+      "name": "المرق المغربي",
+      "category": "normal",
+      "mealType": "lunch",
+      "ingredients": [
+        { "name": "دجاج", "amountKg": 0.5 },
+        { "name": "بطاطس_بيضاء", "amountKg": 0.3 },
+        { "name": "جزر", "amountKg": 0.2 },
+        { "name": "كوسة", "amountKg": 0.2 }
+      ],
+      "preparation": "ضعي الدجاج المقطع في إناء عميق مع البصل والبهارات المغربية (الزنجبيل، القرفة، الكركم). أضيفي الماء واتركي الخليط ينضج لمدة 45 دقيقة. أضيفي الخضار المقطعة (البطاطس، الجزر، الكوسة) واتركي المرق ينضج لمدة 30 دقيقة إضافية حتى تنضج الخضار."
+    },
+    {
+      "name": "كسكس مغربي تقليدي",
+      "category": "normal",
+      "mealType": "lunch",
+      "ingredients": [
+        { "name": "كسكس", "amountKg": 0.4 },
+        { "name": "دجاج", "amountKg": 0.4 },
+        { "name": "جزر", "amountKg": 0.2 },
+        { "name": "كوسة", "amountKg": 0.2 },
+        { "name": "نافع", "amountKg": 0.1 }
+      ],
+      "preparation": "انقعي الكسكس بالماء المالح لمدة 15 دقيقة. في قدر الكسكس، اطبخي الدجاج مع البهارات. أضيفي الخضار تدريجياً حسب وقت نضجها. ضعي الكسكس في المصفاة فوق القدر واتركيه ينضج بالبخار لمدة 20 دقيقة. قدمي الكسكس مع المرق والخضار."
+    },
+    {
+      "name": "البسطيلة المغربية",
+      "category": "normal",
+      "mealType": "dinner",
+      "ingredients": [
+        { "name": "الديك_الرومي", "amountKg": 0.4 },
+        { "name": "لوز", "amountKg": 0.1 },
+        { "name": "بيض", "amountKg": 0.15 },
+        { "name": "ورق_البسطيلة", "amountKg": 0.2 }
+      ],
+      "preparation": "اطبخي الديك الرومي مع البهارات حتى ينضج. اتركيه يبرد وقطعيه قطع صغيرة. اخلطي اللحم مع البيض المخفوق المطبوخ والبقدونس. حمري اللوز ورشي عليه السكر والقرفة. ضعي طبقات من ورق البسطيلة مع الحشوة. اطبخي البسطيلة في الفرن حتى تصبح ذهبية."
     },
     {
       "name": "سلطة خضراء مشكلة",
@@ -47,7 +123,8 @@
         { "name": "طماطم", "amountKg": 0.2 },
         { "name": "فلفل_اخضر", "amountKg": 0.1 },
         { "name": "البصل_ابيض", "amountKg": 0.05 }
-      ]
+      ],
+      "preparation": "اغسلي جميع الخضروات جيداً. قطعي الخس إلى قطع متوسطة والطماطم إلى شرائح. قطعي الفلفل الأخضر والبصل إلى شرائح رفيعة. اخلطي جميع المكونات وتبلي بالملح والفلفل الأسود وزيت الزيتون والخل."
     },
     {
       "name": "شوربة العدس",
@@ -58,7 +135,42 @@
         { "name": "جزر", "amountKg": 0.15 },
         { "name": "البصل_ابيض", "amountKg": 0.1 },
         { "name": "الثوم", "amountKg": 0.02 }
-      ]
+      ],
+      "preparation": "اغسلي العدس واتركيه جانباً. في مقلاة عميقة، اقلي البصل والثوم المفروم حتى يذبل. أضيفي العدس والجزر المقطع مكعبات. أضيفي الماء واتركي الخليط ينضج لمدة 45 دقيقة. اخلطي الشوربة في الخلاط للحصول على قوام ناعم إذا رغبت."
+    },
+    {
+      "name": "طاجين السمك المغربي",
+      "category": "normal",
+      "mealType": "dinner",
+      "ingredients": [
+        { "name": "سردين", "amountKg": 0.5 },
+        { "name": "طماطم", "amountKg": 0.3 },
+        { "name": "البصل_ابيض", "amountKg": 0.1 },
+        { "name": "الثوم", "amountKg": 0.02 }
+      ],
+      "preparation": "نظفي السمك جيداً وتبليه بالملح والكمون. في إناء التاجين، ضعي طبقة من البصل المقطع شرائح والطماطم. ضعي السمك فوق الخضار. أضيفي الثوم المفروم والبهارات (الكركم، الزنجبيل، الكزبرة). اطبخي التاجين في الفرن لمدة 45 دقيقة."
+    },
+    {
+      "name": "المسمن المغربي",
+      "category": "normal",
+      "mealType": "breakfast",
+      "ingredients": [
+        { "name": "دقيق_قمح_أبيض", "amountKg": 0.5 },
+        { "name": "زيت_زيتون", "amountKg": 0.1 },
+        { "name": "سميد", "amountKg": 0.1 }
+      ],
+      "preparation": "اعجني الدقيق بالماء الدافئ والملح حتى تحصلي على عجينة ناعمة. اقسمي العجينة إلى كرات واتركيها ترتاح. افردي كل كرة رفيعة جداً وادهنيها بزيت الزيتون ورشي السميد. اطوي العجينة على شكل مربع. اطبخي المسمن على المقلاة الساخنة حتى يصبح مقرمشاً ومذهباً."
+    },
+    {
+      "name": "الرفيسة المغربية",
+      "category": "normal",
+      "mealType": "breakfast",
+      "ingredients": [
+        { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
+        { "name": "يانسون", "amountKg": 0.01 },
+        { "name": "زيت_زيتون", "amountKg": 0.05 }
+      ],
+      "preparation": "اعجني الدقيق مع الماء الدافئ واليانسون والملح حتى تحصلي على عجينة طرية. اتركي العجينة ترتاح لمدة 30 دقيقة. افردي العجينة رفيعة وقطعيها إلى شرائح. اطبخي الرفيسة في الماء المغلي حتى تطفو على السطح. صفي الرفيسة وقدميها بزيت الزيتون والعسل."
     },
     {
       "name": "كفتة مشوية",
@@ -68,7 +180,8 @@
         { "name": "الكفتة_البقر", "amountKg": 0.5 },
         { "name": "البصل_ابيض", "amountKg": 0.1 },
         { "name": "معدنوس", "amountKg": 0.05 }
-      ]
+      ],
+      "preparation": "اخلطي اللحم المفروم مع البصل المفروم ناعماً والبقدونس والبهارات (الكمون، الفلفل الأسود، القرفة). اعجني الخليط جيداً وشكليه على شكل أصابع أو كرات. اشوي الكفتة على الشواية أو في المقلاة حتى تنضج من جميع الجهات وتصبح ذهبية اللون."
     },
     {
       "name": "سلطة الفواكه",
@@ -78,7 +191,20 @@
         { "name": "تفاح", "amountKg": 0.2 },
         { "name": "موز", "amountKg": 0.15 },
         { "name": "عنب", "amountKg": 0.15 }
-      ]
+      ],
+      "preparation": "اغسلي التفاح وقطعيه إلى مكعبات صغيرة. قطعي الموز إلى شرائح. اغسلي العنب جيداً. اخلطي جميع الفواكه في وعاء كبير. يمكنك إضافة قليل من عصير الليمون لمنع اسمرار التفاح والموز."
+    },
+    {
+      "name": "الشباكية المغربية",
+      "category": "normal",
+      "mealType": "breakfast",
+      "ingredients": [
+        { "name": "دقيق_قمح_أبيض", "amountKg": 0.4 },
+        { "name": "زيت_زيتون", "amountKg": 0.1 },
+        { "name": "عسل", "amountKg": 0.2 },
+        { "name": "سمسم", "amountKg": 0.05 }
+      ],
+      "preparation": "اعجني الدقيق مع زيت الزيتون والماء والملح حتى تحصلي على عجينة ناعمة. افردي العجينة وقطعيها إلى شرائح واشكليها على شكل وردة. اقلي الشباكية في الزيت الساخن حتى تصبح ذهبية. اغمسيها في العسل الساخن ورشي السمسم عليها."
     },
     {
       "name": "أرز بالخضار",
@@ -88,7 +214,8 @@
         { "name": "ارز", "amountKg": 0.3 },
         { "name": "جزر", "amountKg": 0.1 },
         { "name": "بازلاء", "amountKg": 0.1 }
-      ]
+      ],
+      "preparation": "اغسلي الأرز وانقعيه لمدة 15 دقيقة. في مقلاة عميقة، اقلي الخضار (الجزر المقطع مكعبات والبازلاء). أضيفي الأرز وحركي لدقيقتين. أضيفي الماء الساخن واتركي الأرز ينضج على نار هادئة لمدة 20 دقيقة حتى يمتص الماء."
     },
     {
       "name": "سمك السردين المشوي",
@@ -98,7 +225,8 @@
         { "name": "سردين", "amountKg": 0.4 },
         { "name": "ليمون_اسفر", "amountKg": 0.05 },
         { "name": "الثوم", "amountKg": 0.02 }
-      ]
+      ],
+      "preparation": "نظفي السردين وأزيلي الأحشاء. اهرسي الثوم مع الملح والفلفل الأسود وزيت الزيتون. ادهني السمك بالخليط من الداخل والخارج. اشوي السردين على الشواية لمدة 10 دقائق من كل جهة. قدميه مع شرائح الليمون."
     },
     {
       "name": "طبق الحمص",
@@ -108,705 +236,7 @@
         { "name": "حمص", "amountKg": 0.3 },
         { "name": "الثوم", "amountKg": 0.02 },
         { "name": "ليمون_اسفر", "amountKg": 0.03 }
-      ]
-    },
-    {
-      "name": "شوربة الدجاج",
-      "category": "normal",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "دجاج", "amountKg": 0.3 },
-        { "name": "جزر", "amountKg": 0.15 },
-        { "name": "بطاطس_بيضاء", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "سلطة التبولة",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "معدنوس", "amountKg": 0.1 },
-        { "name": "طماطم", "amountKg": 0.2 },
-        { "name": "ليمون_اسفر", "amountKg": 0.05 }
-      ]
-    },
-    {
-      "name": "كسكس بالخضار",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "كسكس", "amountKg": 0.3 },
-        { "name": "جزر", "amountKg": 0.15 },
-        { "name": "كوسة", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "أومليت بالخضار",
-      "category": "diet",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "بيض", "amountKg": 0.15 },
-        { "name": "فلفل_اخضر", "amountKg": 0.08 },
-        { "name": "طماطم", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "سلطة السبانخ",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "السبانخ", "amountKg": 0.2 },
-        { "name": "طماطم", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "طاجين اللحم",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "لبقر", "amountKg": 0.4 },
-        { "name": "بطاطس_بيضاء", "amountKg": 0.2 },
-        { "name": "جزر", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "سلطة الملفوف",
-      "category": "diet",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "ملفوف", "amountKg": 0.25 },
-        { "name": "جزر", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "شوربة القرع",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "قرع", "amountKg": 0.4 },
-        { "name": "البصل_ابيض", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "سمك السلمون",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "الصومو", "amountKg": 0.3 },
-        { "name": "ليمون_اسفر", "amountKg": 0.05 }
-      ]
-    },
-    {
-      "name": "طماطم مسلوقة",
-      "category": "diet",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "طماطم", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "جزر مسلوق",
-      "category": "diet",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "جزر", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "بطاطس مسلوقة",
-      "category": "diet",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "بطاطس_بيضاء", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "فلفل محشي بالأرز",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "فلفل_اخضر", "amountKg": 0.3 },
-        { "name": "ارز", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "باذنجان مشوي",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "باذنجان", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "كوسة محشية",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "كوسة", "amountKg": 0.5 },
-        { "name": "ارز", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "سلطة البطاطس",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "بطاطس_بيضاء", "amountKg": 0.3 },
-        { "name": "معدنوس", "amountKg": 0.05 }
-      ]
-    },
-    {
-      "name": "شوربة البصل",
-      "category": "diet",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "البصل_ابيض", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "سلطة الخس",
-      "category": "diet",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "خس", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "فول مدمس",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "فول", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "عدس أصفر",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "عدس", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "أرز أبيض",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "ارز", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "لحم بقري مسلوق",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "لبقر", "amountKg": 0.5 }
-      ]
-    },
-    {
-      "name": "دجاج مسلوق",
-      "category": "diet",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "دجاج", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "سمك مشوي",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "سردين", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "قرنبيط مسلوق",
-      "category": "diet",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "قرنبيط", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "بروكلي مطبوخ",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "بروكلي", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "ملوخية خضراء",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "ملوخية", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "بازلاء مطبوخة",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "بازلاء", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "شوربة الفول",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "فول", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "لوبيا مطبوخة",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "لوبيا", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "سميد بالحليب",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "سميد", "amountKg": 0.1 },
-        { "name": "الحليب", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "تفاحة واحدة",
-      "category": "diet",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "تفاح", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "موز واحد",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "موز", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "برتقال طازج",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "برتقال", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "عنب أحمر",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "عنب", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "يوسفي حلو",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "يوسفي", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "خوخ طري",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "خوخ", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "مشمش حلو",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "مشمش", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "مانجو ناضج",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "مانجو", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "فراولة حمراء",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "فراولة", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "رمان أحمر",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "رمان", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "كيوي أخضر",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "كيوي", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "أفوكادو كريمي",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "افوكادو", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "شمام حلو",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "شمام", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "دلاح أحمر",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "دلاح", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "تين طازج",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "تين", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "تمر محشي",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "تمر", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "زبيب أسود",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "زبيب", "amountKg": 0.05 }
-      ]
-    },
-    {
-      "name": "عصير البرتقال",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "برتقال", "amountKg": 0.5 }
-      ]
-    },
-    {
-      "name": "عصير التفاح",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "تفاح", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "عصير الجزر",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "جزر", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "عصير السبانخ",
-      "category": "diet",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "السبانخ", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "عصير الرمان",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "رمان", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "عصير المانجو",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "مانجو", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "عصير الطماطم",
-      "category": "diet",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "طماطم", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "عصير الفراولة",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "فراولة", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "عصير الكيوي",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "كيوي", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "مشروب النعناع",
-      "category": "diet",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "نعناع", "amountKg": 0.05 }
-      ]
-    },
-    {
-      "name": "عصير الأفوكادو",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "افوكادو", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "شاي أخضر",
-      "category": "diet",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "شاي_أخضر", "amountKg": 0.01 }
-      ]
-    },
-    {
-      "name": "شاي أسود",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "شاي_أسود", "amountKg": 0.01 }
-      ]
-    },
-    {
-      "name": "مشروب الزنجبيل",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "زنجبيل", "amountKg": 0.02 }
-      ]
-    },
-    {
-      "name": "ليموناضة",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "ليمون_اسفر", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "عصير العنب",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "عنب", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "عصير الدلاح",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "دلاح", "amountKg": 0.5 }
-      ]
-    },
-    {
-      "name": "عصير الشمام",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "شمام", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "مشروب القرفة",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "التحميرا", "amountKg": 0.01 }
-      ]
-    },
-    {
-      "name": "شاي النعناع",
-      "category": "diet",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "شاي_النعناع", "amountKg": 0.01 }
-      ]
-    },
-    {
-      "name": "شاي الزنجبيل",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "شاي_الزنجبيل", "amountKg": 0.01 }
-      ]
-    },
-    {
-      "name": "مشروب اليانسون",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "يانسون", "amountKg": 0.01 }
-      ]
-    },
-    {
-      "name": "مشروب الحلبة",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "حلبة", "amountKg": 0.02 }
-      ]
-    },
-    {
-      "name": "حليب دافئ",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "الحليب", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "زبادي طبيعي",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "الزبادي", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "جبنة بيضاء",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "الجبنه", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "خبز بالدقيق",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "دقيق_قمح_أبيض", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "فطيرة بسيطة",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "دقيق_قمح_أبيض", "amountKg": 0.15 }
-      ]
-    },
-    {
-      "name": "عصيدة الشوفان",
-      "category": "health",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "دقيق_شوفان", "amountKg": 0.1 }
-      ]
-    },
-    {
-      "name": "مشروب الذرة",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "ذرة", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "قمح مسلوق",
-      "category": "health",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "قمح", "amountKg": 0.25 }
-      ]
-    },
-    {
-      "name": "كريفيت مسلوق",
-      "category": "health",
-      "mealType": "dinner",
-      "ingredients": [
-        { "name": "كروفيت", "amountKg": 0.2 }
-      ]
-    },
-    {
-      "name": "سمك القرش",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "القرش", "amountKg": 0.4 }
-      ]
-    },
-    {
-      "name": "ديك رومي مشوي",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "الديك_الرومي", "amountKg": 0.5 }
-      ]
-    },
-    {
-      "name": "كفتة الدجاج",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "الكفتة_دجاج", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "كفتة الديك الرومي",
-      "category": "normal",
-      "mealType": "lunch",
-      "ingredients": [
-        { "name": "الكفتة_الديك_الرومي", "amountKg": 0.3 }
-      ]
-    },
-    {
-      "name": "سكر بسيط",
-      "category": "normal",
-      "mealType": "breakfast",
-      "ingredients": [
-        { "name": "سكر_أبيض", "amountKg": 0.05 }
-      ]
+      ],
+      "preparation": "انقعي الحمص ليلة كاملة ثم اطبخيه حتى ينضج تماماً. اهرسي الحمص في الخلاط مع الثوم وعصير الليمون وزيت الزيتون والملح حتى تحصلي على قوام كريمي. قدمي الحمص مع رشة من البابريكا وزيت الزيتون."
     }
-  ]
-  
+]
