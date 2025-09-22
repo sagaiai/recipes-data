@@ -878,5 +878,30 @@
         "اخلط حتى يصبح ناعماً",
         "قدم مبرداً"
       ]
+    },
+    {
+      "id": 19,
+      "name": "سموثي الأفوكادو الصحيv",
+      "category": "health",
+      "mealType": "breakfast",
+      "description": "مشروب كريمي غني بالدهون الصحية",
+      "preparationTime": 8,
+      "cookingTime": 0,
+      "servings": 1,
+      "calories": 220,
+      "ingredients": [
+       
+        {"name": "موز", "amountKg": 0.1, "unit": "نصف حبة"},
+        
+       
+        
+      ],
+      "instructions": [
+        "اخرج لب الأفوكادو",
+        "ضع جميع المكونات في الخلاط",
+        "اخلط حتى يصبح ناعماً",
+        "قدم مبرداً"
+      ]
     }
   ]
+
