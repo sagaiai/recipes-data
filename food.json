@@ -2861,11 +2861,533 @@
       { "name": "الحليب", "amountKg": 0.25 }
     ],
     "preparation": "ضعي الحليب في إناء صغير على نار هادئة. سخنيه حتى يصبح دافئاً دون أن يغلي. اسكبيه في كوب وقدميه."
+  },
+    {
+    "name": "عجة البيض بالبصل",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "بيض", "amountKg": 0.15 },
+      { "name": "البصل_ابيض", "amountKg": 0.08 }
+    ],
+    "preparation": "اقلي البصل المقطع حتى يذبل. اخفقي البيض وأضيفيه للبصل. قلبي حتى ينضج البيض. تبلي بالملح والفلفل."
+  },
+  {
+    "name": "شوربة الطماطم البسيطة",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "طماطم", "amountKg": 0.4 },
+      { "name": "الثوم", "amountKg": 0.02 }
+    ],
+    "preparation": "اسلقي الطماطم مع الثوم. اهرسي الخليط واضيفي الملح والفلفل. أعيدي تسخينها وقدميها ساخنة."
+  },
+  {
+    "name": "أرز بالزبدة",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ارز", "amountKg": 0.3 },
+      { "name": "الزبده", "amountKg": 0.03 }
+    ],
+    "preparation": "اسلقي الأرز حتى ينضج. صفي الماء وأضيفي الزبدة. قلبي حتى تذوب الزبدة."
+  },
+  {
+    "name": "سلطة الخيار بالنعناع",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "خس", "amountKg": 0.2 },
+      { "name": "نعناع", "amountKg": 0.03 },
+      { "name": "الزبادي", "amountKg": 0.1 }
+    ],
+    "preparation": "قطعي الخس شرائح رفيعة. اخلطي الزبادي مع النعناع المفروم. أضيفي الخس للزبادي وقلبي."
+  },
+  {
+    "name": "دجاج مسلوق",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "دجاج", "amountKg": 0.5 },
+      { "name": "الملح", "amountKg": 0.01 }
+    ],
+    "preparation": "اسلقي الدجاج في الماء المغلي مع الملح لمدة 45 دقيقة. صفي الماء وقدمي الدجاج."
+  },
+  {
+    "name": "موز بالحليب",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "موز", "amountKg": 0.15 },
+      { "name": "الحليب", "amountKg": 0.2 }
+    ],
+    "preparation": "قطعي الموز واخلطيه مع الحليب في الخلاط. قدميه بارداً."
+  },
+  {
+    "name": "بطاطس مسلوقة",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "بطاطس_بيضاء", "amountKg": 0.4 },
+      { "name": "الملح", "amountKg": 0.01 }
+    ],
+    "preparation": "اسلقي البطاطس في الماء المملح حتى تنضج. صفيها وقدميها دافئة."
+  },
+  {
+    "name": "عصير التفاح الطازج",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تفاح", "amountKg": 0.3 }
+    ],
+    "preparation": "اعصري التفاح في العصارة أو اخلطيه في الخلاط وصفيه. قدميه فوراً."
+  },
+  {
+    "name": "خبز بالزيت والزعتر",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "دقيق_قمح_أبيض", "amountKg": 0.3 },
+      { "name": "زيت_زيتون", "amountKg": 0.05 }
+    ],
+    "preparation": "اعجني الدقيق بالماء والملح. افردي العجينة وادهنيها بزيت الزيتون. اخبزيها في الفرن."
+  },
+  {
+    "name": "عنب مجمد",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "عنب", "amountKg": 0.2 }
+    ],
+    "preparation": "اغسلي العنب جيداً. جففيه وضعيه في الفريزر لمدة ساعتين. قدميه كوجبة خفيفة باردة."
+  },
+  {
+    "name": "جزر مطهو بالبخار",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "جزر", "amountKg": 0.3 },
+      { "name": "الزبده", "amountKg": 0.02 }
+    ],
+    "preparation": "قطعي الجزر أصابع واطبخيه بالبخار 15 دقيقة. أضيفي الزبدة قبل التقديم."
+  },
+  {
+    "name": "شاي بالنعناع والعسل",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "شاي_أخضر", "amountKg": 0.01 },
+      { "name": "نعناع", "amountKg": 0.03 },
+      { "name": "عسل", "amountKg": 0.02 }
+    ],
+    "preparation": "انقعي الشاي والنعناع في الماء الساخن 5 دقائق. أضيفي العسل وقدميه."
+  },
+  {
+    "name": "برتقال طازج",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "برتقال", "amountKg": 0.3 }
+    ],
+    "preparation": "اعصري البرتقال واشربي العصير فوراً للحصول على أقصى فائدة من فيتامين C."
+  },
+  {
+    "name": "بيض مقلي",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "بيض", "amountKg": 0.12 },
+      { "name": "زيت_زيتون", "amountKg": 0.02 }
+    ],
+    "preparation": "سخني الزيت في المقلاة. اكسري البيض واقليه حسب الرغبة. تبلي بالملح."
+  },
+  {
+    "name": "حليب ساخن بالقرفة",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "الحليب", "amountKg": 0.25 },
+      { "name": "التحميرا", "amountKg": 0.003 }
+    ],
+    "preparation": "سخني الحليب حتى يصبح دافئاً. أضيفي القرفة وقلبي. قدميه فوراً."
+  },
+  {
+    "name": "كفتة بسيطة",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "الكفتة_البقر", "amountKg": 0.3 },
+      { "name": "البصل_ابيض", "amountKg": 0.08 }
+    ],
+    "preparation": "اخلطي اللحم مع البصل المفروم والملح. شكلي كرات واقليها حتى تنضج."
+  },
+  {
+    "name": "سلطة تفاح بالقرفة",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تفاح", "amountKg": 0.2 },
+      { "name": "التحميرا", "amountKg": 0.002 },
+      { "name": "عسل", "amountKg": 0.02 }
+    ],
+    "preparation": "قطعي التفاح مكعبات. رشي القرفة والعسل. قلبي واتركي 10 دقائق."
+  },
+  {
+    "name": "شوربة الجزر",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "جزر", "amountKg": 0.3 },
+      { "name": "البصل_ابيض", "amountKg": 0.08 }
+    ],
+    "preparation": "اسلقي الجزر مع البصل حتى ينضج. اهرسي الخليط واضيفي الملح."
+  },
+  {
+    "name": "فراولة بالسكر",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "فراولة", "amountKg": 0.2 },
+      { "name": "سكر_أبيض", "amountKg": 0.03 }
+    ],
+    "preparation": "اغسلي الفراولة وقطعيها. رشي السكر واتركي 15 دقيقة."
+  },
+  {
+    "name": "قرع مشوي",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "قرع", "amountKg": 0.3 },
+      { "name": "زيت_زيتون", "amountKg": 0.03 }
+    ],
+    "preparation": "قطعي القرع مكعبات. ادهنيه بالزيت والملح. اشويه في الفرن 30 دقيقة."
+  },
+  {
+    "name": "مانجو طازجة",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "مانجو", "amountKg": 0.2 }
+    ],
+    "preparation": "قشري المانجو وقطعيها مكعبات. قدميها باردة كوجبة خفيفة."
+  },
+  {
+    "name": "سردين مقلي",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "سردين", "amountKg": 0.3 },
+      { "name": "دقيق_قمح_أبيض", "amountKg": 0.05 }
+    ],
+    "preparation": "نظفي السردين وجففيه. غلفيه بالدقيق واقليه حتى يصبح ذهبياً."
+  },
+  {
+    "name": "زبادي بالعسل",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "الزبادي", "amountKg": 0.15 },
+      { "name": "عسل", "amountKg": 0.02 }
+    ],
+    "preparation": "ضعي الزبادي في وعاء. أضيفي العسل وقلبي. قدميه بارداً."
+  },
+  {
+    "name": "شوربة البطاطس",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "بطاطس_بيضاء", "amountKg": 0.3 },
+      { "name": "الحليب", "amountKg": 0.15 }
+    ],
+    "preparation": "اسلقي البطاطس. اهرسيها مع الحليب والملح. سخنيها وقدميها."
+  },
+  {
+    "name": "تمر بالحليب",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "تمر", "amountKg": 0.1 },
+      { "name": "الحليب", "amountKg": 0.2 }
+    ],
+    "preparation": "أزيلي نوى التمر. اخلطيه مع الحليب في الخلاط. قدميه بارداً."
+  },
+  {
+    "name": "خبز محمص بالزبدة",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "دقيق_قمح_أبيض", "amountKg": 0.1 },
+      { "name": "الزبده", "amountKg": 0.03 }
+    ],
+    "preparation": "اخبزي الخبز. حمصيه قليلاً وادهنيه بالزبدة. قدميه دافئاً."
+  },
+  {
+    "name": "عصير البطيخ",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "البتيخ_الأحمر", "amountKg": 0.4 }
+    ],
+    "preparation": "قطعي البطيخ واخلطيه في الخلاط. صفيه وقدميه بارداً مع الثلج."
+  },
+  {
+    "name": "باذنجان مقلي",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "باذنجان", "amountKg": 0.3 },
+      { "name": "دقيق_قمح_أبيض", "amountKg": 0.05 }
+    ],
+    "preparation": "قطعي الباذنجان شرائح. ملحيه واتركيه 30 دقيقة. جففيه وغلفيه بالدقيق ثم اقليه."
+  },
+  {
+    "name": "شاي أسود ساخن",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "شاي_أسود", "amountKg": 0.01 },
+      { "name": "سكر_أبيض", "amountKg": 0.02 }
+    ],
+    "preparation": "انقعي الشاي في الماء الساخن 5 دقائق. أضيفي السكر وقدميه."
+  },
+  {
+    "name": "كوسة مقلية",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "كوسة", "amountKg": 0.3 },
+      { "name": "زيت_زيتون", "amountKg": 0.04 }
+    ],
+    "preparation": "قطعي الكوسة شرائح. اقليها في زيت الزيتون حتى تصبح ذهبية."
+  },
+  {
+    "name": "عصير اليوسفي",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "يوسفي", "amountKg": 0.3 }
+    ],
+    "preparation": "اعصري اليوسفي. قدمي العصير فوراً للحصول على أقصى فائدة."
+  },
+  {
+    "name": "فلفل أخضر محشي بالأرز",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "فلفل_اخضر", "amountKg": 0.3 },
+      { "name": "ارز", "amountKg": 0.15 },
+      { "name": "طماطم", "amountKg": 0.1 }
+    ],
+    "preparation": "اسلقي الأرز. قطعي قمة الفلفل وأفرغيه. احشيه بالأرز المخلوط بالطماطم. اطبخي في الفرن."
+  },
+  {
+    "name": "خوخ طازج مقطع",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "خوخ", "amountKg": 0.2 },
+      { "name": "عسل", "amountKg": 0.015 }
+    ],
+    "preparation": "قطعي الخوخ شرائح. رشي العسل وقدميه."
+  },
+  {
+    "name": "بيض بالطماطم",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "بيض", "amountKg": 0.12 },
+      { "name": "طماطم", "amountKg": 0.15 }
+    ],
+    "preparation": "اقلي الطماطم المقطعة حتى تطرى. اكسري البيض فوقها واتركيه ينضج."
+  },
+  {
+    "name": "قرنبيط بالبخار",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "قرنبيط", "amountKg": 0.3 },
+      { "name": "ليمون_اسفر", "amountKg": 0.03 }
+    ],
+    "preparation": "قطعي القرنبيط واطبخيه بالبخار 12 دقيقة. رشي عصير الليمون والملح."
+  },
+  {
+    "name": "سلطة البنجر",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "اللفت_دائري", "amountKg": 0.2 },
+      { "name": "ليمون_اسفر", "amountKg": 0.03 }
+    ],
+    "preparation": "اسلقي البنجر وقطعيه مكعبات. تبلي بعصير الليمون والملح."
+  },
+  {
+    "name": "كريفيت مسلوق",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "كروفيت", "amountKg": 0.25 },
+      { "name": "ليمون_اسفر", "amountKg": 0.03 }
+    ],
+    "preparation": "اسلقي الكريفيت في الماء المملح 5 دقائق. قدميه مع عصير الليمون."
+  },
+  {
+    "name": "عصير الرمان الطازج",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "رمان", "amountKg": 0.3 }
+    ],
+    "preparation": "استخرجي عصير الرمان. صفيه وقدميه بارداً."
+  },
+  {
+    "name": "أفوكادو مهروس",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "افوكادو", "amountKg": 0.15 },
+      { "name": "ليمون_اخضر", "amountKg": 0.02 }
+    ],
+    "preparation": "اهرسي الأفوكادو مع عصير الليمون والملح. قدميه مع الخبز."
+  },
+  {
+    "name": "كسكس بالحليب",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "كسكس", "amountKg": 0.15 },
+      { "name": "الحليب", "amountKg": 0.2 },
+      { "name": "سكر_أبيض", "amountKg": 0.03 }
+    ],
+    "preparation": "حضري الكسكس بالطريقة العادية. أضيفي الحليب الدافئ والسكر. قدميه."
+  },
+  {
+    "name": "زبيب بالمكسرات",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "زبيب", "amountKg": 0.1 }
+    ],
+    "preparation": "انقعي الزبيب في الماء الدافئ 10 دقائق. صفيه وقدميه كوجبة خفيفة."
+  },
+  {
+    "name": "شوربة العدس السريعة",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "عدس", "amountKg": 0.2 },
+      { "name": "البصل_ابيض", "amountKg": 0.08 },
+      { "name": "كمون", "amountKg": 0.005 }
+    ],
+    "preparation": "اسلقي العدس مع البصل والكمون حتى ينضج. اهرسيه قليلاً وقدميه."
+  },
+  {
+    "name": "ملفوف مسلوق",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ملفوف", "amountKg": 0.25 },
+      { "name": "الثوم", "amountKg": 0.015 }
+    ],
+    "preparation": "قطعي الملفوف واسلقيه مع الثوم 15 دقيقة. صفيه وتبليه بالملح."
+  },
+  {
+    "name": "شاي الزنجبيل",
+    "category": "health",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "زنجبيل", "amountKg": 0.02 },
+      { "name": "عسل", "amountKg": 0.02 }
+    ],
+    "preparation": "ابشري الزنجبيل وانقعيه في الماء الساخن 10 دقائق. أضيفي العسل وقدميه."
+  },
+  {
+    "name": "سلطة الملفوف بالجزر",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "ملفوف", "amountKg": 0.15 },
+      { "name": "جزر", "amountKg": 0.1 },
+      { "name": "ليمون_اسفر", "amountKg": 0.03 }
+    ],
+    "preparation": "قطعي الملفوف رفيعاً وابشري الجزر. اخلطي مع عصير الليمون والملح."
+  },
+  {
+    "name": "بطاطس حمراء مسلوقة",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "بطاطس_حمراء", "amountKg": 0.3 },
+      { "name": "معدنوس", "amountKg": 0.02 }
+    ],
+    "preparation": "اسلقي البطاطس الحمراء. قطعيها نصفين ورشي البقدونس المفروم."
+  },
+  {
+    "name": "قرع بالعسل",
+    "category": "normal",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "قرع", "amountKg": 0.3 },
+      { "name": "عسل", "amountKg": 0.03 },
+      { "name": "التحميرا", "amountKg": 0.003 }
+    ],
+    "preparation": "اشوي القرع في الفرن. ادهنيه بالعسل والقرفة قبل التقديم."
+  },
+  {
+    "name": "سمك القرش المشوي",
+    "category": "normal",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "القرش", "amountKg": 0.3 },
+      { "name": "ليمون_اسفر", "amountKg": 0.04 },
+      { "name": "الثوم", "amountKg": 0.02 }
+    ],
+    "preparation": "تبلي السمك بالثوم والليمون. اشويه 15 دقيقة من كل جهة."
+  },
+  {
+    "name": "جبنة بالزيتون",
+    "category": "normal",
+    "mealType": "breakfast",
+    "ingredients": [
+      { "name": "الجبنه", "amountKg": 0.1 },
+      { "name": "زيت_زيتون", "amountKg": 0.02 }
+    ],
+    "preparation": "قطعي الجبن مكعبات. ادهنيه بزيت الزيتون وقدميه."
+  },
+  {
+    "name": "شاي الياسمين",
+    "category": "health",
+    "mealType": "dinner",
+    "ingredients": [
+      { "name": "شاي_الياسمين", "amountKg": 0.012 },
+      { "name": "عسل", "amountKg": 0.02 }
+    ],
+    "preparation": "انقعي الشاي 5 دقائق. أضيفي العسل وقدميه دافئاً."
+  },
+  {
+    "name": "فلفل أحمر محمص",
+    "category": "health",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "فلفل_احمر", "amountKg": 0.2 },
+      { "name": "زيت_زيتون", "amountKg": 0.02 }
+    ],
+    "preparation": "اشوي الفلفل في الفرن حتى يصبح طرياً. قشريه وادهنيه بالزيت."
+  },
+  {
+    "name": "بازلاء مسلوقة",
+    "category": "diet",
+    "mealType": "lunch",
+    "ingredients": [
+      { "name": "بازلاء", "amountKg": 0.2 },
+      { "name": "الزبده", "amountKg": 0.02 }
+    ],
+    "preparation": "اسلقي البازلاء 10 دقائق. صفيها وأضيفي الزبدة."
   }
 
     ]
   
   
+
 
 
 
